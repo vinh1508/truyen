@@ -191,6 +191,24 @@
       font-size: 14px;
     }
 
+    .load-progress {
+      height: 4px;
+      background: var(--accent-soft);
+      border-bottom: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .load-progress[hidden] {
+      display: none;
+    }
+
+    .load-progress-bar {
+      width: 0;
+      height: 100%;
+      background: var(--accent);
+      transition: width 160ms ease;
+    }
+
     .nav {
       display: flex;
       gap: 8px;
@@ -337,6 +355,9 @@
             <button class="nav-button" id="nextBtn">Sau</button>
           </div>
         </div>
+        <div class="load-progress" id="loadProgress" hidden aria-hidden="true">
+          <div class="load-progress-bar" id="loadProgressBar"></div>
+        </div>
         <article id="content">
           <p class="empty">Chọn một chương để bắt đầu đọc.</p>
         </article>
@@ -350,6 +371,7 @@
         id: "vong-du-tu-vong-vo-hiep",
         title: "Vong Du Tu Vong Vo Hiep",
         path: "vong-du-tu-vong-vo-hiep/",
+        manifest: "chapters.json",
         chapters: [
           ...range(1327, 1399).map(n => `Chuong_${n}.md`),
           "Chuong_1440_1442.md",
@@ -362,7 +384,8 @@
       story: stories[0],
       chapters: [],
       current: -1,
-      query: ""
+      query: "",
+      loadToken: 0
     };
 
     const els = {
@@ -373,6 +396,8 @@
       search: document.getElementById("search"),
       storySelect: document.getElementById("storySelect"),
       folderInput: document.getElementById("folderInput"),
+      loadProgress: document.getElementById("loadProgress"),
+      loadProgressBar: document.getElementById("loadProgressBar"),
       themeToggle: document.getElementById("themeToggle"),
       menuToggle: document.getElementById("menuToggle"),
       prevBtn: document.getElementById("prevBtn"),
@@ -431,44 +456,66 @@
     }
 
     async function loadServerChapters() {
-      const loaded = [];
-      for (const name of state.story.chapters) {
-        try {
-          const path = chapterPath(name);
-          const response = await fetch(path, { cache: "no-store", credentials: "same-origin" });
-          if (!response.ok) {
-            console.warn(`Không tải được ${path}: ${response.status}`);
-            continue;
-          }
-          const text = await response.text();
-          loaded.push(makeChapter(name, text, null, path));
-        } catch (error) {
-          console.warn(`Không tải được ${name}`, error);
-          continue;
-        }
-      }
+      const loadToken = ++state.loadToken;
 
-      if (loaded.length) {
-        setChapters(loaded);
-        const last = localStorage.getItem(`reader-last-chapter:${state.story.id}`);
-        const initial = Math.max(0, loaded.findIndex(ch => ch.name === last));
-        openChapter(initial);
-      } else {
-        setChapters(state.story.chapters.map(name => ({
-          name,
-          title: cleanTitle(name),
-          text: "",
-          path: chapterPath(name)
-        })));
-        els.status.textContent = "Không tự tải được chương. Kiểm tra GitHub Pages đã deploy file .md, hoặc chọn thư mục chứa chương.";
+      els.content.innerHTML = `<p class="empty">Đang tải danh sách chương...</p>`;
+      setLoadingProgress(35, 100, "Đang tải danh sách chương...");
+
+      try {
+        const response = await fetch(manifestPath(), { cache: "no-store", credentials: "same-origin" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const manifest = await response.json();
+        if (loadToken !== state.loadToken) return;
+
+        const chapters = Array.isArray(manifest.chapters) ? manifest.chapters : [];
+        setLoadingProgress(100, 100, "Đã tải danh sách chương");
+        hideLoadingProgress();
+        setChapters(chapters.map(makeChapterFromMeta));
+      } catch (error) {
+        console.warn("Không tải được manifest chương", error);
+        if (loadToken !== state.loadToken) return;
+
+        hideLoadingProgress();
+        setChapters(state.story.chapters.map(name => makeChapterFromMeta({ name })));
+        els.status.textContent = `${state.story.title} · ${state.chapters.length} chương · dùng tiêu đề từ tên file`;
       }
+    }
+
+    function makeChapterFromMeta(meta) {
+      return {
+        name: meta.name,
+        title: meta.title || cleanTitle(meta.name),
+        text: "",
+        file: null,
+        path: chapterPath(meta.name)
+      };
+    }
+
+    function setLoadingProgress(done, total, message) {
+      const percent = total ? Math.round((done / total) * 100) : 0;
+      els.status.textContent = message;
+      els.loadProgress.hidden = false;
+      els.loadProgress.setAttribute("aria-hidden", "false");
+      els.loadProgressBar.style.width = `${Math.min(100, Math.max(0, percent))}%`;
+    }
+
+    function hideLoadingProgress() {
+      els.loadProgress.hidden = true;
+      els.loadProgress.setAttribute("aria-hidden", "true");
+      els.loadProgressBar.style.width = "0";
     }
 
     function chapterPath(name) {
       return new URL(`${state.story.path}${name}`, document.baseURI).href;
     }
 
+    function manifestPath() {
+      return new URL(`${state.story.path}${state.story.manifest || "chapters.json"}`, document.baseURI).href;
+    }
+
     async function handleFolder(event) {
+      state.loadToken += 1;
+      hideLoadingProgress();
       const files = Array.from(event.target.files)
         .filter(file => /\.md$|\.markdown$/i.test(file.name))
         .sort((a, b) => a.name.localeCompare(b.name, "vi", { numeric: true }));
@@ -498,6 +545,7 @@
       state.chapters = chapters;
       state.current = -1;
       els.status.textContent = `${state.story.title} · ${chapters.length} chương`;
+      els.content.innerHTML = `<p class="empty">Chọn một chương để bắt đầu đọc.</p>`;
       renderChapterList();
       updateNav();
     }
@@ -539,15 +587,26 @@
     async function openChapter(index) {
       const chapter = state.chapters[index];
       if (!chapter) return;
+      const loadToken = ++state.loadToken;
 
       if (!chapter.text) {
         try {
+          setLoadingProgress(40, 100, `Đang tải ${chapter.name}...`);
+          els.status.textContent = `Đang tải ${chapter.name}...`;
+          els.content.innerHTML = `<p class="empty">Đang tải ${escapeHtml(chapter.name)}...</p>`;
           const response = await fetch(chapter.path || chapter.name, { cache: "no-store" });
-          chapter.text = await response.text();
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const text = await response.text();
+          if (loadToken !== state.loadToken) return;
+          setLoadingProgress(100, 100, `Đã tải ${chapter.name}`);
+          chapter.text = text;
           chapter.title = makeChapter(chapter.name, chapter.text).title;
         } catch (error) {
+          hideLoadingProgress();
           els.content.innerHTML = `<p class="empty">Không thể tự tải ${escapeHtml(chapter.name)}. Hãy chọn thư mục chứa file .md ở sidebar.</p>`;
           return;
+        } finally {
+          if (loadToken === state.loadToken) hideLoadingProgress();
         }
       }
 
