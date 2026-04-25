@@ -138,3 +138,12 @@
 | 杂念太多 | Tạp niệm quá nhiều | Tâm cảnh không thuần, chướng ngại lớn trong việc đột phá đại cảnh giới |
 | 翻桌子 | Lật bàn | Hành động phá vỡ thế cân bằng, tuyên chiến hoặc bộc phát xung đột toàn diện |
 | 灵宝 | Linh Bảo | Cấp bậc bảo vật cao nhất, chỉ Nguyên Anh cảnh đại năng hoặc đại tông sư mới có cơ hội rèn đúc |
+| 结丹真人 / 元婴大佬 | Kết Đan chân nhân / Nguyên Anh đại năng | Tu sĩ cao cấp, tôn xưng theo cảnh giới |
+| 储物袋 / 储物匣 | Trữ Vật Đại / Trữ Vật Hạp | Túi/hộp không gian chứa linh thạch, pháp bảo, đan dược |
+| 有价无市 | Hữu giá vô thị | Vật phẩm cực kỳ quý hiếm, có tiền cũng khó mua được |
+| 本命法宝 | Bản mệnh pháp bảo | Pháp bảo gắn liền với huyết mạch/sinh mệnh tu sĩ, hư thì tổn thọ |
+| 献祭精血 | Hiến tế tinh huyết | Nghi thức dùng máu本源 để kích hoạt hoặc duy trì bảo vật |
+| 符宝 | Phù bảo | Phù lục ngưng tụ uy năng pháp bảo, dùng một lần hoặc giới hạn lần |
+| 五帝钱 / 九节杖 | Ngũ Đế Tiền / Cửu Tiết Trượng | Pháp bảo hệ trấn tà/trị quỷ, thường dùng trong trận pháp hoặc chế tà |
+| 隐姓埋名 / 改头换面 | Ẩn tính mai danh / Cải trang dịch dung | Kỹ thuật che giấu khí tức, thay đổi tướng mạo để trà trộn |
+| 身家 / 家底 | Gia để / Tài sản | Tổng giá trị linh thạch, pháp bảo, đan dược mà tu sĩ sở hữu |

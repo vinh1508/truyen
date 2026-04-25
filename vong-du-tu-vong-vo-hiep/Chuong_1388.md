@@ -1,4 +1,4 @@
-# 🗡️ Chương 1388: Ba座据点 (Bùng nổ - Chương thứ sáu)
+# 🗡️ Chương 1388: Ba Tòa Cứ Điểm (Bùng nổ - Chương thứ sáu)
 
 ---
 
@@ -36,7 +36,7 @@ Hai người nhìn thấy Vong Xuyên, cùng lộ nụ cười:
 
 Rất rõ ràng, Trần Thanh Tùng cũng vừa mới đến không lâu.
 
-Vong Xuyên cùng hai người đã quen thuộc, không cần duy trì nhân設 cao lãnh của mình, ngồi xuống蒲团 bên cạnh, nói:
+Vong Xuyên cùng hai người đã quen thuộc, không cần duy trì thiết lập cao lãnh của mình, ngồi xuống bồ đoàn bên cạnh, nói:
 
 > "Đại sư huynh, sư tỷ..."
 
@@ -52,7 +52,7 @@ Chu Ngưu Dung đem chuyện trong này đơn giản nói một lần, sau đó 
 
 > "Ác Quỷ Điện hiện tại khống chế chợ Vùng Đầm Vân Trạch, không những tiến vào hơn một trăm tu sĩ Trúc Cảnh, đồng thời, an bài ba vị tu sĩ Kết Đan thường trú, hiện tại các thế lực đều dám giận không dám nói, đã lần lượt chuẩn bị vòng đường, đi đến nơi xa hơn thử vận."
 
-> "Vùng Đầm Vân Trạch có hơn ngàn dặm, Ác Quỷ Điện chỉ là đóng cứ ở một座据点 mà thôi, chúng ta đi vòng, từ nơi khác tiến vào Vùng Đầm Vân Trạch không phải được sao?"
+> "Vùng Đầm Vân Trạch có hơn ngàn dặm, Ác Quỷ Điện chỉ là đóng cứ ở một tòa cứ điểm mà thôi, chúng ta đi vòng, từ nơi khác tiến vào Vùng Đầm Vân Trạch không phải được sao?"
 
 Vong Xuyên thuận miệng một câu, thu hút nụ cười khổ của Trần Thanh Tùng.
 
@@ -64,11 +64,11 @@ Trần Thanh Tùng nói:
 
 > "Đúng."
 
-Chu Ngưu Dung trực tiếp từ储物袋 lấy ra một份 địa đồ, mở ra trải trên đất.
+Chu Ngưu Dung trực tiếp từ túi trữ vật lấy ra một phần địa đồ, mở ra trải trên đất.
 
-> "Chúng ta bên này, là bởi vì tích lũy nhiều năm tấn công, mở ra khe hở... Và c�� tu sĩ Kết Đan đi vào bên trong dò xét... Biết bên trong đại khái có những loại yêu quái nào."
+> "Chúng ta bên này, là bởi vì tích lũy nhiều năm tấn công, mở ra khe hở... Và có tu sĩ Kết Đan đi vào bên trong dò xét... Biết bên trong đại khái có những loại yêu quái nào."
 
-> "Hướng khác, đại bộ phận ít người đặt chân, mỗi lần thám hiểm, đều cần lấy tính mạng người ta để拼, đi tiêu hao..."
+> "Hướng khác, đại bộ phận ít người đặt chân, mỗi lần thám hiểm, đều cần lấy tính mạng người ta ra liều, đi tiêu hao..."
 
 > "Rất nhiều nơi, theo như lời tồn tại đàn yêu quái, thậm chí là tam hung!"
 
@@ -86,7 +86,7 @@ Lúc này, Trần Thanh Tùng mở miệng:
 
 > "Thật ra trong môn phái, hiện tại cũng rất tức giận."
 
-> "Vân Lam Phong phong chủ Lưu Truyền Hùng, vì một bản thân của mình, đưa toàn bộ môn phái vào cảnh nguy hiểm, khiến Hắc Quỷ Tông tìm được lý do, đem据点 đóng gốc cách môn phái không đến ba nghìn dặm!"
+> "Vân Lam Phong phong chủ Lưu Truyền Hùng, vì một bản thân của mình, đưa toàn bộ môn phái vào cảnh nguy hiểm, khiến Hắc Quỷ Tông tìm được lý do, đem cứ điểm đóng gốc cách môn phái không đến ba nghìn dặm!"
 
 > "Nhiều người nói Lưu Truyền Hùng thất thố!"
 
@@ -98,11 +98,11 @@ Lời ác đồi Chân Nhân Kết Đan, hắn không dám nói...
 
 Huống chi người gây ra là bản thân.
 
-Lão老实本分 nghe là được.
+Hắn cứ thật thà an phận nghe là được.
 
 Chu Ngưu Dung theo lời nói tiếp:
 
-> "Môn phái đã bố trí ba座据点 phòng tuyến ở hướng Vùng Đầm Vân Trạch, tăng thêm năm đội tuần tra, ngày đêm không ngừng tuần tra hướng này."
+> "Môn phái đã bố trí ba tòa cứ điểm phòng tuyến ở hướng Vùng Đầm Vân Trạch, tăng thêm năm đội tuần tra, ngày đêm không ngừng tuần tra hướng này."
 
 > "Vốn dĩ đã thiếu nhân thủ, hiện tại lại tăng thêm nhiệm vụ phòng ngự, nhiệm vụ môn phái càng ngày càng nặng!"
 
@@ -124,7 +124,7 @@ Hiện tại Chu Ngưu Dung có khó khăn, hắn tự nhiên không thể từ 
 
 Vong Xuyên mắt xoay chuyển, nói:
 
-> "Ta đúng lúc cũng có việc nhờ sư tỷ giúp, sư tỷ giúp ta thu mua một nhóm kim loại linh tính, cần 秘银, 玄铁, 寒髓..."
+> "Ta đúng lúc cũng có việc nhờ sư tỷ giúp, sư tỷ giúp ta thu mua một nhóm kim loại linh tính, cần bí ngân, huyền thiết, hàn tủy..."
 
 > "Lại đến nhập hàng?"
 
@@ -142,7 +142,7 @@ Chu Ngưu Dung thở dài:
 
 > "Nhưng ta đây đúng lúc có một nhiệm vụ môn phái rất cấp bách!"
 
-> "Cần an bài ít nhất năm vị tu sĩ Trúc Cảnh, dẫn năm mươi đệ tử ngoại môn Luyện Khí kỳ, đi tham gia nhiệm vụ phòng thủ và tuần tra một trong ba座据点 Vùng Đầm Vân Trạch."
+> "Cần an bài ít nhất năm vị tu sĩ Trúc Cảnh, dẫn năm mươi đệ tử ngoại môn Luyện Khí kỳ, đi tham gia nhiệm vụ phòng thủ và tuần tra một trong ba tòa cứ điểm Vùng Đầm Vân Trạch."
 
 Vong Xuyên, Trần Thanh Tùng đồng thời nhìn nhau.
 
@@ -186,7 +186,7 @@ Hai người đồng ý.
 
 Chu Ngưu Dung lộ vẻ vui mừng, nhanh chóng lấy ra truyền phù:
 
-> "Các ngươi đồng ý, vậy nhiệm vụ liền thành, ta liên hệ Lâm Nam Thiên, Giang Nguy, Trần Thiên Kỳ, các ngươi dù sao đều từng组队 đi Vùng Đầm Vân Trạch, có kinh nghiệm组队 thi hành nhiệm vụ, ăn ý không thành vấn đề, liền do các ngươi组队 đi."
+> "Các ngươi đồng ý, vậy nhiệm vụ liền thành, ta liên hệ Lâm Nam Thiên, Giang Nguy, Trần Thiên Kỳ, các ngươi dù sao đều từng lập đội đi Vùng Đầm Vân Trạch, có kinh nghiệm lập đội thi hành nhiệm vụ, ăn ý không thành vấn đề, liền do các ngươi lập đội đi."
 
 Ba người rất nhanh hẹn.
 
