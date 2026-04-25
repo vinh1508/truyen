@@ -3,8 +3,6 @@ set -eu
 
 repo_root=$(git rev-parse --show-toplevel)
 cd "$repo_root"
-remote_name=${1:-origin}
-current_branch=$(git symbolic-ref --quiet --short HEAD || true)
 
 before=$(mktemp)
 after=$(mktemp)
@@ -30,22 +28,9 @@ for path in sorted(Path("truyen").glob("*/chapters.json")):
 PY
 
 if ! cmp -s "$before" "$after"; then
-  echo
-  echo "chapters.json changed after generation."
-  echo "Committing story files and generated manifests before pushing."
-  echo
+  echo "Committing story files and generated manifests..."
   git add truyen
   git commit -m "chore: update story chapters"
-
-  if [ -n "$current_branch" ]; then
-    echo
-    echo "Generated commit was created."
-    echo "Run git push again to push the new commit."
-    exit 1
-  fi
-
-  echo
-  echo "Generated manifest commit was created, but current HEAD is detached."
-  echo "Push manually from the target branch."
-  exit 1
 fi
+
+git push "$@"
