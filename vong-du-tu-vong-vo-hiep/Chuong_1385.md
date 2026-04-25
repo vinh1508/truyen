@@ -1,209 +1,215 @@
-# 🗡️ Chương 1385: Sự Việc Lớn (Bùng nổ - Chương thứ ba)
+# 🗡️ Chương 1385: Sự Việc Bất Ổn *(Bùng Nổ - Chương Thứ Ba)*
+
+> *“Ầm!!!”*
+
+Cột hỏa quang bốc cao, hỏa diễm lan tỏa diện rộng, uy thế chẳng khác nào toàn lực một kích của **Trúc Cơ đỉnh phong** tu sĩ, triệt để trấn áp khu vực *Quần Mộc Cấm Cố* phụ cận, đồng thời khiến uy năng của *Ngưng Băng Châu* bị kiềm chế.
+
+Thế nhưng, sau làn hỏa lãng, đại lượng huyết vũ hắc sắc bay tới, hung hăng oanh kích lên hộ tráo phòng ngự bên ngoài thân thể hắn.
+
+Phó Nhuệ Kiệt hừ khẽ, trong mắt lóe lên vẻ kinh hoàng cùng phẫn nộ:
+> *“Hắc Huyết Chú Pháp!”*
+> *“Ngươi là người của Hắc Ngẫu Tông…”*
+
+Lời còn chưa dứt.
+
+Nửa bên vai khoảnh khắc bị băng hàn xâm thực, câu nói tới cửa miệng, cứng đờ mắc kẹt trong yết hầu.
+
+Tiểu Bạch vẫn loanh quanh trong phạm vi *Ngưng Băng Châu*, rốt cuộc cũng bắt được sát cơ, một kích tất sát, đem *Hàn Băng Chi Xúc* hung hăng vỗ lên thân Phó Nhuệ Kiệt.
+
+Hắn khó tin quay đầu, chỉ thấy một đầu linh thú dáng vẻ khả ái nhưng khí tức lại cực kỳ hung lệ.
+
+**Phi Thiên Tuyết Điêu!**
+
+Ngươi là…
+
+Phó Nhuệ Kiệt tròng mắt muốn nứt.
+
+Hắn rốt cuộc cũng minh bạch thân phận người đến.
+
+Phi Thiên Tuyết Điêu do Các Chủ Ngự Thú Các thân tự xuất bán, từng bị chúng đa linh phong tranh cầu, kết quả lại rơi vào Thanh Hạc Phong, trở thành chiến đấu linh thú của thiên tài đệ nhất Luyện Khí kỳ — **Vong Xuyên**.
+
+Người đến, chính là…
+
+**Vong Xuyên!**
+
+Trước khi đạo tiêu, Phó Nhuệ Kiệt nhớ lại lần đầu tương kiến với Vong Xuyên.
+
+Đối phương nhược tiểu như kiến cỏ.
+
+Lần cuối tương phùng…
+
+Hắn quát mắng, đối phương chỉ dám giận không dám nói.
+
+Không ngờ rằng.
+
+Bản thân hắn, lại sẽ thân tử đạo tiêu dưới tay đối phương.
+
+Linh hồn đông cứng trong xác thịt.
+
+Tiếp theo, bị một đạo thuật thức phong ấn triệt để.
+
+Nhục thân cùng nguyên thần của Phó Nhuệ Kiệt, bị giam cầm trong băng giá.
 
 ---
 
-Ộ——!!!
+Vong Xuyên không dám chậm trễ, tay kết pháp quyết, nhanh chóng bố trí một tòa **Ngũ Hành Trận Pháp**.
 
-Cột lửa, bộc phát diện tích lớn ngọn lửa, như một kích toàn lực của tu sĩ Trúc Cảnh đỉnh phong, triệt để trấn áp phương viên gần, đồng thời khiến uy năng Ngưng Băng Châu bị kiềm chế.
+*Thính âm biện vị!*
 
-Nhưng sau làn sóng lửa, đại lượng giọt mưa hắc huyết bay đến, hung hăng đánh nát hộ tráo phòng hộ bên ngoài thân thể hắn.
+Phương viên mười dặm, tịnh vô nhất nhân!
 
-Phó Nguyệt Kiệt rên khẽ, mắt hiện kinh hoàng phẫn nộ:
+Vong Xuyên từ Trữ Vật Đại lấy ra một chiếc ngọc bình.
 
-> "Ác huyết chú pháp!"
+**Uế Thổ Hắc Huyết.**
 
-> "Ngươi là Hắc Quỷ Tông..."
+Hắn lập tức thôi động thuật pháp chế tạo **Hắc Huyết Mộc Khôi**, lấy Uế Thổ Hắc Huyết làm dẫn tử, trực tiếp đánh vào nhục thân Phó Nhuệ Kiệt.
 
-Lời còn chưa nói xong.
+Đây là cơ hội trời cho.
 
-Nửa bên vai trong nháy mắt bị đóng băng, đến miệng lời, cứng rắn mắc trong cổ họng.
+Nguyên thần Phó Nhuệ Kiệt vị diệt, chính là thiên tài địa liệu tốt nhất để luyện chế **Nhân Hình Mộc Khôi**.
 
-Tiểu Bạch vẫn bay lượn trong phạm vi Ngưng Băng Châu, cuối cùng tìm được cơ hội một kích tất sát, đem Hàn Băng chi xúc vỗ lên thân Phó Nguyệt Kiệt.
+Trúc Cơ đỉnh phong Nhân Hình Mộc Khôi, giá trị thế nào, không cần phải nói.
 
-Người sau không dám tin quay đầu, thấy một đầu linh thú dáng vẻ đáng yêu nhưng lại cực kỳ hung mãnh.
+Phó Nhuệ Kiệt tuy bị ba vị Ác Quỷ Điện tu sĩ vây công, nhưng người này linh lực hùng hậu, bí thuật thâm ảo, thủ đoạn pháp thuật đều không hề tầm thường, ít nhất cũng vượt xa mọi Trúc Cơ tu sĩ mà hắn từng gặp.
 
-Phi Thăng Tuyết Điều!
+Luyện chế một vị cường giả như vậy thành Mộc Khôi, mang theo bên người, tuyệt đối là át chủ bài kinh thiên tại Trúc Cơ cảnh.
 
-Ngươi là...
+Thủ pháp Vong Xuyên thuần thục như lão luyện.
 
-Phó Nguyệt Kiệt tròng mắt trợn tròn.
+Nhanh chóng hoàn thành luyện chế, sau đó thay bào phục của Phó Nhuệ Kiệt bằng hắc bào tu sĩ Ác Quỷ Điện.
 
-Hắn đã biết người đến là ai.
+Hoàn tất mọi việc, hắn mới đem thi thể ném vào Trữ Vật Đại chuyên dụng chứa Hắc Huyết Thú Mộc Khôi.
 
-Phi Thăng Tuyết Điều bán ra bởi các chủ Ngự Thú Các, từng bị các đại linh phong cầu xin, kết quả cuối cùng rơi vào Thanh Hạc Phong, trở thành linh thú chiến đấu của thiên tài đệ nhất Luyện Khí kỳ Vong Xuyên.
+Đối với thi thể đám tu sĩ Ác Quỷ Điện.
 
-Người đến là...
+Vong Xuyên cũng không buông tha, thu thập sạch sẽ mang đi.
 
-Vong Xuyên!
+Lúc này không kịp kiểm kê chiến lợi phẩm, hắn lập tức vận công khôi phục linh lực, thi triển Dịch Dung Thuật ngụy trang, thu hồi trận kỳ, khoác lên **Tỏa Linh Phi Phong**, lặng lẽ rời khỏi Vân Trạch Thấp Địa.
 
-Phó Nguyệt Kiệt trước khi chết, nghĩ đến lần gặp đầu tiên với Vong Xuyên.
+---
 
-Đối phương yếu như con kiến.
+Trảm sát Phó Nhuệ Kiệt, nhiệm vụ lần này coi như viên mãn.
 
-Lần gặp cuối cùng...
+Còn bốn vị Vân Lam Phong tu sĩ ngoài kia, đang cùng Yêu Thứu Thú giằng co.
 
-Hắn mở miệng quở trách, đối phương dám giận không dám nói.
+Sống chết thế nào, mặc kệ hắn.
 
-Không ngờ.
+Bốn người này nếu táng thân Vân Trạch, vừa vặn xóa sạch tung tích.
 
-Bản thân cư nhiên sẽ chết trong tay hắn.
+Nếu có kẻ trốn về tông, tin tức truyền đến Vân Lam Phong, cũng chỉ là “gặp phải Ác Quỷ Điện tu sĩ tập kích” mà thôi.
 
-Linh hồn đông cứng trong thân thể.
+Vân Lam Phong Phong Chủ Liễu Truyền Hùng, dù phẫn nộ tột độ, cũng chỉ có thể đem huyết hải thâm thù này, ghi vào sổ Ác Quỷ Điện.
 
-Tiếp theo, bị một đạo thuật thức phong ấn.
+**Hoàn mỹ vô khuyết!**
 
-Thân thể Phó Nguyệt Kiệt, cùng linh hồn bị phong ấn.
+Nhưng vì vạn toàn.
 
-Vong Xuyên nhanh chóng bố trí một tòa ngũ hành pháp trận.
+Trước khi hồi tông, Vong Xuyên tìm một thạch động u tĩnh, lấy Trữ Vật Đại của Phó Nhuệ Kiệt ra, cẩn thận tra xét, xem bên trong có ẩn tàng lưu ảnh hay truy tung bí thuật gì không.
 
-Dựng lỗ tai!
-
-Phương viên mười dặm, không người!
-
-Vong Xuyên từ túi trữ vật lấy ra một cái vò.
-
-Uế Thổ Hắc Huyết.
-
-Vong Xuyên lập tức bố trí một đạo thuật pháp làm Hắc Huyết mộc khôi, lấy Uế Thổ Hắc Huyết làm dẫn, đánh vào thân thể Phó Nguyệt Kiệt.
-
-Đây là cơ hội rất tốt.
-
-Linh hồn Phó Nguyệt Kiệt chưa diệt, chính là vật liệu tốt nhất chế tạo Hắc Huyết nhân hình mộc khôi.
-
-Tu vi Trúc Cảnh đỉnh phong nhân hình mộc khôi, giá trị tự nhiên không cần nói.
-
-Phó Nguyệt Kiệt dù là dựa vào đại lượng pháp bảo, phù bảo trấn áp ba vị tu sĩ Ác Quỷ Điện, nhưng người này quy mô linh lực, bí thuật, thủ pháp pháp thuật đều không yếu, ít nhất so với bất kỳ tu sĩ Trúc Cảnh nào hắn từng thấy đều mạnh.
-
-Đem một vị tu sĩ như vậy luyện chế thành nhân hình mộc khôi, giữ bên người, có thể trở thành một lá bài át trong Trúc Cảnh kỳ.
-
-Vong Xuyên thủ pháp thuần thục.
-
-Nhanh chóng luyện chế xong, sau đó thay quần áo Phó Nguyệt Kiệt bằng pháp y tu sĩ Ác Quỷ Điện.
-
-Hoàn thành động tác trên, mới đem người ném vào túi trữ vật chuyên môn chứa Hắc Huyết thú mộc khôi.
-
-Thi thể Ác Quỷ Điện.
-
-Vong Xuyên cũng không quên, toàn bộ thu thập mang đi.
-
-Lúc này không kịp thu thập kiểm tra túi trữ vật, lập tức khôi phục linh lực, sau đó dịch dung ngụy trang, thu pháp trận, khoác Tọa Linh Phi Lê, rời Vùng Đầm Vân Trạch.
-
-Chém chết Phó Nguyệt Kiệt, nhiệm vụ lần này viên mãn hoàn thành.
-
-Tuy Vùng Đầm Vân Trạch còn có bốn tu sĩ Vân Lam Phong, đang cùng Yêu Điêu Thú giằng co.
-
-Cùng hắn vô quan.
-
-Bốn người này chết ở Vùng Đầm Vân Trạch, vừa lúc tiêu hủy chứng cứ.
-
-Bốn người nếu trốn về môn, tin tức mang về Vân Lam Phong, cũng chỉ là gặp phải tu sĩ Ác Quỷ Điện tập kích mà thôi.
-
-Vân Lam Phong phong chủ Lưu Truyền Hùng, chỉ có thể ghi món nợ huyết này vào đầu Ác Quỷ Điện.
-
-Hoàn mỹ!
-
-Nhưng vì cẩn thận.
-
-Vong Xuyên trước khi quay về môn phái, tìm một chỗ yên tĩnh, đem túi trữ vật Phó Nguyệt Kiệt lấy ra, cẩn thận kiểm tra, xem bên trong có giấu bí thuật Lưu Truyền Hùng, Phó Nguyệt Kiệt hay không.
-
-Với năng lực trận pháp sư lâu năm của hắn, nhận ra những thủ đoạn này, vẫn là tương đối dễ dàng.
+Với tu vi trận pháp sư thâm hậu, hắn nhận ra những thủ đoạn này, chẳng khác nào trở bàn tay.
 
 Quả nhiên!
 
-Trong túi trữ vật phát hiện một tấm định vị phù đặc chế.
+Trong Trữ Vật Đại phát hiện một tấm **Định Vị Phù** chế tác đặc thù.
 
-Xé nát.
+Vung tay xé nát.
 
-Trên tai Phó Nguyệt Kiệt, mang một đôi khuyên tai.
+Trên tai Phó Nhuệ Kiệt, đeo một đôi khuyên tai.
 
-Trên khuyên tai khắc họa một tòa trận pháp truy tung cùng phong ấn khí tức.
+Trên khuyên tai khắc họa một tòa **Truy Tung Trận Pháp** cùng **Khí Tức Phong Ấn**.
 
-Lưu Truyền Hùng quả nhiên ở trên đại đồ đệ tử này có một số thủ đoạn truy tung.
+Liễu Truyền Hùng quả nhiên trên đại đồ đệ này, lưu lại không ít thủ đoạn.
 
-Vong Xuyên suy nghĩ nhiều lần, bố trí trận, trực tiếp phá hư khuyên tai, đồng thời đem khí tức phong ấn bên trong triệt để hủy diệt.
+Vong Xuyên trầm tư giây lát, bố trí trận pháp, trực tiếp oanh bạo khuyên tai, đồng thời đem khí tức phong ấn bên trong triệt để hủy diệt.
 
-Hoàn thành toàn bộ hành động loại trừ nguy hiểm, hắn mới quay về Trấn Ma Động, về động phủ bế quan tu luyện.
+Hoàn thành toàn bộ thiện hậu công tác, hắn mới quay về Trấn Ma Động, tiến nhập động phủ bế quan tu luyện.
 
-Trong kỳ tu luyện.
+---
 
-Quả nhiên Vân Lam Phong phong chủ phẫn nộ.
+Trong lúc bế quan.
 
-Đệ tử quay về linh phong bẩm báo tin tức bọn họ ở Vùng Đầm Vân Trạch gặp tu sĩ Ác Quỷ Điện 'Bạch Hồi Hý Nhân' 'Tử Linh Nữ' tập kích, khiến hai vị sư đệ tử vong, khiến đại sư huynh tin tức không rõ.
+Quả nhiên, Vân Lam Phong truyền ra chấn động.
 
-Vân Lam Phong phong chủ Lưu Truyền Hùng nhanh chóng phát giác, Phó Nguyệt Kiệt đã chết!
+Phong chủ Liễu Truyền Hùng phẫn nộ tột cùng.
 
-Vị đại đồ đệ được kỳ vọng lớn, sắp đột phá Kết Đan, cư nhiên tử vong ở Vùng Đầm Vân Trạch.
+Đệ tử hồi tông bẩm báo, đội ngũ tại Vân Trạch Thấp Địa bị Ác Quỷ Điện tu sĩ ‘Hắc Bạch Hí Tử’, ‘Ác Linh Nữ’ tập kích, hai vị sư đệ thân tử, đại sư huynh sinh tử bất minh.
 
-Lưu Truyền Hùng hoàn toàn bạo nộ!
+Liễu Truyền Hùng nhanh chóng suy diễn ra, Phó Nhuệ Kiệt… đã chết!
 
-Thời gian đầu chạy đến Vùng Đầm Vân Trạch...
+Vị đại đồ đệ được ký vọng trùng trùng, sắp đột phá Kết Đan, cư nhiên vẫn lạc ở Vân Trạch Thấp Địa.
 
-Đội ngũ tu sĩ Trúc Cảnh Ác Quỷ Điện bị hắn giết ba đội!
+Liễu Truyền Hùng triệt để bạo nộ!
 
-Nhưng tìm khắp không thấy Bạch Hồi Hý Nhân, Tử Linh Nữ.
+Thời gian đầu, hắn thân lâm Vân Trạch Thấp Địa…
 
-Mãi đến khi Chân Nhân Kết Đan Ác Quỷ Điện xuất hiện, cùng hắn hung hăng đấu pháp, sau đó dẫn đến thêm nhiều Chân Nhân Kết Đan hai bên can dự...
+Liên tục trảm sát ba đội Trúc Cơ tu sĩ Ác Quỷ Điện!
 
-Một lần ma sát quy mô nhỏ, cư nhiên dẫn đến hàng chục vị Chân Nhân Kết Đan xuống tay.
+Nhưng tìm khắp nơi, không thấy bóng dáng Hắc Bạch Hí Tử, Ác Linh Nữ.
 
-Nguyên nhân không có gì khác!
+Mãi đến khi Ác Quỷ Điện Kết Đan Chân Nhân hiện thân, cùng hắn hung hăng giao thủ, sau đó dẫn động song phương càng nhiều Kết Đan Chân Nhân can dự…
 
-Ác Quỷ Điện bên này cũng vô cùng phẫn nộ!
+Một trận ma sát nhỏ, cư nhiên dẫn phát hàng chục vị Chân Nhân xuống núi.
 
-Bạch Hồi Hý Nhân chết!
+Nguyên nhân không gì khác!
 
-Tử Linh Nữ chết!
+Ác Quỷ Điện bên này, cũng là phẫn nộ khó tả!
 
-Còn có một vị tu sĩ tu vi Trúc Cảnh hậu kỳ, giành đượcdanh hiệu 'Vân Trạch Thủy Quỷ', cũng là người chuẩn bị Kết Đan, cư nhiên cũng tử vong ở Vùng Đầm Vân Trạch.
+Hắc Bạch Hí Tử chết!
 
-Bọn họ còn chưa trả thù Hắc Quỷ Tông, một vị trưởng lão Hắc Quỷ Tông lấy danh nghĩa vì đồ đệ báo thù, giết bọn họ ba đội tu sĩ Trúc Cảnh...
+Ác Linh Nữ chết!
+
+Còn có một vị Trúc Cơ hậu kỳ tu sĩ, danh hiệu ‘Vân Trạch Thủy Quỷ’, vốn đang chuẩn bị Kết Đan, cư nhiên cũng thân tử Vân Trạch.
+
+Bọn họ còn chưa kịp hướng Hắc Ngẫu Tông báo thù, một vị trưởng lão Hắc Ngẫu Tông lại lấy cớ “vì đồ đệ báo thù”, giết sạch ba đội Trúc Cơ tu sĩ của bọn họ…
 
 Ác Quỷ Điện lập tức nổi điên!
 
-Hai bên giằng co ngày càng hung mãnh.
+Song phương giằng co, càng lúc càng kịch liệt.
 
-Trong lúc nhất thời, Vùng Đầm Vân Trạch trở thành địa phương cực kỳ hung hiểm.
+Trong lúc nhất thời, Vân Trạch Thấp Địa trở thành cấm địa cực độ hung hiểm.
 
-Các thế lực bốn phương, đội ngũ tu sĩ Trúc Cảnh, đều lần lượt tránh xa, sợ bị liên lụy.
+Các phương thế lực, Trúc Cơ đội ngũ, đều lần lượt triệt thoái, sợ bị họa cập trì ngư.
 
 Giao phong kéo dài hơn mười ngày.
 
-Hắc Quỷ Tông ở gần bố trí thành một tòa thành trì, bố trí trận pháp phòng ngừa Ác Quỷ Điện đột kích;
+Hắc Ngẫu Tông tại phụ cận bố trí thành trì, kiến lập trận pháp phòng ngự, đề phòng Ác Quỷ Điện đột kích;
 
-Người Ác Quỷ Điện ẩn thân trong Vùng Đầm Vân Trạch.
+Ác Quỷ Điện tu sĩ thì ẩn nặc trong thâm trạch Vân Trạch.
 
-Có tu sĩ Kết Đan cư nhiên tìm được Yêu Điêu Thú lúc trước giao chiến với tu sĩ Hắc Quỷ Tông, cưỡng ép tìm hồn, tra xét ký ức...
+Có Kết Đan tu sĩ cư nhiên tìm được Yêu Thứu Thú trước kia giao thủ với Hắc Ngẫu Tông, cưỡng chế sưu hồn, tra xét ký ức…
 
-Bọn họ thấy được rất nhiều.
+Bọn họ nhìn thấy rất nhiều.
 
-Quả thật Bạch Hồi Hý Nhân, Tử Linh Nữ chủ động từ phía sau giết ra, đánh úp giết hai vị tu sĩ Hắc Quỷ Tông.
+Quả nhiên là Hắc Bạch Hí Tử, Ác Linh Nữ chủ động từ phía sau xuất thủ, đánh lén trảm sát hai vị Hắc Ngẫu Tông tu sĩ.
 
-Sau đó...
+Sau đó…
 
-Bên này tu sĩ Hắc Quỷ Tông lại tiếp nhận truyền phù Phó Nguyệt Kiệt, thông báo có người tiếp ứng Bạch Hồi Hý Nhân, Tử Linh Nữ...
+Bên này Hắc Ngẫu Tông tu sĩ lại tiếp nhận truyền âm phù của Phó Nhuệ Kiệt, thông báo có viện binh tiếp ứng Hắc Bạch Hí Tử, Ác Linh Nữ…
 
-Một nhóm tu sĩ Kết Đan, sắc mặt khó coi.
+Một đám Kết Đan Chân Nhân, sắc mặt âm trầm khó coi.
 
-> "Tu sĩ Vân Lam Phong Hắc Quỷ Tông này, có chút thủ đoạn..."
+> *“Tu sĩ Vân Lam Phong Hắc Ngẫu Tông này, quả thực có chút môn đạo…”*
+> 
+> *“Một địch nhị, cư nhiên có thể trảm sát Hắc Bạch Hí Tử, Ác Linh Nữ.”*
+> 
+> *“Xem ra, Vân Trạch Thủy Quỷ cũng là táng thân dưới tay hắn.”*
 
-> "Một địch hai, cư nhiên có thể chém giết Bạch Hồi Hý Nhân, Tử Linh Nữ."
+Có người sắc mặt càng thêm khó coi.
 
-> "Xem ra, Vân Trạch Thủy Quỷ cũng là chết trong tay hắn."
+> *“Vậy thì chưa chắc.”*
 
-Có người sắc mặt khó coi.
+Một vị Kết Đan Chân Nhân khác âm lãnh nói: *“Cũng có khả năng là bọ ngựa bắt ve, chim sẻ rình sau, song phương lưỡng bại câu thương, để kẻ khác ngồi hưởng thành quả.”*
 
-> "Vậy thì chưa chắc."
+> *“Hay là!”*
+> 
+> *“Tái tầm tra nhất đoạn thì gian, xem chân hung có hay không ẩn nặc tại phường thị chi trung.”*
 
-Một vị Chân Nhân Kết Đan khác âm lãnh nói: "Cũng có khả năng bọ ngựa bắt ve, chim sẻ rình sau, hai bên đấu nhau xong, cho kẻ khác chiếm tiện nghi."
+> *“Còn tra cái gì.”*
+> 
+> *“Vân Trạch Thấp Địa, tụ tập nhân mã tứ phương bát hướng, tổng không thể vì mấy tên Trúc Cơ tử vong, đắc tội nhiều thế lực như vậy.”*
+> 
+> *“Hắc Ngẫu Tông muốn chơi, chúng ta liền bồi bọn họ chơi đến cùng!”*
+> 
+> *“Ta đảo muốn xem, bọn họ có bao nhiêu tinh lực, cùng chúng ta đối đầu!”*
 
-> "Hay là!"
-
-> "Tìm kiếm thêm một thời gian, xem thủ phạm thật sự có ẩn trống trong phố hay không."
-
-> "Còn tìm cái gì."
-
-> "Vùng Đầm Vân Trạch, tụ họp nhân mã nhiều thế lực bốn phương tám hướng, tổng không thể vì vài tu sĩ Trúc Cảnh chết, đắc tội những thế lực này."
-
-> "Hắc Quỷ Tông muốn chơi, chúng ta liền tiếp tục đánh với bọn họ!"
-
-> "Ta thật muốn xem, bọn họ có bao nhiêu nhân thủ tinh lực, theo chúng ta đối đầu."
+---
