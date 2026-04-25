@@ -93,6 +93,9 @@ def extract_title(path: Path) -> str:
             stripped = line.strip()
             if stripped.startswith("# "):
                 return stripped[2:].strip()
+            bold_title = re.fullmatch(r"\*\*(.+?)\*\*", stripped)
+            if bold_title:
+                return bold_title.group(1).strip()
     return ""
 
 
