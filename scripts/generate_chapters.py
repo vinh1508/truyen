@@ -90,12 +90,15 @@ def chapter_sort_key(path: Path) -> tuple[list[int], str]:
 def extract_title(path: Path) -> str:
     with path.open(encoding="utf-8") as handle:
         for line in handle:
-            stripped = line.strip()
+            stripped = line.strip().lstrip("\ufeff")
+            if not stripped:
+                continue
             if stripped.startswith("# "):
                 return stripped[2:].strip()
-            bold_title = re.fullmatch(r"\*\*(.+?)\*\*", stripped)
+            bold_title = re.fullmatch(r"\*\*((?:Chương|Chuong)\s+\d+.*?)\*\*", stripped)
             if bold_title:
                 return bold_title.group(1).strip()
+            return ""
     return ""
 
 
