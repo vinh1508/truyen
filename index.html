@@ -351,8 +351,7 @@
         title: "Vong Du Tu Vong Vo Hiep",
         path: "vong-du-tu-vong-vo-hiep/",
         chapters: [
-          ...range(1327, 1385).map(n => `Chuong_${n}.md`),
-          ...range(1387, 1399).map(n => `Chuong_${n}.md`),
+          ...range(1327, 1399).map(n => `Chuong_${n}.md`),
           "Chuong_1440_1442.md",
           ...range(1443, 1456).map(n => `Chuong_${n}.md`)
         ]
@@ -436,12 +435,16 @@
       for (const name of state.story.chapters) {
         try {
           const path = chapterPath(name);
-          const response = await fetch(path, { cache: "no-store" });
-          if (!response.ok) continue;
+          const response = await fetch(path, { cache: "no-store", credentials: "same-origin" });
+          if (!response.ok) {
+            console.warn(`Không tải được ${path}: ${response.status}`);
+            continue;
+          }
           const text = await response.text();
           loaded.push(makeChapter(name, text, null, path));
         } catch (error) {
-          break;
+          console.warn(`Không tải được ${name}`, error);
+          continue;
         }
       }
 
@@ -457,12 +460,12 @@
           text: "",
           path: chapterPath(name)
         })));
-        els.status.textContent = "Hãy chọn thư mục chứa file .md để đọc trực tiếp.";
+        els.status.textContent = "Không tự tải được chương. Kiểm tra GitHub Pages đã deploy file .md, hoặc chọn thư mục chứa chương.";
       }
     }
 
     function chapterPath(name) {
-      return `${state.story.path}${name}`;
+      return new URL(`${state.story.path}${name}`, document.baseURI).href;
     }
 
     async function handleFolder(event) {
