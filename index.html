@@ -1,0 +1,652 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Markdown Novel Reader</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f5ef;
+      --panel: #fffdf8;
+      --text: #24211d;
+      --muted: #716a61;
+      --line: #ded8cb;
+      --accent: #8a4b22;
+      --accent-soft: #f1e1d2;
+      --quote: #5b544b;
+      --shadow: 0 16px 42px rgba(53, 40, 25, 0.12);
+    }
+
+    [data-theme="dark"] {
+      color-scheme: dark;
+      --bg: #171717;
+      --panel: #202020;
+      --text: #eee9df;
+      --muted: #b7ad9e;
+      --line: #393632;
+      --accent: #d09a62;
+      --accent-soft: #3a2b20;
+      --quote: #d0c6b7;
+      --shadow: none;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: ui-serif, Georgia, "Times New Roman", serif;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .app {
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      border-right: 1px solid var(--line);
+      background: var(--panel);
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+
+    .brand {
+      padding: 18px 18px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .brand h1 {
+      font-size: 18px;
+      margin: 0 0 12px;
+      letter-spacing: 0;
+      line-height: 1.35;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .search,
+    .story-select {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--text);
+      border-radius: 6px;
+      padding: 9px 10px;
+      min-width: 0;
+    }
+
+    .story-select {
+      margin-bottom: 10px;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .icon-button,
+    .chapter-button,
+    .nav-button,
+    .file-label {
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--text);
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .icon-button {
+      width: 40px;
+      height: 40px;
+      display: inline-grid;
+      place-items: center;
+    }
+
+    .file-row {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+      padding: 12px 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .file-label {
+      display: block;
+      text-align: center;
+      padding: 9px 10px;
+    }
+
+    .file-label input {
+      display: none;
+    }
+
+    .hint {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .chapters {
+      overflow: auto;
+      padding: 10px;
+      display: grid;
+      gap: 4px;
+    }
+
+    .chapter-button {
+      text-align: left;
+      padding: 9px 10px;
+      line-height: 1.35;
+      border-color: transparent;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 14px;
+    }
+
+    .chapter-button:hover,
+    .chapter-button.active {
+      background: var(--accent-soft);
+      border-color: var(--line);
+    }
+
+    .main {
+      min-width: 0;
+      padding: 28px;
+    }
+
+    .reader {
+      max-width: 900px;
+      margin: 0 auto;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .reader-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--line);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .nav-button {
+      padding: 8px 11px;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .nav-button:disabled {
+      cursor: not-allowed;
+      opacity: 0.45;
+    }
+
+    article {
+      padding: clamp(22px, 5vw, 58px);
+      font-size: 20px;
+      line-height: 1.85;
+    }
+
+    article h1 {
+      margin: 0 0 18px;
+      font-size: clamp(28px, 4vw, 42px);
+      line-height: 1.25;
+      letter-spacing: 0;
+      color: var(--accent);
+    }
+
+    article h2,
+    article h3 {
+      margin-top: 34px;
+      line-height: 1.35;
+    }
+
+    article p {
+      margin: 0 0 18px;
+    }
+
+    article hr {
+      border: 0;
+      border-top: 1px solid var(--line);
+      margin: 24px 0 30px;
+    }
+
+    article blockquote {
+      margin: 0 0 18px;
+      padding: 0 0 0 18px;
+      border-left: 4px solid var(--accent);
+      color: var(--quote);
+      font-style: italic;
+    }
+
+    article strong {
+      color: var(--accent);
+    }
+
+    .empty {
+      color: var(--muted);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .mobile-toggle {
+      display: none;
+    }
+
+    @media (max-width: 820px) {
+      .app {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: fixed;
+        z-index: 10;
+        width: min(86vw, 340px);
+        transform: translateX(-100%);
+        transition: transform 180ms ease;
+      }
+
+      body.menu-open .sidebar {
+        transform: translateX(0);
+      }
+
+      .mobile-toggle {
+        display: inline-grid;
+        position: fixed;
+        z-index: 11;
+        left: 12px;
+        top: 12px;
+        background: var(--panel);
+      }
+
+      .main {
+        padding: 64px 10px 18px;
+      }
+
+      .reader {
+        border-radius: 0;
+      }
+
+      .reader-top {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      article {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <button class="icon-button mobile-toggle" id="menuToggle" title="Mở danh sách chương">☰</button>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <h1>Thư Viện Truyện</h1>
+        <select class="story-select" id="storySelect" title="Chọn truyện"></select>
+        <div class="toolbar">
+          <input class="search" id="search" type="search" placeholder="Tìm chương...">
+          <button class="icon-button" id="themeToggle" title="Đổi giao diện">◐</button>
+        </div>
+      </div>
+      <div class="file-row">
+        <label class="file-label">
+          Chọn thư mục chương
+          <input id="folderInput" type="file" webkitdirectory multiple accept=".md,.markdown">
+        </label>
+        <div class="hint" id="hint">
+          Chạy qua server local để tự tải truyện trong danh sách.
+          Nếu mở trực tiếp file HTML, hãy chọn thư mục chứa chương `.md`.
+        </div>
+      </div>
+      <nav class="chapters" id="chapters"></nav>
+    </aside>
+
+    <main class="main">
+      <section class="reader">
+        <div class="reader-top">
+          <div id="status">Đang tải danh sách chương...</div>
+          <div class="nav">
+            <button class="nav-button" id="prevBtn">Trước</button>
+            <button class="nav-button" id="nextBtn">Sau</button>
+          </div>
+        </div>
+        <article id="content">
+          <p class="empty">Chọn một chương để bắt đầu đọc.</p>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const stories = [
+      {
+        id: "vong-du-tu-vong-vo-hiep",
+        title: "Vong Du Tu Vong Vo Hiep",
+        path: "vong-du-tu-vong-vo-hiep/",
+        chapters: [
+          ...range(1327, 1385).map(n => `Chuong_${n}.md`),
+          ...range(1387, 1399).map(n => `Chuong_${n}.md`),
+          "Chuong_1440_1442.md",
+          ...range(1443, 1456).map(n => `Chuong_${n}.md`)
+        ]
+      }
+    ];
+
+    const state = {
+      story: stories[0],
+      chapters: [],
+      current: -1,
+      query: ""
+    };
+
+    const els = {
+      body: document.body,
+      chapters: document.getElementById("chapters"),
+      content: document.getElementById("content"),
+      status: document.getElementById("status"),
+      search: document.getElementById("search"),
+      storySelect: document.getElementById("storySelect"),
+      folderInput: document.getElementById("folderInput"),
+      themeToggle: document.getElementById("themeToggle"),
+      menuToggle: document.getElementById("menuToggle"),
+      prevBtn: document.getElementById("prevBtn"),
+      nextBtn: document.getElementById("nextBtn")
+    };
+
+    init();
+
+    function range(start, end) {
+      return Array.from({ length: end - start + 1 }, (_, i) => start + i);
+    }
+
+    function init() {
+      const savedTheme = localStorage.getItem("reader-theme");
+      if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+
+      renderStoryOptions();
+
+      const savedStory = localStorage.getItem("reader-story");
+      const initialStory = stories.find(story => story.id === savedStory);
+      if (initialStory) state.story = initialStory;
+      els.storySelect.value = state.story.id;
+
+      els.storySelect.addEventListener("change", () => {
+        const story = stories.find(item => item.id === els.storySelect.value);
+        if (!story) return;
+        state.story = story;
+        state.query = "";
+        els.search.value = "";
+        localStorage.setItem("reader-story", story.id);
+        loadServerChapters();
+      });
+
+      els.search.addEventListener("input", () => {
+        state.query = els.search.value.trim().toLowerCase();
+        renderChapterList();
+      });
+
+      els.folderInput.addEventListener("change", handleFolder);
+      els.themeToggle.addEventListener("click", toggleTheme);
+      els.menuToggle.addEventListener("click", () => els.body.classList.toggle("menu-open"));
+      els.prevBtn.addEventListener("click", () => openByOffset(-1));
+      els.nextBtn.addEventListener("click", () => openByOffset(1));
+
+      loadServerChapters();
+    }
+
+    function renderStoryOptions() {
+      els.storySelect.innerHTML = "";
+      for (const story of stories) {
+        const option = document.createElement("option");
+        option.value = story.id;
+        option.textContent = story.title;
+        els.storySelect.appendChild(option);
+      }
+    }
+
+    async function loadServerChapters() {
+      const loaded = [];
+      for (const name of state.story.chapters) {
+        try {
+          const path = chapterPath(name);
+          const response = await fetch(path, { cache: "no-store" });
+          if (!response.ok) continue;
+          const text = await response.text();
+          loaded.push(makeChapter(name, text, null, path));
+        } catch (error) {
+          break;
+        }
+      }
+
+      if (loaded.length) {
+        setChapters(loaded);
+        const last = localStorage.getItem(`reader-last-chapter:${state.story.id}`);
+        const initial = Math.max(0, loaded.findIndex(ch => ch.name === last));
+        openChapter(initial);
+      } else {
+        setChapters(state.story.chapters.map(name => ({
+          name,
+          title: cleanTitle(name),
+          text: "",
+          path: chapterPath(name)
+        })));
+        els.status.textContent = "Hãy chọn thư mục chứa file .md để đọc trực tiếp.";
+      }
+    }
+
+    function chapterPath(name) {
+      return `${state.story.path}${name}`;
+    }
+
+    async function handleFolder(event) {
+      const files = Array.from(event.target.files)
+        .filter(file => /\.md$|\.markdown$/i.test(file.name))
+        .sort((a, b) => a.name.localeCompare(b.name, "vi", { numeric: true }));
+
+      const chapters = [];
+      for (const file of files) {
+        const text = await file.text();
+        chapters.push(makeChapter(file.name, text, file));
+      }
+
+      setChapters(chapters);
+      if (chapters.length) openChapter(0);
+    }
+
+    function makeChapter(name, text, file = null, path = "") {
+      const titleLine = text.split(/\r?\n/).find(line => line.trim().startsWith("# "));
+      return {
+        name,
+        title: titleLine ? titleLine.replace(/^#\s*/, "").trim() : cleanTitle(name),
+        text,
+        file,
+        path
+      };
+    }
+
+    function setChapters(chapters) {
+      state.chapters = chapters;
+      state.current = -1;
+      els.status.textContent = `${state.story.title} · ${chapters.length} chương`;
+      renderChapterList();
+      updateNav();
+    }
+
+    function cleanTitle(name) {
+      return name
+        .replace(/\.md$|\.markdown$/i, "")
+        .replace(/_/g, " ");
+    }
+
+    function renderChapterList() {
+      const query = state.query;
+      els.chapters.innerHTML = "";
+
+      state.chapters
+        .map((chapter, index) => ({ chapter, index }))
+        .filter(({ chapter }) => {
+          const haystack = `${chapter.name} ${chapter.title}`.toLowerCase();
+          return !query || haystack.includes(query);
+        })
+        .forEach(({ chapter, index }) => {
+          const button = document.createElement("button");
+          button.className = "chapter-button";
+          if (index === state.current) button.classList.add("active");
+          button.textContent = chapter.title;
+          button.title = chapter.name;
+          button.addEventListener("click", () => openChapter(index));
+          els.chapters.appendChild(button);
+        });
+    }
+
+    function openByOffset(offset) {
+      const nextIndex = state.current + offset;
+      if (nextIndex >= 0 && nextIndex < state.chapters.length) {
+        openChapter(nextIndex);
+      }
+    }
+
+    async function openChapter(index) {
+      const chapter = state.chapters[index];
+      if (!chapter) return;
+
+      if (!chapter.text) {
+        try {
+          const response = await fetch(chapter.path || chapter.name, { cache: "no-store" });
+          chapter.text = await response.text();
+          chapter.title = makeChapter(chapter.name, chapter.text).title;
+        } catch (error) {
+          els.content.innerHTML = `<p class="empty">Không thể tự tải ${escapeHtml(chapter.name)}. Hãy chọn thư mục chứa file .md ở sidebar.</p>`;
+          return;
+        }
+      }
+
+      state.current = index;
+      localStorage.setItem(`reader-last-chapter:${state.story.id}`, chapter.name);
+      els.status.textContent = `${state.story.title} · ${index + 1}/${state.chapters.length} · ${chapter.name}`;
+      els.content.innerHTML = renderMarkdown(chapter.text);
+      document.title = `${chapter.title} · ${state.story.title}`;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      els.body.classList.remove("menu-open");
+      renderChapterList();
+      updateNav();
+    }
+
+    function updateNav() {
+      els.prevBtn.disabled = state.current <= 0;
+      els.nextBtn.disabled = state.current < 0 || state.current >= state.chapters.length - 1;
+    }
+
+    function toggleTheme() {
+      const current = document.documentElement.dataset.theme;
+      const next = current === "dark" ? "" : "dark";
+      if (next) {
+        document.documentElement.dataset.theme = next;
+        localStorage.setItem("reader-theme", next);
+      } else {
+        document.documentElement.removeAttribute("data-theme");
+        localStorage.removeItem("reader-theme");
+      }
+    }
+
+    function renderMarkdown(markdown) {
+      const lines = markdown.replace(/\r\n/g, "\n").split("\n");
+      const html = [];
+      let paragraph = [];
+      let quote = [];
+
+      const flushParagraph = () => {
+        if (!paragraph.length) return;
+        html.push(`<p>${inline(paragraph.join(" "))}</p>`);
+        paragraph = [];
+      };
+
+      const flushQuote = () => {
+        if (!quote.length) return;
+        html.push(`<blockquote>${quote.map(line => `<p>${inline(line)}</p>`).join("")}</blockquote>`);
+        quote = [];
+      };
+
+      for (const rawLine of lines) {
+        const line = rawLine.trim();
+
+        if (!line) {
+          flushParagraph();
+          flushQuote();
+          continue;
+        }
+
+        if (/^---+$/.test(line)) {
+          flushParagraph();
+          flushQuote();
+          html.push("<hr>");
+          continue;
+        }
+
+        const heading = line.match(/^(#{1,3})\s+(.+)$/);
+        if (heading) {
+          flushParagraph();
+          flushQuote();
+          const level = heading[1].length;
+          html.push(`<h${level}>${inline(heading[2])}</h${level}>`);
+          continue;
+        }
+
+        if (line.startsWith(">")) {
+          flushParagraph();
+          quote.push(line.replace(/^>\s?/, ""));
+          continue;
+        }
+
+        flushQuote();
+        paragraph.push(line);
+      }
+
+      flushParagraph();
+      flushQuote();
+      return html.join("\n");
+    }
+
+    function inline(value) {
+      return escapeHtml(value)
+        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/\*(.+?)\*/g, "<em>$1</em>");
+    }
+
+    function escapeHtml(value) {
+      return value
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+  </script>
+</body>
+</html>
