@@ -391,9 +391,9 @@
         path: "truyen/vong-du-tu-vong-vo-hiep/",
         manifest: "chapters.json",
         chapters: [
-          ...range(1327, 1399).map(n => `Chuong_${n}.md`),
-          "Chuong_1440_1442.md",
-          ...range(1443, 1456).map(n => `Chuong_${n}.md`)
+          ...range(1327, 1399).map(n => `${n}.md`),
+          "1440_1442.md",
+          ...range(1443, 1456).map(n => `${n}.md`)
         ]
       },
       {
@@ -402,7 +402,7 @@
         path: "truyen/cao-vo-ky-nguyen/",
         manifest: "chapters.json",
         chapters: [
-          "chuong-763.md"
+          ...range(763, 766).map(n => `${n}.md`)
         ]
       }
     ];
