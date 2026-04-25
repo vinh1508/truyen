@@ -120,15 +120,6 @@
       place-items: center;
     }
 
-    .settings-panel {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 12px;
-      padding: 12px 18px;
-      border-bottom: 1px solid var(--line);
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-
     .setting-row {
       display: grid;
       gap: 7px;
@@ -143,7 +134,8 @@
       line-height: 1.35;
     }
 
-    .setting-row input[type="range"] {
+    .setting-row input[type="range"],
+    .settings-menu input[type="range"] {
       width: 100%;
       accent-color: var(--accent);
     }
@@ -182,10 +174,13 @@
       border: 1px solid var(--line);
       box-shadow: var(--shadow);
       border-radius: 8px;
-      overflow: hidden;
+      overflow: visible;
     }
 
     .reader-top {
+      position: sticky;
+      top: 0;
+      z-index: 9;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -195,6 +190,7 @@
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       color: var(--muted);
       font-size: 14px;
+      background: var(--panel);
     }
 
     .load-progress {
@@ -219,6 +215,7 @@
       display: flex;
       gap: 8px;
       flex-shrink: 0;
+      align-items: center;
     }
 
     .nav-button {
@@ -226,10 +223,29 @@
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
-    .reader-bottom {
-      justify-content: center;
-      padding: 14px 16px 18px;
-      border-top: 1px solid var(--line);
+    .nav-settings {
+      position: relative;
+    }
+
+    .settings-menu {
+      position: absolute;
+      right: 0;
+      top: calc(100% + 8px);
+      z-index: 20;
+      width: min(280px, calc(100vw - 32px));
+      display: grid;
+      gap: 14px;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      box-shadow: var(--shadow);
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .settings-menu[hidden] {
+      display: none;
     }
 
     .nav-button:disabled {
@@ -325,6 +341,7 @@
       .reader-top {
         align-items: flex-start;
         flex-direction: column;
+        top: 0;
       }
     }
   </style>
@@ -341,22 +358,6 @@
           <button class="icon-button" id="themeToggle" title="Đổi giao diện">◐</button>
         </div>
       </div>
-      <div class="settings-panel">
-        <div class="setting-row">
-          <label class="setting-label" for="fontSizeInput">
-            <span>Cỡ chữ</span>
-            <span id="fontSizeValue">20px</span>
-          </label>
-          <input id="fontSizeInput" type="range" min="16" max="28" step="1" value="20">
-        </div>
-        <div class="setting-row">
-          <label class="setting-label" for="lineHeightInput">
-            <span>Giãn dòng</span>
-            <span id="lineHeightValue">1.85</span>
-          </label>
-          <input id="lineHeightInput" type="range" min="1.4" max="2.4" step="0.05" value="1.85">
-        </div>
-      </div>
       <nav class="chapters" id="chapters"></nav>
     </aside>
 
@@ -366,6 +367,25 @@
           <div id="status">Đang tải danh sách chương...</div>
           <div class="nav">
             <button class="nav-button" id="prevBtn">Trước</button>
+            <div class="nav-settings">
+              <button class="icon-button" id="settingsToggle" title="Cài đặt đọc" aria-expanded="false">⚙</button>
+              <div class="settings-menu" id="settingsMenu" hidden>
+                <div class="setting-row">
+                  <label class="setting-label" for="fontSizeInput">
+                    <span>Cỡ chữ</span>
+                    <span id="fontSizeValue">20px</span>
+                  </label>
+                  <input id="fontSizeInput" type="range" min="16" max="28" step="1" value="20">
+                </div>
+                <div class="setting-row">
+                  <label class="setting-label" for="lineHeightInput">
+                    <span>Giãn dòng</span>
+                    <span id="lineHeightValue">1.85</span>
+                  </label>
+                  <input id="lineHeightInput" type="range" min="1.4" max="2.4" step="0.05" value="1.85">
+                </div>
+              </div>
+            </div>
             <button class="nav-button" id="nextBtn">Sau</button>
           </div>
         </div>
@@ -375,10 +395,6 @@
         <article id="content">
           <p class="empty">Chọn một chương để bắt đầu đọc.</p>
         </article>
-        <div class="nav reader-bottom">
-          <button class="nav-button" id="bottomPrevBtn">Trước</button>
-          <button class="nav-button" id="bottomNextBtn">Sau</button>
-        </div>
       </section>
     </main>
   </div>
@@ -424,14 +440,14 @@
       fontSizeValue: document.getElementById("fontSizeValue"),
       lineHeightInput: document.getElementById("lineHeightInput"),
       lineHeightValue: document.getElementById("lineHeightValue"),
+      settingsToggle: document.getElementById("settingsToggle"),
+      settingsMenu: document.getElementById("settingsMenu"),
       loadProgress: document.getElementById("loadProgress"),
       loadProgressBar: document.getElementById("loadProgressBar"),
       themeToggle: document.getElementById("themeToggle"),
       menuToggle: document.getElementById("menuToggle"),
       prevBtn: document.getElementById("prevBtn"),
-      nextBtn: document.getElementById("nextBtn"),
-      bottomPrevBtn: document.getElementById("bottomPrevBtn"),
-      bottomNextBtn: document.getElementById("bottomNextBtn")
+      nextBtn: document.getElementById("nextBtn")
     };
 
     init();
@@ -469,12 +485,13 @@
 
       els.fontSizeInput.addEventListener("input", () => setReaderFontSize(els.fontSizeInput.value));
       els.lineHeightInput.addEventListener("input", () => setReaderLineHeight(els.lineHeightInput.value));
+      els.settingsToggle.addEventListener("click", toggleSettingsMenu);
+      document.addEventListener("click", closeSettingsOnOutsideClick);
+      document.addEventListener("keydown", closeSettingsOnEscape);
       els.themeToggle.addEventListener("click", toggleTheme);
       els.menuToggle.addEventListener("click", () => els.body.classList.toggle("menu-open"));
       els.prevBtn.addEventListener("click", () => openByOffset(-1));
       els.nextBtn.addEventListener("click", () => openByOffset(1));
-      els.bottomPrevBtn.addEventListener("click", () => openByOffset(-1));
-      els.bottomNextBtn.addEventListener("click", () => openByOffset(1));
 
       loadServerChapters();
     }
@@ -642,9 +659,7 @@
       const prevDisabled = state.current <= 0;
       const nextDisabled = state.current < 0 || state.current >= state.chapters.length - 1;
       els.prevBtn.disabled = prevDisabled;
-      els.bottomPrevBtn.disabled = prevDisabled;
       els.nextBtn.disabled = nextDisabled;
-      els.bottomNextBtn.disabled = nextDisabled;
     }
 
     function initReadingSettings() {
@@ -675,6 +690,28 @@
       const number = Number(value);
       if (!Number.isFinite(number)) return fallback;
       return Math.min(max, Math.max(min, number));
+    }
+
+    function toggleSettingsMenu(event) {
+      event.stopPropagation();
+      const willOpen = els.settingsMenu.hidden;
+      els.settingsMenu.hidden = !willOpen;
+      els.settingsToggle.setAttribute("aria-expanded", String(willOpen));
+    }
+
+    function closeSettingsOnOutsideClick(event) {
+      if (els.settingsMenu.hidden) return;
+      if (els.settingsMenu.contains(event.target) || els.settingsToggle.contains(event.target)) return;
+      closeSettingsMenu();
+    }
+
+    function closeSettingsOnEscape(event) {
+      if (event.key === "Escape") closeSettingsMenu();
+    }
+
+    function closeSettingsMenu() {
+      els.settingsMenu.hidden = true;
+      els.settingsToggle.setAttribute("aria-expanded", "false");
     }
 
     function toggleTheme() {
