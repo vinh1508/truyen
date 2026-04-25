@@ -16,6 +16,8 @@
       --accent-soft: #f1e1d2;
       --quote: #5b544b;
       --shadow: 0 16px 42px rgba(53, 40, 25, 0.12);
+      --reader-font-size: 20px;
+      --reader-line-height: 1.85;
     }
 
     [data-theme="dark"] {
@@ -44,7 +46,8 @@
     }
 
     button,
-    input {
+    input,
+    select {
       font: inherit;
     }
 
@@ -102,8 +105,7 @@
 
     .icon-button,
     .chapter-button,
-    .nav-button,
-    .file-label {
+    .nav-button {
       border: 1px solid var(--line);
       background: transparent;
       color: var(--text);
@@ -118,28 +120,32 @@
       place-items: center;
     }
 
-    .file-row {
+    .settings-panel {
       display: grid;
       grid-template-columns: 1fr;
-      gap: 8px;
+      gap: 12px;
       padding: 12px 18px;
       border-bottom: 1px solid var(--line);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
-    .file-label {
-      display: block;
-      text-align: center;
-      padding: 9px 10px;
+    .setting-row {
+      display: grid;
+      gap: 7px;
     }
 
-    .file-label input {
-      display: none;
-    }
-
-    .hint {
+    .setting-label {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
       color: var(--muted);
       font-size: 13px;
-      line-height: 1.45;
+      line-height: 1.35;
+    }
+
+    .setting-row input[type="range"] {
+      width: 100%;
+      accent-color: var(--accent);
     }
 
     .chapters {
@@ -220,6 +226,12 @@
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
+    .reader-bottom {
+      justify-content: center;
+      padding: 14px 16px 18px;
+      border-top: 1px solid var(--line);
+    }
+
     .nav-button:disabled {
       cursor: not-allowed;
       opacity: 0.45;
@@ -227,8 +239,8 @@
 
     article {
       padding: clamp(22px, 5vw, 58px);
-      font-size: 20px;
-      line-height: 1.85;
+      font-size: var(--reader-font-size);
+      line-height: var(--reader-line-height);
     }
 
     article h1 {
@@ -314,10 +326,6 @@
         align-items: flex-start;
         flex-direction: column;
       }
-
-      article {
-        font-size: 18px;
-      }
     }
   </style>
 </head>
@@ -333,14 +341,20 @@
           <button class="icon-button" id="themeToggle" title="Đổi giao diện">◐</button>
         </div>
       </div>
-      <div class="file-row">
-        <label class="file-label">
-          Chọn thư mục chương
-          <input id="folderInput" type="file" webkitdirectory multiple accept=".md,.markdown">
-        </label>
-        <div class="hint" id="hint">
-          Chạy qua server local để tự tải truyện trong danh sách.
-          Nếu mở trực tiếp file HTML, hãy chọn thư mục chứa chương `.md`.
+      <div class="settings-panel">
+        <div class="setting-row">
+          <label class="setting-label" for="fontSizeInput">
+            <span>Cỡ chữ</span>
+            <span id="fontSizeValue">20px</span>
+          </label>
+          <input id="fontSizeInput" type="range" min="16" max="28" step="1" value="20">
+        </div>
+        <div class="setting-row">
+          <label class="setting-label" for="lineHeightInput">
+            <span>Giãn dòng</span>
+            <span id="lineHeightValue">1.85</span>
+          </label>
+          <input id="lineHeightInput" type="range" min="1.4" max="2.4" step="0.05" value="1.85">
         </div>
       </div>
       <nav class="chapters" id="chapters"></nav>
@@ -361,6 +375,10 @@
         <article id="content">
           <p class="empty">Chọn một chương để bắt đầu đọc.</p>
         </article>
+        <div class="nav reader-bottom">
+          <button class="nav-button" id="bottomPrevBtn">Trước</button>
+          <button class="nav-button" id="bottomNextBtn">Sau</button>
+        </div>
       </section>
     </main>
   </div>
@@ -395,13 +413,18 @@
       status: document.getElementById("status"),
       search: document.getElementById("search"),
       storySelect: document.getElementById("storySelect"),
-      folderInput: document.getElementById("folderInput"),
+      fontSizeInput: document.getElementById("fontSizeInput"),
+      fontSizeValue: document.getElementById("fontSizeValue"),
+      lineHeightInput: document.getElementById("lineHeightInput"),
+      lineHeightValue: document.getElementById("lineHeightValue"),
       loadProgress: document.getElementById("loadProgress"),
       loadProgressBar: document.getElementById("loadProgressBar"),
       themeToggle: document.getElementById("themeToggle"),
       menuToggle: document.getElementById("menuToggle"),
       prevBtn: document.getElementById("prevBtn"),
-      nextBtn: document.getElementById("nextBtn")
+      nextBtn: document.getElementById("nextBtn"),
+      bottomPrevBtn: document.getElementById("bottomPrevBtn"),
+      bottomNextBtn: document.getElementById("bottomNextBtn")
     };
 
     init();
@@ -413,6 +436,7 @@
     function init() {
       const savedTheme = localStorage.getItem("reader-theme");
       if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+      initReadingSettings();
 
       renderStoryOptions();
 
@@ -436,11 +460,14 @@
         renderChapterList();
       });
 
-      els.folderInput.addEventListener("change", handleFolder);
+      els.fontSizeInput.addEventListener("input", () => setReaderFontSize(els.fontSizeInput.value));
+      els.lineHeightInput.addEventListener("input", () => setReaderLineHeight(els.lineHeightInput.value));
       els.themeToggle.addEventListener("click", toggleTheme);
       els.menuToggle.addEventListener("click", () => els.body.classList.toggle("menu-open"));
       els.prevBtn.addEventListener("click", () => openByOffset(-1));
       els.nextBtn.addEventListener("click", () => openByOffset(1));
+      els.bottomPrevBtn.addEventListener("click", () => openByOffset(-1));
+      els.bottomNextBtn.addEventListener("click", () => openByOffset(1));
 
       loadServerChapters();
     }
@@ -511,23 +538,6 @@
 
     function manifestPath() {
       return new URL(`${state.story.path}${state.story.manifest || "chapters.json"}`, document.baseURI).href;
-    }
-
-    async function handleFolder(event) {
-      state.loadToken += 1;
-      hideLoadingProgress();
-      const files = Array.from(event.target.files)
-        .filter(file => /\.md$|\.markdown$/i.test(file.name))
-        .sort((a, b) => a.name.localeCompare(b.name, "vi", { numeric: true }));
-
-      const chapters = [];
-      for (const file of files) {
-        const text = await file.text();
-        chapters.push(makeChapter(file.name, text, file));
-      }
-
-      setChapters(chapters);
-      if (chapters.length) openChapter(0);
     }
 
     function makeChapter(name, text, file = null, path = "") {
@@ -603,7 +613,7 @@
           chapter.title = makeChapter(chapter.name, chapter.text).title;
         } catch (error) {
           hideLoadingProgress();
-          els.content.innerHTML = `<p class="empty">Không thể tự tải ${escapeHtml(chapter.name)}. Hãy chọn thư mục chứa file .md ở sidebar.</p>`;
+          els.content.innerHTML = `<p class="empty">Không thể tải ${escapeHtml(chapter.name)}. Hãy kiểm tra file chương đã được deploy lên GitHub Pages.</p>`;
           return;
         } finally {
           if (loadToken === state.loadToken) hideLoadingProgress();
@@ -622,8 +632,42 @@
     }
 
     function updateNav() {
-      els.prevBtn.disabled = state.current <= 0;
-      els.nextBtn.disabled = state.current < 0 || state.current >= state.chapters.length - 1;
+      const prevDisabled = state.current <= 0;
+      const nextDisabled = state.current < 0 || state.current >= state.chapters.length - 1;
+      els.prevBtn.disabled = prevDisabled;
+      els.bottomPrevBtn.disabled = prevDisabled;
+      els.nextBtn.disabled = nextDisabled;
+      els.bottomNextBtn.disabled = nextDisabled;
+    }
+
+    function initReadingSettings() {
+      const fontSize = clampNumber(localStorage.getItem("reader-font-size"), 16, 28, 20);
+      const lineHeight = clampNumber(localStorage.getItem("reader-line-height"), 1.4, 2.4, 1.85);
+      setReaderFontSize(fontSize);
+      setReaderLineHeight(lineHeight);
+    }
+
+    function setReaderFontSize(value) {
+      const size = clampNumber(value, 16, 28, 20);
+      document.documentElement.style.setProperty("--reader-font-size", `${size}px`);
+      els.fontSizeInput.value = size;
+      els.fontSizeValue.textContent = `${size}px`;
+      localStorage.setItem("reader-font-size", size);
+    }
+
+    function setReaderLineHeight(value) {
+      const lineHeight = clampNumber(value, 1.4, 2.4, 1.85);
+      const formatted = lineHeight.toFixed(2).replace(/0$/, "").replace(/\.0$/, "");
+      document.documentElement.style.setProperty("--reader-line-height", formatted);
+      els.lineHeightInput.value = formatted;
+      els.lineHeightValue.textContent = formatted;
+      localStorage.setItem("reader-line-height", formatted);
+    }
+
+    function clampNumber(value, min, max, fallback) {
+      const number = Number(value);
+      if (!Number.isFinite(number)) return fallback;
+      return Math.min(max, Math.max(min, number));
     }
 
     function toggleTheme() {
