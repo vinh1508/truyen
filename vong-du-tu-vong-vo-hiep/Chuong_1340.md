@@ -1,0 +1,219 @@
+# 🗡️ Chương 1340: Truy Đến Vạn Ma Cốc? (Bùng nổ chương thứ sáu)
+
+---
+
+Vong Xuyên và Lâm Nam Thiên lên Phi Chu, theo trong đội tu sĩ Trúc Lạc bị Lý Huyền Chân cưỡng ép, trong lòng thầm than nhưng đồng thời cũng rất kinh ngạc.
+
+Sau khi bọn họ giao nhiệm vụ hộ tống linh thạch, lập tức xảy ra một đội khác bị tấn công, linh thạch bị cướp, sự việc này có nghĩa là gì?
+
+Cùng một lộ trình hộ tống!
+
+Bọn họ suýt nữa bị cuộn vào sự kiện tấn công.
+
+Lâm Nam Thiên không nhịn được nhìn về phía Vong Xuyên, trong mắt đầy kinh hãi và may mắn.
+
+Hắn biết.
+
+Hôm nay nếu không phải vì biện pháp của Vong Xuyên che trời, có lẽ người bị tấn công chết chính là bọn họ.
+
+May quá!
+
+Lâm Nam Thiên truyền âm nói với Vong Xuyên:
+
+- Người ta thật sự dám tấn công đội hộ tống linh thạch của Hắc Quỷ Tông!
+
+- Tiểu sư đệ, ngươi đoán đúng thật.
+
+- Chúng ta lại tránh được một kiếp.
+
+Lý Huyền Chân hạ ba đạo lệnh sắt máu.
+
+Các tu sĩ Trúc Lạc đều lần lượt đáp ứng.
+
+Lý Huyền Chân quay đầu, nhìn chằm chằm Lâm Nam Thiên, Vong Xuyên hai người, nói:
+
+- Các ngươi là đệ tử Thanh Hạc Phong.
+
+- Vâng, sư bá.
+
+Lâm Nam Thiên trả lời, thái độ cung kính.
+
+Tầm mắt Lý Huyền Chân dao động trên người hai người, hỏi giọng trầm:
+
+- Trong thời gian thi hành nhiệm vụ hộ tống linh thạch, có phát hiện bất kỳ dị thường nào không?
+
+- ...
+
+Lâm Nam Thiên vội vàng lắc đầu:
+
+- Bẩm báo sư bá, đệ tử không phát hiện dị tượng.
+
+Vong Xuyên cũng vội vàng phụ họa.
+
+Lý Huyền Chân lộ vẻ suy tư, nói:
+
+- Hai đội các ngươi vận chuyển linh thạch tuyến đường hoàn toàn giống nhau, các ngươi không sao, bọn họ lại xảy ra... Các ngươi vận may không tệ.
+
+- ...
+
+Trong lúc nói, thỉnh thoảng có phù truyền âm bay đến, rơi vào tay Lý Huyền Chân.
+
+Lý Huyền Chân không điều chỉnh hướng bay, tiếp tục truy đuổi theo dấu vết phù truyền Âm còn sót lại trên trời.
+
+Vong Xuyên dần dần bình tĩnh lại.
+
+Tuy sự việc xảy ra đột ngột.
+
+Nhưng theo tốc độ Lý Huyền Chân nhận phù truyền âm, linh thạch bị cướp, chắc hẳn đã gây sự chú ý của không ít tu sĩ Trúc Lạc Hắc Quỷ Tông.
+
+Có không止 một đội đang truy đuổi hung thủ cướp linh thạch.
+
+Có đồng đội, có nghĩa là rủi ro bị chia sẻ và giảm bớt.
+
+Đây là chuyện tốt!
+
+Tốc độ Phi Chu rất nhanh, đã rời khỏi ranh giới Thánh Phong, tiến vào Lục Linh Mạch.
+
+Trên trời, xuất hiện ngày càng nhiều đội do tu sĩ Trúc Lạc dẫn.
+
+Một số đệ tử Trúc Lạc cũng được huy động, đang gióng rộng khắp nơi, truy tìm hung thủ.
+
+Phi Chu phá đám, lao đến đầu, rất nhanh tiến vào khu vực giữa Thất Linh Mạch và Thất Linh Phong.
+
+Vong Xuyên, Lâm Nam Thiên và mọi người đều nâng cao cảnh giác.
+
+Mọi người đều biết, đội hộ tống linh thạch hẳn là gặp chuyện ở khu vực này.
+
+Lý Huyền Chân tầm mắt ngưng lại, như phát hiện điều gì.
+
+Vong Xuyên theo tầm mắt Lý sư bá nhìn sang, rất nhanh phát hiện, bên kia có dấu vết giao tranh của tu sĩ.
+
+Trong núi rừng bị đốt cháy lớn, khói lửa ngút trời.
+
+Cũng có dấu vết va chạm giữa pháp khí phi kiếm và pháp bảo.
+
+Gần đó có tu sĩ chắp tay:
+
+- Lý sư bá!
+
+- Xảy ra là hai đệ tử Không Minh Phong, đều là tu sĩ Trúc Lạc trung kỳ.
+
+- Bọn họ擅长似乎 là thuật pháp Thổ Linh...
+
+- hung thủ dùng thuật pháp Hỏa Linh và Phong Linh!
+
+- Trận chiến kết thúc rất nhanh, chúng tôi suy luận, có tu sĩ Trúc Lạc tồn tại!
+
+- Lão sư bá, Mộc sư bá đã dẫn đội đi truy đuổi.
+
+Người ở lại nơi này, đầu tiên đưa toàn bộ manh mối tin tức bẩm báo lên Lý Huyền Chân.
+
+Lý Huyền Chân liếc nhìn dấu vết bên dưới, gật đầu, điều khiển Phi Chu, tiếp tục truy đuổi.
+
+Nhưng dấu vết nhanh chóng biến mất.
+
+Đây là vì kẻ địch lúc được lợi, bắt đầu phá hủy hộp linh thạch và phong ấn.
+
+Phong ấn bị phá hủy, dấu vết phù truyền âm đến đó là hết.
+
+- Năm người một đội, bốn phương đông tây nam bắc, mỗi người tìm một phương hướng! Mỗi khoảng trăm hơi thở, truyền âm một lần.
+
+Lý Huyền Chân hạ lệnh.
+
+- Vâng!
+
+Tất cả mọi người nhận được phù truyền âm của Lý sư bá.
+
+Lâm Nam Thiên, Vong Xuyên bị Lý Huyền Chân phân công vào trong đội ba tu sĩ Trúc Lạc khác, thành một đội, lao ra khỏi Phi Chu, hướng về phía đông.
+
+Mười lăm tu sĩ Trúc Lạc khác, mỗi người chọn ba phương hướng khác, mở rộng truy bắt.
+
+Đội của Vong Xuyên, điều khiển pháp khí, pháp bảo, chạy hàng trăm dặm, không có thu hoạch gì.
+
+Lâm Nam Thiên không nhịn được trong đội than phiền:
+
+- Kẻ địch đã chạy lâu như vậy, với tốc độ của chúng ta, truy tiếp như vậy, khác nào大海捞针.
+
+- Đúng vậy.
+
+Ba tu sĩ Trúc Lạc khác trong đội cũng rất bất đắc dĩ.
+
+- Truy về phía đông, phải truy bao xa?
+
+- Ra khỏi lãnh thổ Hắc Quỷ Tông, nếu thật gặp hung thủ, năm người chúng ta có đủ để tu sĩ Trúc Lạc giết hay không, còn chưa biết.
+
+- Thật xui xẻo.
+
+Ba người tâm trạng tồi tệ.
+
+Biết hung thủ rất có khả năng có tu sĩ Trúc Lạc, theo đội càng rời xa Hắc Quỷ Tông, mọi người càng không có cảm giác an toàn.
+
+Vong Xuyên không nói gì.
+
+Bây giờ không phải lúc than phiền.
+
+Nếu gặp phải sự kiện xác suất nhỏ, thật sự đi cùng phương hướng với hung thủ, đó mới thực sự là xui xẻo.
+
+Vong Xuyên bung toàn bộ cảm ứng thần thức, đồng thời vận chuyển Kiếm Tâm Thông Minh đến cực hạn, không dám có mảy may lơ là.
+
+May mà may mắn của hắn tốt.
+
+Một đường yên bình.
+
+Chỉ truy được hơn một nghìn dặm, phía trước cảnh vật càng ngày càng quen thuộc.
+
+Vong Xuyên, Lâm Nam Thiên sắc mặt đều trở nên khó coi.
+
+- Phía trước là...
+
+- Vạn Ma Cốc?!
+
+Đội năm người của Vong Xuyên một đường đông tiến, vậy mà đến gần Vạn Ma Cốc.
+
+Vong Xuyên hai lần tiến vào Vạn Ma Cốc, đối với cảnh vật nơi này nhớ rõ.
+
+Duy có điều khiến hắn cảm thấy xa lạ là, vùng ngoại vi Vạn Ma Cốc xuất hiện không ít tu sĩ nam nữ các kiểu, ba người một đội, bố trí pháp trận thành lập động phủ tạm thời.
+
+Đội năm người Hắc Quỷ Tông, tất nhiên gây chú ý của rất nhiều người.
+
+Dù sao Hắc Quỷ Tông coi như chủ một nửa nơi này, không ai dám xem nhẹ ảnh hưởng của Hắc Quỷ Tông đối với Vạn Ma Cốc.
+
+- Đáng chết.
+
+- Nhiều người quá...
+
+- Nếu hung thủ chạy vào trong đám người này, chúng ta phải làm sao?
+
+Trong đội, nữ tu duy nhất 'Liêu Văn Thụ' mày nhăn tít, hiển nhiên không ngờ đông có thể xấu như vậy.
+
+Tu sĩ trung kỳ Lâm Nam Thiên chậm lại, nói chậm:
+
+- Lý sư bá hẳn là biết, chúng ta sẽ truy đến Vạn Ma Cốc, hung thủ có thể giấu trong đám người này, chúng ta phải điều tra kỹ ở đây.
+
+- Làm sao điều tra? Đi từng người hỏi?
+
+Tu sĩ cuối cùng tên là Triệu Phàm, mày nhăn thành hình chữ Xác suất, biể hiểu rõ độ khó và nguy hiểm của nhiệm vụ này.
+
+Không cẩn thận, ai cũng có nguy cơ chết.
+
+Lâm Nam Thiên cũng rất lo lắng, nhìn Vong Xuyên với vẻ lo ngại:
+
+- Tiểu sư đệ, ngươi nghĩ sao?
+
+Vong Xuyên là người duy nhất Trúc Lạc sơ kỳ trong năm người.
+
+Từ khi tiến gần khu vực này, hắn đã cảm nhận được nhiều ánh mắt mang theo sát ý.
+
+Trong đó có người Hỏa Linh Môn...
+
+Cũng có tu sĩ Én Quỷ Điện!
+
+Đây không phải chuyện tốt.
+
+Vong Xuyên trong lòng báo động:
+
+Nơi này tuyệt đối không thể ở lâu.
+
+Phải rời đi nhanh nhất.
+
+Nếu không sẽ xảy ra chuyện lớn!

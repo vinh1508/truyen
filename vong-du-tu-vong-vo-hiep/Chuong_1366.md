@@ -1,0 +1,197 @@
+# 🗡️ Chương 1366: Vân Trạch Tam Hung (Bùng nổ - Chương thứ tám)
+
+---
+
+Vùng Đầm Vân Trạch.
+
+Quanh năm ngưng tụ sương mù độc khí.
+
+Cộng thêm yêu quái thở ra tạo thành phương pháp thuật cách ly thần thức, và một số linh dược tiên thảo đặc biệt bị nghiền nát ngâm trong đầm nước, tỏa ra khí độc, khiến nơi này trở nên rất nguy hiểm.
+
+Tu sĩ Kỳ Khí không dám đến gần;
+
+Tu sĩ Trúc Cảnh bình thường, ba người cũng chỉ dám hoạt động ở vùng ngoại vi, không dám đi sâu vào bên trong Vùng Đầm Vân Trạch.
+
+Bởi vì hàng năm đều có một số kẻ tự đắc biến mất trong Vùng Đầm Vân Trạch không dấu vết.
+
+Nhưng truyền thuyết về Vùng Đầm Vân Trạch vẫn có rất nhiều.
+
+Nói có tu sĩ phạm tội lớn trong môn phái, bị truy nã đến nơi không có chỗ trốn, sẽ chạy vào Vùng Đầm Vân Trạch bên trong, khai phá động phủ, sống sót.
+
+Cũng có một số tu sĩ Kết Đan có thực lực mạnh hơn và nắm giữ thủ đoạn thuộc tính thủy linh, sẽ chạy đến Vùng Đầm Vân Trạch khai phá động phủ, tích trữ của cải.
+
+Còn có lời đồn nói nhìn thấy một số tán tu thường đánh bạo cướp nhà, cuối cùng biến mất trong Vùng Đầm Vân Trạch, mỗi năm xuất hiện vài lần, đối phó với những tu sĩ Trúc Cảnh mới đến gần Vùng Đầm Vân Trạch.
+
+Vong Xuyên trên đường đến Vùng Đầm Vân Trạch, nghe được rất nhiều lời đồn đại về Vùng Đầm Vân Trạch.
+
+Những thứ này, tất nhiên là bốn vị sư huynh truyền miệng.
+
+Vong Xuyên không bị吓倒, Trần Thiên Kỳ, Giang Nguy lại bị吓 không nhẹ.
+
+Nhất là Lâm Nam Thiên cái lão矮子 này, giữ giọng đùa giỡn, nói:
+
+> "Hai vị đệ, các ngươi có biết, Vùng Đầm Vân Trạch còn có cách gọi là Ba Hung không?"
+
+> "Cái gì ý?"
+
+Trần Thiên Kỳ chớp mắt, hiển nhiên chưa nghe qua.
+
+Vong Xuyên cảm nhận được dáng vẻ đùa giỡn của Lâm Nam Thiên, biết kẻ này không có hảo ý.
+
+Lâm Nam Thiên cười nói:
+
+> "Ha ha"
+
+> "Vân Trạch đệ xếp hạng ba loại yêu quái hung tợn nhất, nghe nói rất nguy hiểm, rất nhiều tu sĩ quanh năm lang thang trong đầm đều rất đau đầu, chỉ cần nhìn thấy, lập tức quay người chạy trốn!"
+
+> "ồ?"
+
+> "Yêu quái gì, lợi hại vậy?"
+
+Giang Nguy hứng thú.
+
+Lâm Nam Thiên lập tức giải thích, nói:
+
+> "Hạng ba là một loài rắn không có mắt, mũi, đầy miệng răng nhọn sắc, lớp lớp chồng, tràn ngập toàn thân, có thể nghiền nát kiếm bay pháp khí; da ngoài cứng rắn, bị thương nhưng khó chết! Cho dù bị giết đến thương tích lông lá, cho dù thân thể bị đánh gãy, cũng không mất mạng."
+
+> "Còn có loại yêu quái này?"
+
+Giang Nguy rất kinh ngạc.
+
+Trần Thanh Tùng đứng trên kiếm bay, gật đầu giải thích:
+
+> "Quả thật có loại yêu quái này, nó gọi là'Huyết Giặc Thú', thịt của nó hầu như không có giá trị, nhưng bên trong có thể phân giải ra rất nhiều răng, cứng rắn异常, so được với pháp khí cực phẩm! Là vật liệu pháp khí không tồi... Nghe nói vì linh hồn đủ mạnh, có thể dùng để chế tạo một số bộ phận tấn công trên chiến thuyền pháp bảo bay lớn, rất có giá trị."
+
+> "Cho dù là yêu quái Huyết Giặc Thú Trúc Cảnh, giá trị đều không tầm thường, bán được hơn vạn Linh Thạch."
+
+> "Giàu vậy?"
+
+> "Lấy được yêu quái Huyết Giặc Thú Kết Đan, chẳng phải giá trị hơn mười vạn Linh Thạch?"
+
+Trần Thiên Kỳ rất kinh ngạc.
+
+Lâm Nam Thiên liếc hắn một cái:
+
+> "Thật gặp phải yêu quái Huyết Giặc Thú Kết Đan, bọn ta năm người không đủ cho nó nhét kẽ... Cái miệng máu kia mở ra, tu sĩ bình thường sẽ bị pháp thuật yêu quái mạnh mẽ đông chặt, cảnh giới càng cao, phạm vi khống chế càng rộng! Nổi tiếng là miệng máu mở ra, không chết không thôi!"
+
+> "..."
+
+Mọi người không ai không sợ.
+
+> "Yêu quái lợi hại vậy? Thế mà chỉ xếp hạng ba?"
+
+> "Đó là..."
+
+> "Đó là vì hạng hai và hạng nhất của yêu quái còn mạnh hơn, còn đáng sợ."
+
+Lâm Nam Thiên nói:
+
+> "Hạng hai gọi là'Yểm Trùng', sống trong vùng sâu đầm ẩm ướt sương mù độc khí, hành động theo đàn, thân thể rất nhỏ, nhưng có năng lực ảo thuật mạnh mẽ... Rất nhiều người đến gần khu vực hoạt động'Yểm Trùng', đều không hay biết đi vào ảo cảnh, rồi bị dẫn vào vùng sâu trong đầm."
+
+Gặp phải đội ngũ tu sĩ'Yểm Trùng', gần như chín chết một sinh, rất khó sống sót ra.
+
+Gặp phải Huyết Giặc Thú, có thể giết có thể chạy! Gặp'Yểm Trùng', gần như không có cơ hội ra tay."
+
+Trần Thiên Kỳ, Giang Nguy sắc mặt khó coi.
+
+> "Vậy hạng nhất là yêu quái gì?"
+
+'Yểm Trùng' đã sợ như vậy...
+
+Hạng nhất con kia, không phải mạnh đến không có điểm dừng, chín chết không sống?
+
+Lâm Nam Thiên và Trần Thanh Tùng nhìn nhau.
+
+> "Sư huynh, ngươi nói?"
+
+Người sau lộ vẻ ngưng trọng, nói:
+
+> "Hạng nhất nghe nói là một loài yêu trùng, nhiều năm xuất hiện một lần, ra ngoài tìm thức ăn... Mỗi lần xuất hiện, sẽ có cơn thú triều quy mô lớn! Đại lượng yêu quái sẽ từ bên trong Vùng Đầm Vân Trạch trốn ra! Tránh mũi nhọn! Trong đó có cả Huyết Giặc Thú và'Yểm Trùng'."
+
+> "..."
+
+Hai người trợn mắt há hốc.
+
+Huyết Giặc Thú và'Yểm Trùng' đều phải tránh...
+
+Yêu trùng mà yêu quái trong Vùng Đầm Vân Trạch đều phải tránh!
+
+Quả thật xứng đáng là Hung số một của Vùng Đầm Vân Trạch!!
+
+> "Ôi chao ôi."
+
+Trần Thiên Kỳ hít một hơi sâu, nói:
+
+> "Sao đột nhiên cảm thấy Vùng Đầm Vân Trạch còn nguy hiểm hơn Rừng Yêu Quái?"
+
+> "Đúng."
+
+Lâm Nam Thiên trợn mắt, nói:
+
+> "Rừng Yêu Quái căn bản không phải nơi tu sĩ Trúc Cảnh bọn ta có thể đụng, bên đó có rất nhiều Chân Nhân Kết Đan của các môn phái trấn giữ, bao gồm một số gia tộc tu hành mạnh và tán tu, thành lập tuyến phòng ngự thành trì khổng lồ chống lại Rừng Yêu Quái, bọn ta đến đó, chết掉了 giống như một con chó hoang bên đường, sẽ không có ai kinh ngạc."
+
+> "..."
+
+Vong Xuyên, Trần Thanh Tùng cùng nhíu mày.
+
+Hai người rất không thích bị Lâm Nam Thiên mô tả như vậy.
+
+Nhưng...
+
+Lâm Nam Thiên nói cũng gần đúng.
+
+Tu sĩ Trúc Cảnh ở đó, không có quyền lợi.
+
+Không có Chân Nhân Kết Đan dẫn đường che chở, bọn họ giống như chó hoang bên đường.
+
+Nhưng cho dù là Lôi Thanh Hạc loại tu sĩ Kết Đan, đến đó, cũng che chở không được bọn họ.
+
+Vong Xuyên tâm tình nặng nề.
+
+Thế giới này...
+
+Mình hiểu vẫn còn quá ít.
+
+Trong lúc nói chuyện.
+
+Năm người đã đêm nay ch���y đ��m hàng nghìn dặm.
+
+Thần thức cảm nhận phía trước xuất hiện đại lượng sương mù...
+
+Vùng Đầm Vân Trạch, đến rồi.
+
+> "Gần đó có một chợ phiên."
+
+> "Là mười mấy gia tộc tu hành và một đám tán tu thành lập, có thể giao dịch vật liệu yêu quái và tin tức, chúng ta có muốn đi xem không?"
+
+Lâm Nam Thiên hiển nhiên không phải lần đầu đến.
+
+Trần Thanh Tùng lắc đầu từ chối:
+
+> "Vùng Đầm Vân Trạch, ta cũng đến vài lần, bản đồ nơi này, đã gửi cho các ngươi, chợ phiên thì không cần đi."
+
+> "Dù sao môn phái ta gần đây nhân sự khẩn trưng, ảnh hưởng lực đối với Vùng Đầm Vân Trạch suy giảm, lúc này, chúng ta rất có khả năng trở thành mục tiêu trong mắt người khác."
+
+> "Các ngươi theo ta, trước tiên vào Vùng Đầm Vân Trạch, từ vùng ngoại vi, tìm一座 đồi gần nhất bố trí pháp trận!"
+
+> "Có lý."
+
+Lâm Nam Thiên lúc này cũng trở nên chuyên tâm nghiêm túc, gật đầu tỏ vẻ ủng hộ.
+
+Vong Xuyên gật đầu.
+
+Trần Thiên Kỳ, Giang Nguy theo lời.
+
+Năm người một đường, tốc độ không giảm, xông vào Vùng Đầm Vân Trạch.
+
+Năm người thần thức toàn lực mở rộng, nâng cao cảnh giác.
+
+Bấm khẩu tích lực, bên ngoài mở ra phương pháp thuật phòng ngự.
+
+Pháp bảo sẵn sàng tế ra, ứng phó bất kỳ biến cố nào.
+
+PS:
+
+Hiện tại nợ 14 chương~ phát điện phát điện~
+
+Cuốn sách này và phim của降龙神捕, mọi người xem chưa? Có cảm tưởng gì~

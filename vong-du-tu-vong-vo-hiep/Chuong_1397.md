@@ -1,0 +1,183 @@
+# 🗡️ Chương 1397: Bát Tầng Hỏa Tháp! (Bùng nổ - Chương thứ bảy)
+
+---
+
+Không khí trung tâm chỉ huy vô cùng ngưng trọng.
+
+Sau khi nhập lại tin tình báo mới nhất, siêu trí tuệ não đối với hiện trạng Hắc Quỷ Tông tiến hành mô phỏng đẩy mạnh.
+
+So với năm ngoái, Hắc Quỷ Tông tổn thất hơn một vạn đệ tử ngoại môn; hơn một nghìn đệ tử nội môn Trúc Cảnh, cùng hơn hai mươi vị Chân Nhân Kết Đan.
+
+Dù đệ tử ngoại môn có thể bổ sung nhanh chóng, nhưng tinh nhuệ nội môn và Chân Nhân Kết Đan dựa vào trụ cột tương đối, cần chu kỳ dài mới có thể bù đắp.
+
+Thực lực Hắc Quỷ Tông bị suy giảm nhỏ, đây là sự thật.
+
+Quan trọng hơn!
+
+Theo mô hình siêu trí tuệ não đưa ra.
+
+Mỏ 秘银 Vạn Ma Cốc vừa ra, dẫn đến phụ cận Thất Thập Linh Mạch chịu áp lực, đối mặt uy hiếp Nguyên Anh kỳ Lưỡi Xanh Lợi Đới;
+
+Đồng thời!
+
+Ác Quỷ Điện chiếm đoạt phố Vùng Đầm Vân Trạch, lấy nơi này làm据点, đóng gốc bên ngoài cửa Hắc Quỷ Tông, tương đương đem một vuốt伸 đến Hắc Quỷ Tông.
+
+Thứ này có năm vị Nguyên Anh cấp quỷ tu, là quái vật to lớn hơn Vạn Ma Cốc, là uy hiếp lớn hơn, mang đến áp lực to lớn cho Hắc Quỷ Tông.
+
+Trưởng Sử Trường, Lý Trường Thịnh, Chu Du Hạ và đám trí tang, đứng trước mô hình lớn Hắc Quỷ Tông, cảm nhận được áp lực và uy hiếp thực tế chân thực, đang ép buộc không gian sinh tồn Hắc Quỷ Tông.
+
+Tình hình Hắc Quỷ Tông đã trở nên tương đối cấp bách.
+
+Trưởng Sử Trường hít sâu một hơi, mắt lộ vẻ ngưng trọng, nói:
+
+> "Hắc Quỷ Tông hiện tại duy nhất ưu thế, chính là năm ngoái tranh chấp Vạn Ma Cốc, thắng được bảy's phần灵石 phân thể Thất Thập Linh Mạch, có thể dự trữ灵石 tài nguyên thêm năm năm, phương diện tài nguyên còn tương đối phong phú."
+
+> "Các phương diện khác, đều đã lâm vào tương đối劣势."
+
+> "Dù là đối mặt Hỏa Linh Môn, hay là Ác Quỷ Điện."
+
+Lý Trường Thịnh gật đầu phụ họa nói:
+
+> "Đáng sợ hơn là, hiện trạng Hắc Quỷ Tông, dựa vào bản thân bọn họ căn bản không thể nghịch chiến."
+
+> "Ở trên cái bàn này, Hắc Quỷ Tông đã trở thành một trong những thế lực tu tiên môn phái cường đại nhất yếu nhất."
+
+> "Hắc Quỷ Tông đại khái đã lên thực đơn của Ác Quỷ Điện."
+
+> "..."
+
+Mọi người im lặng đối đáp, phục nhận suy đoán của Lý Trường Thịnh.
+
+Chu Du Hạ nói:
+
+> "Hắc Quỷ Tông nhiều nhất còn có năm năm thời gian."
+
+> "Năm năm sau, phân thể khai thác Thất Thập Linh Mạch tái định, một khi biểu hiện không đạt yêu cầu, liền sẽ trở thành ngòi nổ chính thức Hắc Quỷ Tông đi xuống suy thoái."
+
+> "Tất nhiên!"
+
+> "Nếu trong khoảng thời gian này, Ác Quỷ Điện liên tục áp lực, suy yếu Hắc Quỷ Tông, Hắc Quỷ Tông ứng phó thất bại, có thể sụp đổ còn nhanh hơn."
+
+Trong đại sảnh, có người đưa ra quan điểm khác:
+
+> "Nên không đến mức đó chứ?"
+
+> "Hắc Quỷ Tông dù sao còn có hai vị Nguyên Anh kỳ tồn tại, có hơn hai trăm phong chủ trưởng lão, tiền đề摆在这儿, Ác Quỷ Điện cưỡng ép động thủ, sẽ rất nguy hiểm."
+
+> "Hơn nữa,牙齿 mất, môi cold的道理, Hỏa Linh Môn cùng các môn phái phụ cận khác sẽ không không hiểu, nhất định cũng sẽ ngầm介入, viện trợ Hắc Quỷ Tông."
+
+> "Ngầm介入 viện trợ, cũng có thể chỉ là biến tướng等价交换, thậm chí là đòi hỏi vàhút máu, ngăn cản không được sự diệt vong của Hắc Quỷ Tông."
+
+Trưởng Sử Trường nâng mí mắt, nói có trọng lượng:
+
+> "Dù thế nào, thời gian cho chúng ta không còn nhiều."
+
+> "Chúng ta nhất định phải nắm chặt thời gian, nhanh chóng壮大了 Trấn Ma Ti."
+
+Lời nói chuyển hướng!
+
+Trưởng Sử Trường đối mọi người nói:
+
+> "Vân Lam Phong đại sư huynh 'Phó Nguyệt Kiệt' bị Vong Xuyên chế tác thành Hắc Huyết木傀, tính là vì chúng ta loại trừ một đại uy hiếp, năm sau血月 giáng lâm, chúng ta bố trí hơn một vạn tu sĩ Luyện Khí kỳ trong Hắc Huyết thế giới, Vân Lam Phong đã không đáng lo."
+
+> "Nhưng chúng ta nhất định phải sớm quy hoạch!"
+
+> "Trước khi Hắc Quỷ Tông triệt để sụp đổ, tìm đến một nơi an toàn hoàn toàn mới,安身立命,"
+
+> "Từ hiện tại bắt đầu, tổ chức một đội ngũ hoàn toàn mới, toàn lực thu thập tin tức thế giới trung đẳng vị trí, tìm kiếm nơi thích hợp, làm tốt chuẩn bị dời đi."
+
+Lý Trường Thịnh đưa ra quan điểm khác.
+
+> "... Trưởng Sử, quá nhiều nhân viên tập trung dời đi, sẽ gây ra các thế lực tu tiên địa phương cảnh giác, dẫn đến Chân Nhân thậm chí lão tổ chú ý, đối với chúng ta دون này, nguy hiểm càng lớn."
+
+Trưởng Sử Trường gật đầu biểu hiện hiểu:
+
+> "Đây là kế hoạch lúc không còn cách nào khác, mới sẽ khởi động."
+
+> "Chúng ta còn có Hắc Huyết thế giới có thể chuyển đổi."
+
+> "Chân thật đến ngày đó, chúng ta có thể phân từng đợt tiến hành, đem toàn bộ tu vi Luyện Khí kỳ đều đưa vào Hắc Huyết thế giới, chỉ an bài tu vi Trúc Cảnh trở lên tiến hành chuyển đổi ban đầu."
+
+Trưởng Sử Trường đã sớm có chuẩn bị.
+
+Mọi người chậm rãi gật đầu.
+
+...
+
+> "Đinh!"
+
+Hệ thống nhắc nhở:
+
+> "《Lưu Ly Hỏa Tháp》 từ 'thuật pháp viên mãn' nâng lên 'nhất niệm pháp xuất', đạt được 8 điểm thuộc tính hỏa linh căn."
+
+Vong Xuyên rốt cuộc vào ngày trước khi nhiệm vụ môn phái kết thúc, thuận lợi đem《Lưu Ly Hỏa Tháp》 chính thức đẩy đến cảnh giới cao nhất.
+
+Chi phí là tổng cộng tiêu hao hơn mười vạn枚 linh thạch.
+
+Trần Thanh Tùng bốn người toàn bộ tham gia, hiểu Vong Xuyên lá bài át này沉重代价, cảm thán thở than đồng thời, cũng đối quyết định và tài lực Vong Xuyên rất kính phục.
+
+Hãy suy nghĩ...
+
+Tu luyện thêm vài môn công pháp như vậy, gần như có thể dự trữ tài nguyên đột phá Kết Đan!
+
+Người bình thường ai có thể tiêu hao nổi số tiền này?
+
+Nhưng mọi người cũng đều biết.
+
+Vong Xuyên có 'nhất niệm pháp xuất'《Lưu Ly Hỏa Tháp》, không những thực lực bản thân bạo tăng, ở Trúc Cảnh kỳ không cần kiêng kỵ bất kỳ thiên tài nào tồn tại, dù là bốn người bọn họ, cũng đều có thể theo nhau chiếu phúc, nhận được phù lục giá trị không rẻ.
+
+Trước khi nhiệm vụ môn phái kết thúc, đội tuần tra mới đến giao tiếp.
+
+Một đám người quay về Thanh Hạc Phong.
+
+Vừa về đến linh phong, liền thấy Chu Ngưu Dung ở cửa đón.
+
+> "Đại sư huynh."
+
+> "Sư đệ."
+
+> "Các vị辛苦了."
+
+Chu Ngưu Dung chủ động抱拳致歉:
+
+> "Rất xin lỗi, liên lụy mọi người trong nhiệm vụ lần này gặp tập kích, thiếu chút nữa hại chết hai vị sư đệ."
+
+> "May mắn sư phụ kịp thời đến, bằng không, chúng ta Thanh Hạc Phong lại muốn chịu tổn thất to lớn."
+
+Chu Ngưu Dung đã sớm biết biến cố Thiên Trì据点,忐忑 khó chịu rất lâu.
+
+Vong Xuyên cười nói:
+
+> "Một chút ngoài ý muốn, sư tỷ không cần để trong lòng."
+
+> "Đúng vậy, chúng ta đây không phải vô sự sao."
+
+Giang Nguy cũng không để trong lòng.
+
+Chu Ngưu Dung gật đầu, cười nói:
+
+> "Nhiệm vụ lần này kết thúc, các ngươi đều có thể nhận được nửa năm dưỡng thời gian, những nhiệm vụ môn phái còn lại, ta sẽ giao cho các sư đệ muội khác."
+
+> "Tốt!"
+
+> "Chúng ta đúng lúc闭关 tu luyện một chút."
+
+Trần Thiên Kỳ, Giang Nguy cùng người ở đây抱拳致 ý, cuối cùng đối Vong Xuyên nói:
+
+> "Tiểu sư đệ, chờ tin tốt của ngươi."
+
+> "Tốt!"
+
+Vong Xuyên biết bọn họ là muốn chờ phù lục của mình, gật đầu đáp ứng, sau đó nhìn theo mấy vị sư huynh rời đi.
+
+Lâm Nam Thiên ở lại, đối Chu Ngưu Dung nhỏ giọng tiết lộ chuyện Vong Xuyên tu luyện《Lưu Ly Hỏa Tháp》.
+
+> "Sư đệ muốn tu luyện《Tử Phủ Thần Lạc Quyết》? Đúng lúc! Ta đây có chuẩn bị một nhóm vật liệu chế phù, tính là quà xin lỗi bồi dưỡng cho tiểu sư đệ."
+
+> "Sư tỷ quá khách khí."
+
+Vong Xuyên không từ chối:
+
+> "Chỉ là, đệ phải đi gặp sư phụ trước, đợi đệ từ sư phụ bên kia trở về, lại cùng sư tỷ thỉnh giáo, tu luyện tầng thứ hai《Tử Phủ Thần Lạc Quyết》."
+
+> "Tốt."

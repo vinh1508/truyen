@@ -1,0 +1,191 @@
+# 🗡️ Chương 1378: Yên La Quỷ Kiếm (Bùng nổ - Chương thứ tư)
+
+---
+
+Thanh Hạc Phong tổng cộng có năm bàn rèn.
+
+Vong Xuyên không khách khí, kéo toàn bộ về động phủ của mình.
+
+Theo yêu cầu trên玉quyết, bố trí trong động phủ阵法 địa hỏa chuyên dụng rèn pháp khí, pháp bảo, kéo đến năm bàn rèn, rồi gọi năm mươi thợ rèn của Trấn Ma Ty đến.
+
+Năm mươi người đứng nghiêm.
+
+Vong Xuyên nói:
+
+> "Các ngươi đã nắm vững《Ngự Linh Luyện Kích Quyết» đại khung."
+
+> "Giờ, nơi đây có một lô vật liệu yêu quái có thể dùng để rèn pháp khí, các ngươi mỗi người lấy một phần rèn pháp khí."
+
+> "Với năng lực của các ngươi, tin cũng không làm khó các ngươi, bắt đầu đi."
+
+Rồi đưa số lượng lớn lông vụt Yêu Điêu Thú, giao cho bọn họ tự xử lý.
+
+Lông vụt vỡ dùng để thí nghiệm;
+
+Lông vụt tốt dùng để rèn pháp khí.
+
+Vong Xuyên dặn dò xong, trở về chỗ tu luyện của mình.
+
+Lúc này.
+
+Trong Tuệ Thú Trùng, Hỏa Lan đã tỉnh dậy.
+
+Một miếng thịt Ngư Long Thú Trúc Cảnh, khiến nó đột phá đến Kỳ Khí tứ, linh lực giới hạn đến tám trăm điểm.
+
+Vong Xuyên triệu hồi Thiên Phiên ra, nói với nó:
+
+> "HỏaLan giao cho ngươi, nó có thể ăn bao nhiêu thịt, ngươi sắp xếp."
+
+> "Vâng, chủ nhân."
+
+Tiểu Bạch tuy không hiểu sao HỏaLan lại thiếu cả kiến thức thường nhưng, nó có kinh nghiệm, lần này cắt một miếng thịt hơi lớn một chút, giao cho HỏaLan.
+
+HỏaLan nuốt xuống, lập tức lại toàn thân nóng hầm hậu ngất đi.
+
+Tiểu Bạch đành lắc đầu, tiếp tục ăn ngon.
+
+HỏaLan ăn không được《Thú Linh Đan》, chỉ có thể dựa vào yêu thuật《Nuốt Thịt》 để tiêu hóa linh hồn, linh lực trong thịt yêu quái.
+
+Vong Xuyên lặng lẽ thu HỏaLan vào Tuệ Thú Trùng, lấy ra ba túi đồ.
+
+Rốt cuộc có thời gian, có thể xem kỹ chiến lợi phẩm của ba tu sĩ Trúc Cảnh Ác Quỷ Điện.
+
+Xếp từng cái ra.
+
+Không bao lâu, mặt đất đã xếp chín túi đồ.
+
+Sáu túi đồ còn lại e là từ tu sĩ khác để lại, bốn túi đồ rất nghèo, chỉ có vài pháp khí và một chút Linh Thạch đan dược;
+
+Hai túi đồ e là từ mồi ngắm Trúc Cảnh, có ba pháp khí cực phẩm, hai nghìn Linh Thạch.
+
+Hơn chẳng có gì.
+
+Vẫn là túi đồ tu sĩ Ác Quỷ Điện phong phú nhất.
+
+Tổng cộng ba vạn năm nghìn Linh Thạch;
+
+Các loại đan dược hơn mười lọ.
+
+Trong đó tương đối quý giá là《Trúc Cảnh Đan》, có hai viên.
+
+Pháp khí cực phẩm năm kiện;
+
+Pháp bảo năm kiện!
+
+Theo giá năm nghìn Linh Thạch một pháp khí cực phẩm, chỉ riêng pháp khí đã giá trị bốn vạn Linh Thạch.
+
+Thiệt hụt một阵 đĩa, đã lấy lại, còn có lời.
+
+Năm pháp bảo, bốn kiện đều là pháp bảo hạ phẩm, một kiện pháp bảo trung phẩm.
+
+Hai cây đinh ván quan tài đen kẽm, trên khắc văn minh xâm thực hồn phách phong ấn linh lực, rất bẩn;
+
+Kiện pháp bảo thứ ba là mảnh sọ yêu quái không biết chế tạo thành gương bảo vệ tim, mặt trước hình mặt yêu quái, mặt sau văn minh, nhìn cũng khí tà, hiệu quả phòng ngự không thua精钢环.
+
+Kiện pháp bảo thứ tư là kiếm bay pháp bảo phổ biến, thuộc tính thủy linh căn, bình thường;
+
+Kiện pháp bảo cuối c��ng có chút đặc điểm, là pháp bảo trung phẩm, kiếm bay màu đen, thân kiếm đốm đốm từng bộ mặt quỷ dữ.
+
+Yên La Quỷ Kiếm: Pháp bảo trung phẩm.
+
+Thúc một nghìn điểm linh lực, đối địch bộc phát bốn nghìn điểm pháp thuật công kích;
+
+Thúc một nghìn năm trăm điểm linh lực, có thể thêm cho mục tiêu gần trăm trượng khu vực đối phương tạo ra bốn nghìn điểm pháp thuật công kích không phân biệt tiếng quỷ hét.
+
+(Vũ khí tà khí)
+
+Vong Xuyên đối với những chiến lợi phẩm này, đều rất không hài lòng.
+
+Năm pháp bảo này, hắn đều dùng không được.
+
+Không phải quá tà khí, chính là bình thường, không thể thế chỗ pháp bảo hắn đang dùng.
+
+Hắn thậm chí không muốn đưa đồ này cho huynh đệ Trấn Ma Ty.
+
+> "Thôi."
+
+> "Mọi người giờ cũng dùng không được pháp bảo."
+
+> "Đổi tài nguyên đi."
+
+> "Một pháp bảo hạ phẩm ít nhất giá trị hai vạn Linh Thạch, một pháp bảo trung phẩm, giá trị trên năm vạn Linh Thạch, có thể đổi được mười ba vạn Linh Thạch."
+
+Vong Xuyên lấy truyền âm phù, gửi tin cho sư tỷ Chu Vu Nhung, nhờ cô tìm người mua.
+
+Chu Vu Nhung nhanh chóng trả lời:
+
+> "Pháp bảo trên thị trường rất được yêu thích."
+
+> "Những pháp bảo của ngươi tuy đều là tà tu dùng, nhưng cũng bán được, nhiều tu sĩ Trúc Cảnh không có pháp bảo sẽ không ngại."
+
+> "Ta vừa hỏi mấy vị đệ trên Linh Phong, bọn họ hứng thú lấy hai kiện kiếm bay và miếng gương bảo vệ sọ."
+
+> "Các vị đồng minh Linh Phong gần đó, hứng thú mua đinh ván quan tài, chỉ là, đòi giá không thể quá cao."
+
+Chu Vu Nhung đưa ra giá tâm lý của bọn họ:
+
+> "Đinh ván quan tài, hai vạn Linh Thạch một kiện."
+
+> "Gương bảo vệ sọ ba vạn Linh Thạch."
+
+> "Kiếm bay ba vạn."
+
+> "Kiếm bay trung phẩm, sư tỷ ta mua, tính cho ngươi sáu vạn Linh Thạch."
+
+> "Giá công bằng, theo lời chị nói."
+
+Vong Xuyên lập tức chạy một chuyến Thanh Hạc Phong, hoàn thành giao dịch với những người này.
+
+Tổng cộng vào tay hai mươi mốt vạn Linh Thạch.
+
+Một lô vật liệu yêu quái chưa bắt đầu động, chi trả cho Trần Thanh Tùng những người khác Linh Thạch không chỉ thu hồi, còn lời mười mấy vạn Linh Thạch.
+
+Thu hoạch cuối cùng có thể vượt qua ba mươi vạn Linh Thạch.
+
+Vong Xuyên rảnh một thời gian xuất tuyến.
+
+Trưởng Ty được tin thu hoạch của Vong Xuyên, rất vui mừng:
+
+> "Chi phí hàng ngày của Trấn Ma Động hao tổn hơi lớn."
+
+> "Tuy bọn ta đã hết sức khai nguồn tiết kiệm, nhưng mỗi năm ít nhất phải hao tổn hơn hai mươi vạn Linh Thạch! Thu không đủ chi! Sư lão này một lần thu hoạch, quả thật giải quyết được vấn đề gấp gáp."
+
+> "Đúng."
+
+Vong Xuyên gật đầu, nói:
+
+> "Loại hao tổn này, đã là vì bọn ta tương đối tiết kiệm, không có mở ra dùng hết《Dẫn Khí Đan》 và Linh Thạch... nhưng như vậy, người của bọn ta, muốn trong một năm sinh ra không quá nhiều tu sĩ Trúc Cảnh."
+
+> "Đúng."
+
+Trưởng Ty thở dài:
+
+> "Đây cũng là không có cách."
+
+> "Nếu thật sự mở ra cung cấp, mỗi người mỗi ngày phải đốt một trăm viên Linh Thạch và bốn viên《Dẫn Khí Đan》, tài nguyên hiện tại của bọn ta, không chịu nổi nửa năm."
+
+> "Vẫn theo kế hoạch của bọn ta, trước tiên năm vị phòng trì, mấy v�� ngồi堂, batch đệ tử đầu tiên toàn bộ đắp đến Trúc Cảnh! Còn lại, toàn bộ nâng cấp lên Kỳ Khí thập nhị hoặc Kỳ Khí đại viên mãn."
+
+Vong Xuyên gật đầu:
+
+> "Chỉ có thể như vậy."
+
+Đúng lúc này, có người truyền tin đến trung tâm chỉ huy:
+
+> "Trưởng Ty."
+
+> "Có ba vị đệ đã rèn ra pháp khí trung phẩm'Lông Vụt Phi Châm'."
+
+> "Bắt đầu chuyển sang kiến thượng phẩm'Lông Vụt Phi Nhận'."
+
+Trưởng Ty bên này, một đám người lộ nụ cười.
+
+Trưởng Ty đối Vong Xuyên nói:
+
+> "Sư lão, xem ra ngươi khởi động kế hoạch Luyện Kích Sư, tiến triển rất thuận lợi, giờ, mọi người đã rèn ra pháp khí hạ phẩm, bắt đầu thành công chế tạo ra pháp khí trung phẩm!"
+
+> "Không bao lâu, batch Luyện Kích Sư này có thể nhanh chóng chế tạo ra pháp khí thượng phẩm, đưa《Ngự Linh Luyện Kích Quyết» nâng lên tầng ba."
+
+Vong Xuyên mặt tươi cười:
+
+> "Lô vật liệu này, có thể đảm bảo bọn họ linh lực tăng mạnh, đuổi kịp đồng cấp, sau có thể tính cho Lục Bình An, Quốc Gia bọn họ cùng học《Ngự Linh Luyện Kích Quyết»."

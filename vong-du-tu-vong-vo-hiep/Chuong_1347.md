@@ -1,0 +1,187 @@
+# 🗡️ Chương 1347: Lôi Thanh Hạc Hạ Máu Bản (Bùng nổ - Chương thứ năm)
+
+---
+
+> "Sư phụ!"
+
+Vong Xuyên từ biệt Chu Vu Nhung, Lâm Nam Thiên, đi đến động phủ tu luyện của Lôi Thanh Hạc.
+
+Lôi Thanh Hạc xuất hiện với vẻ mặt âm trầm, nhìn chằm chằm Vong Xuyên một lúc lâu, mới khó chịu nói: "Ngươi còn biết ngươi có một sư phụ?"
+
+> "Ta còn tưởng ngươi định cả đời này không tìm đến sư phụ tu luyện Đạo Luyện Kích."
+
+> "Đệ tử không dám."
+
+Vong Xuyên nghe ra được sự u uẩn trong lời nói của Lôi Thanh Hạc, vội vàng cười một tiếng, nói:
+
+> "Đệ tử không phải phải ổn định tu vi Trúc Cảnh trước sao? Giờ đệ tử có chút thời gian, đặc biệt đến thỉnh an sư phụ, tiện thỉnh giáo kỹ thuật rèn luyện tầng tiếp theo của《Ngự Linh Luyện Kích Quyết》."
+
+Lôi Thanh Hạc nghe Vong Xuyên có ý tu luyện《Ngự Linh Luyện Kích Quyết》, mọi sự khó chịu lập tức tan biến, nở nụ cười:
+
+> "Thật sao?"
+
+> "Dự định trong thời gian tới, chuẩn bị cùng sư phụ tu luyện《Ngự Linh Luyện Kích Quyết》?"
+
+> "Vâng."
+
+Vong Xuyên đi đến sau lưng Lôi Thanh Hạc, cẩn thận đấm lưng, nói:
+
+> "Đệ tử đã suy nghĩ kỹ rồi."
+
+> "Tu vi Trúc Cảnh đã ổn định,《Ngũ Hành Kiếm Quyết》 tu luyện đến một cảnh giới nhất định, sư phụ đợi lâu rồi, đệ tử xin mấy ngày, theo sư phụ học cách rèn luyện pháp bảo thật sự, sau đó có thể về tiếp tục tu luyện."
+
+> "Tiểu tử kiêu ngạo."
+
+> "Mấy ngày..."
+
+Nếu không phải Vong Xuyên bộc lộ thiên phú phi nhân, hắn đã tát cho một cái.
+
+> "Ngươi thật sự cho rèn luyện pháp bảo cũng dễ dàng đơn giản như rèn luyện pháp khí?"
+
+> "Thứ này, không có chút linh tính, không có chút bản lĩnh thật, thì học không được."
+
+Lôi Thanh Hạc hít một hơi lạnh, gõ trước để cảnh cáo Vong Xuyên.
+
+Vong Xuyên lại cười:
+
+> "Trước đây rèn Lục Ma Kiếm, sư phụ cũng nói vậy mà."
+
+> "Thật sao?"
+
+Lôi Thanh Hạc mặt đỏ lên.
+
+> "Được!"
+
+> "Ngươi đã nói vậy rồi."
+
+> "Thôi."
+
+> "Chúng ta bắt đầu."
+
+> "Là con la hay ngựa, kéo ra溜 cho xem!"
+
+Lôi Thanh Hạc cũng không phục, trực tiếp mở pháp trận địa hỏa của Luyện Kích Sư, bắt đầu giảng giải:
+
+> "Rèn luyện pháp bảo, cần vật liệu Linh Uẩn mạnh mẽ hơn, có thể là vật liệu yêu quái mạnh mẽ, cũng có thể là kim loại Linh Thông quý hiếm trực tiếp rèn luyện."
+
+> "Những thứ đó ngươi đều hiểu."
+
+> "Nhưng rèn luyện pháp bảo, hoặc là cần khai phát triệt đế để linh tính và dấu ấn hồn phách của vật liệu yêu quái, kích hoạt năng lực thuật pháp thiên phú mạnh mẽ!"
+
+> "Hoặc, là tận dụng nhiều pháp trận văn minh hơn, kích hoạt cường độ công kích và phòng ngự mạnh mẽ, khắc họa Linh Căn thuật thứ phù hợp!"
+
+> "Ngươi có suy nghĩ gì?"
+
+Vong Xuyên đã chuẩn bị sẵn, trả lời:
+
+> "Đệ tử có pháp bảo phòng ngự Cưang Hồn, mới thu được một viên Ngưng Băng Châu, có thể công có thể phòng! Về công kích có Lục Ma Kiếm và pháp bảo trung phẩm 'Phong Bạo Trả Ma Đao', thật ra hiện tại cần nhiều hơn là pháp bảo loại phụ trợ."
+
+> "Pháp bảo loại phụ trợ."
+
+Lôi Thanh Hạc hơi nhíu mày, nói:
+
+> "Nói cụ thể xem."
+
+Vong Xuyên trầm ngâm nói:
+
+> "Với thực lực của đệ tử, đối phó tu sĩ Trúc Cảnh thật ra đã không có quá nhiều khó khăn, ít nhất bảo toàn tính mạng là không có vấn đề, nhưng đệ tử thiếu phương tiện bảo toàn tính mạng trong tay tu sĩ Kết Đan."
+
+Rồi kể lại việc mình thực hiện nhiệm vụ môn phái, suýt nữa bị tu sĩ Kết Đan chân chính tấn công lần thứ hai.
+
+Lôi Thanh Hạc gật đầu với vẻ mặt ngưng trọng:
+
+> "Nói đúng!"
+
+> "Hiện tại nhân viên môn phái khan hiếm, độ khó và tính nguy hiểm của nhiệm vụ môn phái các ngươi tăng lên, quả thật cần có nhiều biện pháp phòng ngự hơn."
+
+> "Kết Đan Chân Nhân, là tồn tại các ngươi không thể chống lại, biện pháp tốt nhất là ẩn giấu khí tức, hoặc pháp bảo loại chạy trốn."
+
+Nói đến đây, hắn suy nghĩ một lúc, có chủ ý.
+
+Vong Xuyên nhìn thấy, sư phụ vẫy tay một cái, trên bàn rèn xuất hiện ba thứ vật liệu.
+
+Một thứ là da ngoài yêu quái mỏng như cánh ve, màu sắc lấp lánh, cho cảm giác như khói, luôn thay đổi bất cứ lúc nào, vô cùng thần kỳ;
+
+Thứ hai cũng là da thú yêu quái, là da thú trắng hiếm thấy, bên ngoài còn giữ lại một nắm lông trắng, vẽ ra đường vân sét, linh tính rất mạnh;
+
+Cái cuối cùng là thứ giống như kén tằm màu nâu đen, kỳ quái, nhìn không hiểu.
+
+Lôi Thanh Hạc không giấu được vẻ đắc ý cười giới thiệu:
+
+> "Ba thứ này, đều là bảo bối sư phụ giữ gìn, vẫn đang suy nghĩ dùng để rèn luyện pháp bảo như thế nào."
+
+> "Nhưng hôm nay nghe Vong Xuyên ngươi nói, sư phụ đột nhiên có cảm hứng!"
+
+Vong Xuyên lắng nghe yên lặng.
+
+Lôi Thanh Hạc nói:
+
+> "Thứ bảo thứ nhất, đến từ một con yêu quái có thiên phú ẩn náu ngụy trang, da ngoài của nó có thể rèn thành loại pháp bảo áo choang, chỉ cần bố trí một số pháp trận văn minh, kích hoạt năng lực hồn lực và thiên phú của nó là được."
+
+> "Thứ bảo thứ hai, có thể rèn thành giày... Yêu quái khi còn sống dường như thuộc hệ Phong, tốc độ cực nhanh, kích hoạt thiên phú, có thể tăng phương tiện chạy trốn bảo toàn mạng sống."
+
+> "Cái cuối cùng, có xác suất kích hoạt《Thổ Độn Thuật》 khi yêu quái còn sống."
+
+Vong Xuyên nghe đến năng lực pháp bảo cuối cùng, mắt lập tức sáng lên.
+
+Ngũ Hành Độn Thuật - Thổ Độn!
+
+Đây là thần kỹ!
+
+《Thổ Độn Thuật》 của Hắc Quỷ Tông chỉ có thể gọi là《Nham Thạch Ngụy Trang Thuật>, tiếp cận đá đất, có thể khiến mình hòa làm một với khí tức đá đất, nhưng không thể di chuyển, hoặc khi di chuyển rất dễ lộ ra sơ hở.
+
+Nhưng đây là Thổ Độn thật sự!
+
+Có năng lực này bên mình, gặp Kết Đan Chân Nhân cũng có cơ hội trốn thoát.
+
+Vong Xuyên cảm thấy kinh ngạc.
+
+> "Sư phụ."
+
+> "Loại vật liệu yêu quái hiếm thấy như vậy, sư phụ lại có đến ba thứ."
+
+> "Đệ tử bội phục."
+
+Lôi Thanh Hạc cười đắc ý ha ha:
+
+> "Tiểu tử, nếu không phải vì ngươi, ta mới không舍得 lấy hết ra."
+
+> "Chọn một thứ đi!"
+
+Trong mắt Lôi Thanh Hạc lóe lên vẻ xảo quyệt, nói:
+
+> "Chỉ cần ngươi《Ngự Linh Luyện Kích Quyết> đột phá một cảnh giới, sư phụ sẽ tặng ngươi thêm một thứ! Thế nào?"
+
+Đ��� đệ tử truyền nhụy nhanh chóng nắm giữ truyền thừa của mình, Lôi Thanh Hạc cũng hạ máu bản rồi.
+
+Ba thứ vật liệu này, quả thật là bảo bối hiếm có trong tay hắn.
+
+Vong Xuyên nghe vậy, lập tức đi đến trước bàn rèn, chạm vào ba thứ vật liệu yêu quái, cẩn thận cảm nhận độ dẻo dai của vật liệu yêu quái, suy nghĩ trong đầu phương pháp rèn phù hợp.
+
+Lôi Thanh Hạc ở bên cạnh chỉ dẫn:
+
+> "Cường độ của ba thứ vật liệu này khác nhau, cần dùng phương pháp rèn, công cụ rèn cũng hoàn toàn khác..."
+
+> "Nhưng ngươi cũng đừng xem thường chúng."
+
+> "Ba thứ vật liệu này dù sao đến từ yêu quái Kết Đan, rèn luyện sẽ là công trình tương đối lớn."
+
+> "Ví dụ như..."
+
+Lôi Thanh Hạc giảng giải chăm chỉ chi tiết;
+
+Vong Xuyên nghe chu đáo.
+
+Đã qua hơn một canh giờ.
+
+Vong Xuyên lại từ trong nhiều vật liệu yêu quái của Lôi Thanh Hạc, chọn một đống phế liệu vụn vặt, bắt đầu tìm kiếm cảm giác giống nhau, thử nghiệm rèn luyện.
+
+Linh lực hóa búa!
+
+Linh lực hóa đục!
+
+Linh lực hóa đao khắc!
+
+Vong Xuyên quen thuộc từng cái một, rồi ánh mắt rơi vào cái cuối cùng là kén tằm màu nâu đen.
+
+Chính ngươi!

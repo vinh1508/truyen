@@ -1,0 +1,201 @@
+# 🗡️ Chương 1337: Tán Tu Rất Có Tiền (Bùng nổ chương thứ ba)
+
+---
+
+Tu sĩ cầm đao chém ngựa vậy mà không bị Kiếm Mang rượu ba chặt chết tại chỗ.
+
+Vong Xuyên cũng rất kinh ngạc.
+
+Suýt nữa để đối phương chạy thoát.
+
+Chém chết tu sĩ cầm đao chém ngựa...
+
+Vong Xuyên muốn đuổi theo lão giáo cuối cùng, thì linh hồn tàn của đối phương đã bay ra ngoài phạm vi cảm ứng thần thức, biến mất vô tung.
+
+Bốn tu sĩ Trúc Lạc trung kỳ, bốn người chết, ba người hồn phách diệt vong.
+
+Chiến tích lần này, đã tương đối xuất sắc.
+
+Lâm Nam Thiên có vẻ như cho là như vậy.
+
+- Ha ha ha ha...
+
+- Bốn người mai phục, bị chúng ta phản chém bốn!
+
+- Thống khoái!
+
+- Ừm, Ừm...
+
+Lâm Nam Thiên linh lực tiêu hao quá lớn, dưới tác động kích động cảm xúc, không tự chủ được ho lên, nhưng trong thần sắc vẫn đầy phấn khích kích động.
+
+Vong Xuyên lại nhìn chằm chằm hướng linh hồn tàn của lão giáo biến mất, nhăn mày.
+
+Chạy mất một...
+
+Không thể hoàn hảo phá hủy thi thể.
+
+Tuy đối phương chỉ là một tán tu, nhưng vẫn khiến hắn cảm thấy không đủ thỏa mãn.
+
+Trận chiến này, gần như lật hết tất cả底牌 của mình.
+
+Một khi tin tức lộ ra, không phải chuyện tốt.
+
+Thôi xem xét chiến lợi.
+
+Vong Xuyên lập tức thu góp tất cả thi thể và pháp khí.
+
+Lâm Nam Thiên cũng phấn khích xúng lại.
+
+- Tiểu sư đệ.
+
+- Trận chiến này, công lao của ngươi lớn nhất, ngươi lấy phần lớn, ta lấy phần nhỏ là được.
+
+Lâm Nam Thiên tuy là sư huynh, nhưng cũng biết trận chiến này mình chiếm tiện nghi.
+
+Nếu không phải Vong Xuyên đ，提前祭出 Kim Cang Bảo Hộ che chắn hắn, dưới đợt công kích mạnh đầu tiên của tu sĩ cầm đao chém ngựa, hắn ít nhất phải bị thương.
+
+Pháp khí hạ giai 'Phong Điểu Ngọc Trâm' đối đầu với pháp khí trung giai, thế yếu.
+
+Suýt nữa thì thất bại.
+
+- Đều là sư huynh đệ, hỗ trợ lẫn nhau, đừng nói khách khí như vậy.
+
+Vong Xuyên nói:
+
+- Được rồi, nữ tu và người cầm đao chém ngựa kia, đồ của họ, ta nhận, tu sĩ áo trắng và lão giáo, túi trữ vật, thuộc về Lâm sư huynh.
+
+- Quyết định.
+
+Lâm Nam Thiên mắt sáng lên, đồng ý.
+
+Tuy hắn biết, cây đao chém ngựa là pháp khí trung giai, uy năng khác thường, nhưng có thể入手 ba sợi dây thừng vàng của lão giáo, cũng rất tốt.
+
+Ba sợi dây thừng vàng của lão giáo có thể tự do biến hóa thành pháp khí phòng ngự và pháp khí công kích, tính ứng dụng mạnh, giá trị cũng không thấp.
+
+Hơn nữa, Châm Tre của tu sĩ áo trắng cũng là một kiện pháp khí hạ giai, dùng toàn bộ đều là pháp khí cực phẩm, còn có gì mà không nói?
+
+Một trận đánh入手 hai kiện pháp khí, nhiều pháp khí cực phẩm, cùng với toàn bộ gia sản của hai tu sĩ Trúc Lạc trung kỳ, giàu rồi.
+
+Lâm Nam Thiên lập tức bắt đầu kiểm kê túi trữ vật, rất hưng phấn.
+
+Vong Xuyên rất thận trọng, tiện tay ném ra Ngũ Hành Tran, bố trí Ngũ Hành Pháp Trận, rồi nhìn ngắm thi thể và chiến lợi mà Tiểu Bạch thu góp.
+
+Đao chém ngựa...
+
+Đao Phong Bạo: Pháp khí trung giai.
+
+注入 800 điểm linh lực, có thể dẫn động hồn của Xà Lang Lưỡi Xanh, kích hoạt «Đao Phong Tập», gây 2000 điểm thuật pháp công kích Thuộc tính Phong Linh;
+
+注入 1500 điểm linh lực, có thể dẫn động hồn của Xà Lang Lưỡi Xanh, kích hoạt «Phong Bạo Vũ Vũ», triệu hồi vạn đao gió, kinh địch khiếp địch! Trong đó trăm đao gió mỗi đạo chứa tám trăm điểm thuật pháp công kích Thuộc tính Phong Linh.
+
+(Công kích diện rộng, tỷ lệ trúng có phần kém)
+
+Quả là một kiện pháp khí trung giai.
+
+Trong lòng Vong Xuyên mừng rỡ.
+
+Pháp khí trung giai uy năng, so với pháp khí hạ giai quả nhiên mạnh hơn nhiều.
+
+Hơn nữa «Phong Bạo Vũ Vũ» sức phá hủy rất mạnh! Dù đao gió phân tán, tỷ lệ trúng thấp, ít nhất có mười tám đạo đao gió có thể rơi vào mục tiêu, gây ra sức phá hủy kinh khủng!
+
+Trước đó Tướng Điểu超 bện xây tổ vì thể tích rất lớn, gần như ăn hết toàn bộ công kích của một đao này! Đương nhiên là không chịu nổi.
+
+(Dùng để công thành trúhải, là chiêu sát thủ tốt.)
+
+Vong Xuyên lộ nụ cười.
+
+Lúc này...
+
+Có thể thay thế cho Thiên Son Trọng.
+
+Hơn nữa.
+
+Sức phá hủy của Đao Phong Bạo nhiều lần so với Thiên Son Trọng.
+
+Vong Xuyên lập tức ép ra một giọt tinh huyết,祭炼 kiện pháp khí trung giai này.
+
+- Sư huynh.
+
+- Ngươi xem ta kiện pháp khí này, thế nào?
+
+Lâm Nam Thiên truyền đến.
+
+Vong Xuyên quay đầu nhìn.
+
+Chỉ thấy ba sợi dây thừng màu vàng, dưới sự khống chế của Lâm Nam Thiên, quanh thân lúc nào biến hóa thành lá chắn tròn, thể hiện năng lực phòng ngự pháp khí hạ giai, lúc nào duỗi thẳng ra, biến thành ba cây thương vàng, mỗi cây thương linh áp không thua kém pháp khí cực phẩm, thuật pháp công kích trên một nghìn điểm.
+
+- Không tệ!
+
+- Có kiện pháp khí này, sư huynh chiến lực tăng mạnh, chúc mừng.
+
+Vong Xuyên chúc mừng.
+
+Lâm Nam Thiên yêu thích không buông tha, thưởng thức của món đồ này, cười nói:
+
+- Có kiện pháp khí này, sau này ta tương đương với trang bị phòng ngự và công kích hai pháp khí, trong những tu sĩ Trúc Lạc trung kỳ, đã có thể nói là hàng đầu! Đa tạ sư huynh!
+
+Lâm Nam Thiên rất cảm ơn.
+
+Hắn biết, đây là vì Vong Xuyên cố ý chiếu cố.
+
+Vong Xuyên hoàn toàn có lý do để giữ lại kiện pháp khí trung giai này.
+
+Nhưng tiểu sư đệ chọn giao món đồ này cho hắn, nâng cao thực lực của hắn.
+
+Vong Xuyên mặt không đổi sắc, giơ tay bế tấm ngọc phát ra khí lạnh lẽo, nói:
+
+- Sư huynh không cần khách khí.
+
+- Bốn người này thực lực đều không yếu.
+
+- Ngoại trừ tu sĩ áo trắng thực lực hơi yếu một chút, thực ra ba người đều là người giỏi trong những tu sĩ Trúc Lạc trung kỳ... Trong tay ta viên Băng Ngưng Châu này, cũng là pháp khí trung giai có thể công phòng.
+
+Băng Ngưng Châu: Pháp khí trung giai.
+
+注入 800 điểm linh lực, có thể triển khai «Ng领域 Băng Ngưng» đường kính năm mươi trượng, tiêu hao linh lực liên tục, mỗi giây tiêu hao 100 điểm linh lực, có thể gây hiệu ứng làm chậm, suy yếu cho toàn bộ mục tiêu, thuật pháp tiến vào khu vực này, mỗi giây gây 500 điểm thuật pháp công kích.
+
+(Có Thuộc tính Thủy Linh mới có thể sử dụng được)
+
+Vong Xuyên lộ nụ cười.
+
+Băng Ngưng Châu bản thân không yếu, có thể công phòng, nhưng điểm mấu chốt nó tạo ra «Ng领域 Băng Ngưng» có thể giúp Tiểu Bạch tạo ra địa lợi rất mạnh, hỗ trợ Tiểu Bạch ẩn náu hành động và khí tức.
+
+Lúc đó chính vì sự xuất hiện của领域, Tuyết Phi Xà mới có thể ẩn náu khí tức, xâm nhập nhanh, gây một đòn chí mạng cho nữ tu.
+
+Nắm giữ Băng Ngưng Châu, về sau thực lực chiến đấu của yêu thú lại được nâng cao.
+
+Không tệ!
+
+Lâm Nam Thiên nghe xong kinh ngạc, không nhịn được buột miệng:
+
+- Bốn người, ba kiện pháp khí trung giai?
+
+Pháp khí của tu sĩ áo trắng 'Châm Tre' quả thực chỉ là một kiện pháp khí hạ giai rất bình thường, công kích 2000 điểm, không có gì khác.
+
+- Ôi!
+
+- Những tán tu này, so với trong tưởng tượng của ta còn có tiền hơn.
+
+Lâm Nam Thiên líu lưỡi.
+
+Vong Xuyên cười lạnh:
+
+- Làm ăn phiêu lãng nhiều, tự nhiên có tiền.
+
+Năm xưa, hắn từ Huyện Sở một đường giết đến Câu Bang, đương nhiên hiểu rõ tài nguyên lăn lộn như thế nào.
+
+Lâm Nam Thiên nói không sai.
+
+Giới tu tiên, đều là chó sói hung dữ sóc đơn!
+
+Thường so với những tu sĩ được nuôi dưỡng trong tông môn còn lợi hại hơn, càng nguy hiểm!
+
+- Đi thôi.
+
+- Nhiệm vụ thứ hai kết thúc.
+
+- Tiếp theo là nhiệm vụ cuối cùng...
+
+- Nhiệm vụ thu và vận chuyển linh thạch mười ba điểm nhiệm vụ Thất Linh Mạch.
+
+- Hoàn thành nhiệm vụ cuối cùng, chúng ta có thể về, tiếp tục bế quan tu luyện.

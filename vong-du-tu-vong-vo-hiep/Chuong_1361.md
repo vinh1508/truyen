@@ -1,0 +1,211 @@
+# 🗡️ Chương 1361: Tiểu Nữ Nhi, Rất Có Lễ Ngọ (Bùng nổ - Chương thứ ba)
+
+---
+
+Vèo!
+
+Lâm Nam Thiên sớm đã hoàn thành nhiệm vụ tuần tra môn phái tháng Bảy nửa.
+
+Nhưng sư huynh Lâm nóng tính, từ khi biết sư phụ để ba động phủ nhàn rỗi cho Vong Xuyên, tức giận đương trường đi Khe Núi Trường Lao tu dưỡng tĩnh tâm.
+
+Động phủ hơn hai tháng, từ Khe Núi Trường Lao ra, cảm giác cả thế giới đều thay đổi.
+
+Đầu tiên là đến động phủ tiểu sư đệ, muốn xem biến hóa của tiểu sư đệ trong thời gian gần đây, nhìn thấy bia đá trên đỉnh núi — Trấn Ma Động.
+
+> "He."
+
+> "Làm cũng có vẻ oai phong."
+
+Lâm Nam Thiên uống rượu mạnh, đầy hơi men chửi:
+
+> "Tiểu tử, giờ dù sao cũng khống chế bốn động phủ hơn trăm đệ tử ngoại môn, quả thật không giống nhau."
+
+Rồi xa xa nhìn thấy một đội đệ tử ngoại môn trang bị áo choàng Hắc Nham Pháp, lái pháp khí kiếm bay, đón đi.
+
+Dẫn đầu là Âm Dao.
+
+Âm Dao một mắt nhận ra lão béo này chính là Lâm Nam Thiên Lâm sư bá nổi danh của Thanh Hạc Phong.
+
+> "Đệ tử thấy Lâm sư bá."
+
+> "Sư bá có phải tìm sư thúc của chúng ta không."
+
+> "Đệ tử báo sư thúc ngay."
+
+Lâm Nam Thiên nhìn đội mười hai người này, gần như đều là đệ tử Kỳ Khí tầng chín trở lên, dẫn đầu tiểu nữ này xinh đẹp, rất trẻ, lại đã là tu vi Kỳ Khí tầng mười hai.
+
+> "Tiểu nữ, trông cũng đẹp."
+
+> "Trước đây chưa từng gặp ngươi, là người mới?"
+
+Lâm Nam Thiên nhìn lên xuống.
+
+Âm Dao gật đầu, hắn biết Lâm Nam Thiên trong lòng chỉ có nghi ngờ tò mò, không có gì khác, cung kính trả lời:
+
+> "Trả lời Lâm sư bá, đệ tử Âm Dao, là hai tháng trước quy phục dưới trướng Vong Xuyên sư thúc, giờ đảm nhiệm chức Đội Trưởng đội hộ vệ hai."
+
+> "Đội hộ vệ..."
+
+> "Tiểu sư đệ, còn thành lập đội hộ vệ gì? Môn phái Linh Mạch... Có thể nguy hiểm gì?"
+
+Lâm Nam Thiên không để ý.
+
+Âm Dao lại nói:
+
+> "Tháng Bảy nửa, tu sĩ Trúc Cảnh Vân Lam Phong Lý Khôn Vũ sư bác tình cờ tử vong, theo lời đồn đến giờ vẫn chưa tìm được thủ phạm, sư thúc cho rằng, vẫn cần nâng cao cảnh giác, tăng cường phòng bị."
+
+Lâm Nam Thiên trong thời gian này động phủ tu luyện, thật sự không biết việc này.
+
+Nghe hắn rất kinh ngạc:
+
+> "Lý Khôn Vũ..."
+
+> "Thằng kia thật sự chết."
+
+Nhíu mày suy nghĩ, tập trung bị chuyển đi.
+
+Hắn nhìn mười hai đệ tử ngoại môn cung kính trước mặt, nói:
+
+> "Các ngươi cũng đừng báo sư thúc, ta đây đi tìm tiểu sư đệ nói chuyện, đi."
+
+> "Kính tiễn Lâm sư bá."
+
+Âm Dao giọng thanh thúy, dẫn đội sau lưng thi lễ tiễn biệt.
+
+Mọi người đều rất cung kính.
+
+Lâm Nam Thiên bị vỗ rất phê, hihi cười nói:
+
+> "Tiểu sư đệ, thu nhận đệ tử ngoại môn mới, còn rất có ý nghĩa, rất có lễ ngọc."
+
+Rồi phất tay, một túi đồ liền bay ra, biến thành光riêng rơi vào tay Âm Dao:
+
+> "Lần gặp đầu, tặng tiểu nữ ngươi lễ vật gặp mặt."
+
+Nữ xinh gái như vậy, lại còn ngoan ngoãn lễ ngọc như vậy, đối với khuyết điểm của mình không có vẻ gì khác thường, cảm giác rất thoải mái.
+
+Ừm,
+
+Không tệ.
+
+Quan trọng tu vi không thấp, thiên phú chắc chắn không tốt.
+
+T即将 Trúc Cảnh.
+
+Kết善缘.
+
+> "Cảm ơn sư bá."
+
+Âm Dao nhận túi đồ, thấy bên trong có một khoảng Linh Thạch, Đan dược, lại khẽ cúi một lần.
+
+Đổi lấy tiếng cười sảng khoái của Lâm Nam Thiên.
+
+> "Không hổ là sư bá, ra tay hào phóng."
+
+Âm Dao vui vẻ trong lòng, mắt cong thành vẻ trăng non, tiễn biệt Lâm Nam Thiên vào trong khe núi.
+
+Đội trong đội, ai cũng lộ vẻ hâm mộ, nhưng không ai mở miệng nói chuyện.
+
+Bọn họ biết, Đội Trưởng của mình nhìn ngoài mềm yếu, kỳ thực có thể nhìn thấu lòng người, giống như quái vật, có thể chính xác nắm giữ mỗi đệ tử ngoại môn trong bốn địa Trấn Ma Động.
+
+Bao gồm từng gặp mấy tu sĩ Trúc Cảnh trước đó, đều bị dụ dỗ vui vẻ, như Lâm sư bá, đều muốn kết善缘, không phải tặng Linh Thạch tặng Đan dược tặng pháp khí.
+
+Cho nên đối với việc Lâm sư bá tặng lễ vật gặp mặt cho tiểu bối, bọn họ一点 không ngạc nhiên.
+
+> "Đi!"
+
+> "Tiếp tục tuần tra."
+
+Âm Dao dẫn đội xoay vòng, đi Tê Vân Động.
+
+...
+
+Khoảnh khắc Âm Dao và Lâm Nam Thiên, bị Vong Xuyên nhìn thấy hoàn chỉnh.
+
+Lâm sư huynh tuy tuổi đã trăm, nhưng phần lớn thời gian đều tu luyện, đối với việc nắm bắt tâm lý con người, không bằng Âm Dao.
+
+Một lão già cả trăm tuổi, bị lễ vọng Công Dưỡng Trấn Ma Ty ba lời và động tác kích ra thiện cảm, trực tiếp tặng lễ vật gặp mặt.
+
+Chỉ có thể nói, tu luyện《Đạo Tâm Chú Ma Đại Pháp> đến cảnh giới cao nhất của Âm Dao là thật lợi hại, dùng năng lực nhận biết tâm lý, có thể dễ dàng nắm giữ tu sĩ Trúc Cảnh trung kỳ.
+
+Đây là làm主播, há chẳng phải mỗi phút độ nóng phát sóng lên hàng triệu, hàng chục triệu fan? Trở thành hiện tượng đại网红?
+
+Trong lúc suy nghĩ, hắn phân phối:
+
+> "Dừng tu luyện Linh Thạch."
+
+> "Dọn dẹp."
+
+> "Sư huynh Lâm đến."
+
+Mọi người đều thu hồi đống vụn Linh Thạch trước mặt.
+
+Vong Xuyên mở cấm chế khe núi, để Lâm Nam Thiên thuận tiện bay vào.
+
+Lâm Nam Thiên nhìn thấy cảnh tượng bên trong, lại kinh ngạc.
+
+Chỉ thấy trong khe núi có vạn Hắc Huyết Cơ Nhân, đông đảo!
+
+Một nhóm đệ tử ngoại môn và Vong Xuyên, lần lượt rơi trên mười mấy nền tảng tu luyện, liên tục không ngừng thi triển thuật pháp.
+
+Hắc Huyết Trì tỏa ra mùi hôi nồng nặc.
+
+Lâm Nam Thiên nhìn Vong Xuyên, lại nhìn các đệ tử ngoại môn khác, không nhịn được thốt lên:
+
+> "Tiểu sư đệ."
+
+> "Ngươi đối với những đệ tử ngoại môn này, quá tốt."
+
+> "Còn không mau gặp Lâm sư bá."
+
+Vong Xuyên phát lệnh.
+
+Bạch Kinh Tang, Triệu Hắc Ngưu và những người khác đều dừng thi triển thuật pháp, quay về phía Lâm Nam Thiên, ôm quyền thi lễ:
+
+> "Thấy Lâm sư bá."
+
+Lâm Nam Thiên sau mới phát hiện, những người này rõ ràng khác đệ tử ngoại môn bình thường.
+
+> "Xì."
+
+> "Những người này."
+
+> "Thuộc tính tứ trụ rất cao."
+
+> "Cũng đều xuất thân võ giả?"
+
+Lâm Nam Thiên chú ý bị chuyển đi.
+
+Vong Xuyên gật đầu, cười nói:
+
+> "Những người này đều là hạt giống tốt trong đệ tử ngoại môn, đáng để nuôi dưỡng, tương lai đều có hi vọng lớn Trúc Cảnh..."
+
+> "Tiểu sư đệ ngươi tìm đâu ra người, một đám, đều rất không tệ."
+
+Lâm Nam Thiên chú ý, nhóm người này, gần như đều tu luyện đến Kỳ Khí tầng mười một, hơn nữa cảnh giới thuật pháp không thấp.
+
+> "Không có thiên phú, ta cũng không nhìn."
+
+Vong Xuyên như thường lệnh lạnh nhưng kiêu ngạo.
+
+Lâm Nam Thiên gật đầu:
+
+Không tệ!
+
+Thiên phú của tiểu sư đệ, đã cao đến mức đó...
+
+Người bình thường, quả thật khó vào được mắt hắn.
+
+> "Ta nghe sư tỷ nói, ngươi gần đây nhận thêm ba động phủ, ta còn tưởng bên ngươi sẽ loạn một đống, không ngờ... Vẫn có trật tự, tu luyện không rơi."
+
+> "Tiểu sư đệ ngươi quản lý người, rất có một bộ."
+
+> "Thưởng phạt phân minh, rất đơn giản."
+
+Vong Xuyên mỉm cười, đổi đề tài nói:
+
+> "Khí sắc Lâm sư huynh không tệ, cường độ thần thức có tăng lên, đây là《Nghị Hỏa Quyết> đột phá?"
+
+> "Hi."
+
+Lâm Nam Thiên sờ mũi rượu, gật đầu cười tươi nói:

@@ -1,0 +1,229 @@
+# 🗡️ Chương 1377: Đột Phá Lục Cấp (Bùng nổ - Chương thứ ba)
+
+---
+
+Lôi Thanh Hạc dù sao là Luyện Kích Sư lão luyện.
+
+Sau khi hiểu ý định của Vong Xuyên, hắn lập tức tìm ra lỗ hổng trong ý tưởng đổi mới của Vong Xuyên.
+
+Rồi không nhịn được lắc đầu thở dài nói:
+
+> "Thêm阵法 kiên cứng và阵法 phòng ngự bị động, quả thật có thể khiến nó trở nên khó bị phá hủy hơn, có thể giữ lại khả năng sửa chữa lại, nhưng trong nhiều trường hợp, bọn ta Luyện Kích Sư chỉ có thể đưa ra lựa chọn, cá và gấu không thể có cả hai."
+
+Trong hắn nhìn, tấm vật liệu này đã bỏ!
+
+Vong Xuyên vào nghề Luyện Kích Sư, đến giờ, rốt cuộc cũng lãng phí một món vật liệu quý.
+
+> "Không sao."
+
+> "Sau này phải suy tính toàn diện hơn, rõ ràng hơn mới được."
+
+> "Loại đổi mới này, liên quan đến vấn đề rất nhiều, nhất định phải tốn nhiều tâm tư, lần này coi như mua một bài học."
+
+Lôi Thanh Hạc lấy tư thế sư phụ.
+
+Nhưng Vong Xuyên không dừng tay.
+
+Hắn tiếp tục rèn văn minh.
+
+Trong miệng nói:
+
+> "sư phụ nói những thứ này, con cũng có tính đến."
+
+Cho nên ngoài hai loại văn minh này, con còn định bố trí một阵法 thu gọn khí tức... Dùng thủ pháp bọc gói, dẫn dao động linh lực tràn ra, đóng gói, cùng hòa nhập vào trong yêu thuật yêu quái."
+
+> "..."
+
+Lôi Thanh Hạc đã định quay người, nghe xong chân dừng lại, biểu cảnh trở nên异常 phức tạp và điểm.
+
+Ánh mắt rơi vào da yêu quái, trở nên yên lặng.
+
+Keng keng!
+
+Keng keng!!
+
+Vong Xuyên nhanh chóng hoàn thành một幅阵法 văn mới.
+
+Lôi Thanh Hạc nín thở nhìn, xem càng thêm chăm chỉ.
+
+Thao tác của Vong Xuyên rất lưu loát.
+
+Thật ra những phương án đổi mới này là Siêu Trí Não tính toán.
+
+Mỗi ngày đối với các阵法 tiến hành số lượng lớn tái cấu trúc và thiết kế, rồi tính toán khả năng thành công...
+
+Nhà阵法 sư mỗi ngày chỉ có thể进行一次hai次 rèn.
+
+Mỗi một lần đều cần vật liệu quý để thí nghiệm.
+
+Nhưng Siêu Trí Não không cần.
+
+Hắn chỉ cần dựa vào số liệu để tiến hành tính toán lặp đi lặp lại, tiến hành kiểm chứng lặp đi lặp lại.
+
+Da yêu quái chỉ là một tham số tham khảo.
+
+Nhưng tất cả阵法 văn, thật ra là một công thức.
+
+Tất cả công thức tách ra, rồi tái hợp, là có đáp án cố định.
+
+Luyện Kích Sư chỉ cần dựa vào tham số tham khảo, đưa những công thức này ổn định nhập vào là được.
+
+Cho nên.
+
+Trong mắt Lôi Thanh Hạc xem là đổi mới điên rồ, thật ra là Siêu Trí Não sau hàng nghìn lần tái hợp làm ra.
+
+Lại qua nửa ngày...
+
+Khi văn minh cuối cùng hoàn thành.
+
+Thông báo hệ thống vang lên trong tai:
+
+> "Đinh!"
+
+> "《Ngự Linh Luyện Kích Quyết> tăng lên tầng sáu, thưởng sáu điểm thuộc tính linh căn tự do."
+
+Vong Xuyên cảm nhận tinh thần thức nâng cao, cảm nhận linh lực mới từ Đan Điền tràn ra, nhanh chóng qua Hoàng Đình vào Tử Phủ.
+
+Sảng khoái!
+
+Đổi mới sau kiện pháp bảo này, quả thật vượt qua ràng buộc pháp bảo hạ phẩm, tiến vào hàng pháp bảo trung phẩm.
+
+Lôi Thanh Hạc cuồng hứng hơn Vong Xuyên.
+
+Khi văn minh chảy ra ánh sáng nhạt và linh áp, hắn không nhịn được vội vàng đi tới, nhìn chằm chằm tấm vải che mỏng như cánh ve, kỹ càng quan sát.
+
+Tọa Linh Phi Phục: Pháp bảo trung phẩm.
+
+Truyền một nghìn năm trăm điểm linh lực, có thể khiến người dùng hoàn toàn thu gọn khí tức, dao động linh lực, cùng hòa nhập làm một với môi trường xung quanh, không bị thần thức dưới Nguyên Anh探查.
+
+Kéo dài 15 phút;
+
+Sau đó mỗi truyền một trăm điểm linh lực, có thể kéo dài thêm 15 phút.
+
+Bị tấn công, trạng thái bị phá.
+
+(Không còn là vật dùng một lần)
+
+> "Pháp bảo trung phẩm!"
+
+> "Ngươi lại rèn ra pháp bảo trung phẩm!"
+
+> "Điều này..."
+
+> "Quá không thể tin nổi!"
+
+Hai tay Lôi Thanh Hạc run rẩy.
+
+Hơn hai mươi tuổi Luyện Kích Sư, đưa《Ngự Linh Luyện Kích Quyết> tu luyện đến tầng sáu viên mãn.
+
+Đây không còn là thiên tài!
+
+Đây là quái vật!!
+
+Đối phương thậm chí đưa vật phẩm thiết kế chỉ có thể rèn pháp bảo hạ phẩm, đẩy lên hàng pháp bảo trung phẩm.
+
+Điều này có nghĩa là đồ đệ này, hoàn toàn vượt qua hắn làm sư phụ.
+
+Ít nhất trong mảng đổi mới, đã là hơn cũ mà ra nước.
+
+Lôi Thanh Hạc kích động đến toàn thân tê dại, gai ốc đều dựng lên.
+
+> "Vong Xuyên."
+
+> "Ngươi yên tâm Luyện Kích là được."
+
+> "Chỉ cần đưa tin tức này truyền cho môn phái, môn phái nhất định thưởng ngươi làm Linh Phong, để ngươi làm Phong Chủ Linh Phong."
+
+Lôi Thanh Hạc đề nghị.
+
+Vong Xuyên lại mỉm cười, hỏi:
+
+> "sư phụ, một Luyện Kích Sư lợi hại sống lâu, hay một Nguyên Anh sống lâu?"
+
+> "..."
+
+Lôi Thanh Hạc không nói lời.
+
+Tiêu hao số lượng lớn thời gian rèn pháp bảo, thì không thể đi xung kích Nguyên Anh.
+
+Hơn nữa!
+
+Nguyên Anh một thành, thêm hàng trăm tuổi, tất nhiên sống lâu hơn.
+
+> "Được."
+
+> "Ngươi nói đúng."
+
+> "Bị nhốn vào rèn pháp bảo, không có gì vĩ đại."
+
+> "Hơn nữa, Hắc Quỷ Tông như thế này, chưa chắc đã giữ được ngươi."
+
+> "Ngươi tiếp tục tu luyện."
+
+> "Sư phụ mong vẫn còn đợi được ngày này."
+
+Lôi Thanh Hạc giải thoát rồi.
+
+Vong Xuyên nói:
+
+> "sư phụ."
+
+> "Đệ tử có một lời không tiện."
+
+> "Ngươi muốn giấu thiên phú Luyện Kích Sư?"
+
+Lôi Thanh Hạc đoán được hắn muốn nói gì.
+
+Vong Xuyên gật đầu:
+
+> "Hắc Quỷ Tông thiên kiêu đệ nhất danh hiệu, đã thu hút ý giết của Ác Quỷ Điện và Hỏa Linh Môn, trên đầu quang vinh quá nhiều, sẽ càng ngày càng nguy hiểm, hay là khiêm tốn một chút."
+
+> "Ngươi nói đúng."
+
+Lôi Thanh Hạc lập tức đáp ứng:
+
+> "Ngươi yên tâm! Chỉ cần ngươi không lộ ra ngoài, ở chỗ sư phụ, năng lực Luyện Kích của ngươi, dừng ở tầng năm《Ngự Linh Luyện Kích Quyết>."
+
+Lôi Thanh Hạc biết cây cao gió sẽ phá, hắn còn không ai hơn ai muốn đệ tử gặp chuyện.
+
+Vong Xuyên lộ nụ cười:
+
+> "Cảm ơn sư phụ."
+
+Lôi Thanh Hạc lật lật nhìn, cuối cùng đưa tấm Tọa Linh Phi Phục vào tay Vong Xuyên:
+
+> "Kiện pháp bảo này rất tốt, có nó, ngươi giờ có ba kiện pháp bảo bảo toàn tính mạng, đến bất kỳ môi trường nào, ngươi đều có khả năng lui ra một cách thản nhiên!"
+
+> "Chỉ cần không cuồng lên, tự bảo vệ không lo."
+
+Vong Xuyên gật đầu.
+
+《Màn Tằm Thủ Trạo》,《Thốn Ngọc》 và《Tọa Linh Phi Phục》, quả thật khiến hắn có thể chiến có thể lui, thản nhiên bảo toàn tính mạng.
+
+> "sư phụ."
+
+> "Đệ tử lần này về, định trong động phủ của mình cũng bố trí một phòng密室 rèn pháp khí."
+
+> "Ừ, làm một Luyện Kích Sư lục cấp, đúng là nên có phòng密室 rèn của riêng mình."
+
+Lôi Thanh Hạc lấy ra một 方玉 quyết, đưa vào tay hắn, nói:
+
+> "Trong này có bố trí phương pháp địa hỏa阵法 và bàn rèn, ngươi tự làm nhà阵法 sư, những thứ này không thành vấn đề với ngươi."
+
+> "Ngoài ra..."
+
+> "Rèn bàn, ngươi có thể từ động phủ khác lấy, có sẵn."
+
+> "Đều là những sư huynh không có tiền đồ của ta, năm đó muốn chiêu nịnh sư phụ, đặc biệt chế tác."
+
+> "Ngươi cứ việc lấy."
+
+Vong Xuyên trong lòng vui vẻ.
+
+> "Cảm ơn sư phụ."
+
+Có sẵn mấy座, thật tốt.
+
+Đúng lúc hắn không chỉ muốn rèn một座...
+
+Trong tay có rất nhiều lông vụt Yêu Điêu Thú, hắn chuẩn bị đào tạo một nhóm Luyện Kích Sư.

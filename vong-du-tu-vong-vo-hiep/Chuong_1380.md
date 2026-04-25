@@ -1,0 +1,221 @@
+# 🗡️ Chương 1380: Đóng Một Cánh Cửa Sổ, Mở Một Cánh Cửa (Bùng nổ - Chương thứ sáu)
+
+---
+
+Lôi Chân tất nhiên cũng nhận ra, đại sư huynh đối Vong Xuyên thái độ rõ ràng không thân thiện.
+
+Hắn vội bước lên hai bước, đến giữa hai người, chủ động giải thích:
+
+> "Đây là Vong Xuyên đệ của Thanh Hạc Phong, biết ta có pháp bảo mới, đặc biệt đến mua pháp bảo."
+
+Hắn vừa giải thích, vừa truyền âm cho Vong Xuyên:
+
+> "Xin lỗi, Vong Xuyên đệ."
+
+> "Đây là đại sư huynh Vân Lam Phong của chúng ta, sư huynh Phó, gần đây tâm tình không tốt, nói chuyện hơi gấp, ngươi đừng để ý."
+
+Vong Xuyên nhướng mày.
+
+Tâm tình Phó Nguyệt Kiệt tất nhiên không vui nổi.
+
+Thiếu nguồn cung từ Hắc Huyết thế giới, đổi người nào tâm tình cũng không vui nổi.
+
+Phó Nguyệt Kiệt không để tu sĩ Trúc Cảnh sơ kỳ Vong Xuyên vào mắt, dù đối phương có chút danh bạc trong môn phái, là thiên kiêu đệ nhất truyền ngôn một thời.
+
+Nhưng trước tu sĩ即将突破 Kết Đan, giống như con kiến.
+
+> "Đã giao dịch pháp bảo xong, vậy rời đi thôi, ta tìm Lôi đệ có việc."
+
+Vong Xuyên thấy Lôi Chân vẻ mặt xấu hổ và áy náy, hơi gật đầu, xoay người đi.
+
+Phó Nguyệt Kiệt nhìn Vong Xuyên rời đi, rồi mới thu lại ánh mắt, nói:
+
+> "Lôi đệ, người này lai lịch không rõ ràng, ít qua lại."
+
+Phó Nguyệt Kiệt giáo huấn Lôi Chân.
+
+Lôi Chân cười苦笑 không dứt, gật đầu miệng đáp:
+
+> "Vâng."
+
+> "Nghe theo lời đại sư huynh."
+
+Ai bảo hắn là đại sư huynh Vân Lam Phong.
+
+> "Đúng rồi, đại sư huynh hôm nay đến, có phân phó gì?"
+
+Lôi Chân đổi chủ đề.
+
+Phó Nguyệt Kiệt thả linh lực ra ngoài, cách ly thần thức bên ngoài, mới mở miệng nói:
+
+> "Gần đây trong tay có chút khó khăn, ta định tổ chức một đội, đi Vùng Đầm Vân Trạch thử vận, săn vài con yêu quái... Ta biết gần đây Lôi đệ rất chú ý Luyện Kích! Dẫn ngươi một chuyến! Đến lúc đó ngươi có thể ưu tiên chọn từ chiến lợi phẩm vật liệu yêu quái, thế nào?"
+
+Lôi Chân lập tức cười đáp ứng:
+
+> "Sư huynh có chuyện tốt nhớ đến đệ, đệ cảm kích vô cùng, được! Tính đệ một người, chúng ta khi nào xuất phát?"
+
+Thực lực Phó Nguyệt Kiệt không yếu, hắn nguyện ý tự mình tổ chức đội, ít nhất là đội có thể đảm bảo nhất.
+
+Phó Nguyệt Kiệt nói:
+
+> "Hiện tại đội ngũ, tính ngươi đã có năm người, ta định kéo thêm hai người..."
+
+Bảy người đội, đối mặt một số thách thức và uy hiếp, có thể càng thong dong.
+
+Phó Nguyệt Kiệt vẫn tương đối cẩn thận.
+
+> "Tốt."
+
+> "Ta chuẩn bị một chút, chờ sư huynh thông báo."
+
+Lôi Chân tỏ vẻ.
+
+Phó Nguyệt Kiệt dặn dò:
+
+> "Tin tức đi ra ngoài, đừng đối ngoại tuyên truyền, ta sẽ kéo thêm hai vị đệ vào đội, đêm nay chúng ta cùng đến điểm tập trung mỏ Sắt của Vân Lam Phong."
+
+> "Vâng!"
+
+Hai người quyết định xong, Phó Nguyệt Kiệt nhanh chóng rời đi.
+
+Lôi Chân quay người trở về động phủ.
+
+Lúc này, cảm nhận được thần thức Phó Nguyệt Kiệt rời đi, mặc Tọa Linh Phi Phục quay lại gần đó Vong Xuyên, cũng nghe được cuộc trao đổi của hai người.
+
+Vong Xuyên quả thật đối Phó Nguyệt Kiệt không hiểu sao có ác ý đối mình rất tò mò.
+
+Không ngờ nghe được kế hoạch Phó Nguyệt Kiệt chuẩn bị tiến vào Vùng Đầm Vân Trạch.
+
+Ý niệm chuyển, lập tức hiểu ra.
+
+Phó Nguyệt Kiệt cùng Trần Thanh Tùng, đều là tu sĩ Trúc Cảnh đỉnh phong, cần chuẩn bị lượng lớn tài nguyên, xung kích Kết Đan.
+
+Mất đi lượng lớn Linh Thạch cống nạp từ Hắc Huyết thế giới, điều này dẫn đến Phó Nguyệt Kiệt tâm tình không vui, nhất thời quyết định tổ chức đội, đi Vùng Đầm Vân Trạch kiếm chút ngoài.
+
+> "Bảy người đội..."
+
+> "Quả nhiên người nhiều dễ làm việc."
+
+Vong Xuyên không học được tin tức muốn nghe, lặng lẽ quay về động phủ của mình.
+
+Đưa Tụ Phong Ngân Cung cho Triệu Hắc Ngưu, vội vàng xuất tuyến liên hệ Trưởng Ty.
+
+Trưởng Ty biết kế hoạch Phó Nguyệt Kiệt, lộ vẻ suy nghĩ, nói:
+
+> "Sư lão, sao ngươi nghĩ?"
+
+> "Dự định nhân cơ hội này, bắt tên Phó này một phen? Hay, đơn giản để hắn ở lại Vùng Đầm Vân Trạch?"
+
+Vong Xuyên tựa vào ghế sofa, nói:
+
+> "Ta cũng chưa suy nghĩ xong."
+
+> "Giết Phó Nguyệt Kiệt, thế giới Hắc Huyết năm sau uy hiếp sẽ giảm bớt không ít, nhưng đối phương là đội bảy người, ta một mình hành động, không có nắm chắc."
+
+Lệ Na bên cạnh âm thầm gật đầu, nói:
+
+> "Bảy tu sĩ Trúc Cảnh, mục tiêu lại là tu sĩ Trúc Cảnh đỉnh phong, muốn giết người này, rồi không để lại tay chân, quả thật rất khó."
+
+> "Tiểu Bạch tuy có thể cung cấp một lực lượng trợ giúp nhất định, nhưng Thiên Phiên xuất phát từ Ngự Thú Các của Hắc Quỷ Tông, một khi ra tay, sẽ bị người nhận ra, truy đến trên đầu sư lão."
+
+> "Ta đề nghị, vẫn là đừng quá mạo hiểm."
+
+Lệ Na thiên về không động.
+
+Vong Xuyên lại có chút không cam tâm.
+
+Trưởng Ty nhìn ra Vong Xuyên do dự, đề xuất:
+
+> "Sư lão có thể đi theo xem."
+
+> "Vùng Đầm Vân Trạch địa hình phức tạp, năng lực nghe tiếng phân biệt vị trí của ngươi, phối hợp Tọa Linh Phi Phục, ưu thế rất lớn, tiến thoái tự do! Nếu thật sự không tìm được cơ hội, không bằng tiêu hao mấy ngày, lui về."
+
+> "..."
+
+Vong Xuyên chậm rãi gật đầu, ánh mắt từ từ trở nên sâu thẳm kiên định.
+
+> "Trưởng Ty nói đúng."
+
+> "Dù tiêu hao mấy ngày tu luyện..."
+
+> "Cơ hội khó được, không thể bỏ qua!"
+
+Chuẩn bị rời đi.
+
+Trưởng Ty lại nói ra một tin tức:
+
+> "Đúng rồi."
+
+> "Sư lão."
+
+> "Về chiến binh Bách Biến tộc có thể kết ước làm linh thú, bọn ta có một số quan điểm mới."
+
+Vong Xuyên nghe xong lập tức có hứng thú.
+
+Trưởng Ty nói:
+
+> "Hỏa Lan đã đột phá Kỳ Khí tầng mười một, sắp sửa đột phá đến Trúc Cảnh, nhưng nó không giống yêu quái bình thường, không thể dùng《Thú Linh Đan》, điều này quả thật có chút kỳ quái."
+
+> "..."
+
+> "Bọn ta đang suy nghĩ, Hỏa Lan không thuộc hàng yêu quái bình thường, mà là yêu quái hình người... Bị suy giảm năng lực nhất định đồng thời, nhất định cũng sẽ được ban cho một số ưu thế."
+
+Lời của Trưởng Ty, khiến Vong Xuyên không có thời gian suy nghĩ kỹ, lộ vẻ suy tư:
+
+> "Trưởng Ty, ý của ngươi là..."
+
+> "Ta建议 ngươi, trở về thử cho Hỏa Lan một ít pháp khí, có lẽ... Nó có thể như tu sĩ bình thường, trang bị các loại pháp khí."
+
+Vong Xuyên tâm thần chấn động.
+
+Quan điểm này của Trưởng Ty, quả thật là hắn chưa từng nghĩ đến.
+
+Nếu thật sự có thể làm được.
+
+Hỏa Lan tương đối鸡肋, nhất định thực lực tăng vọt, có chỗ dùng.
+
+> "Tốt!"
+
+> "Ta lập tức trở về thử."
+
+Nói xong, Vong Xuyên nhanh chóng trở về, đội mũ游戏头盔.
+
+Trở về trong động phủ.
+
+Vong Xuyên không chờ đợi, lập tức triệu hồi Hỏa Lan ra.
+
+Hỏa Lan còn hơi choáng váng. Thịt hồn yêu quái Trúc Cảnh, khiến đầu hắn胀胀.
+
+Nhưng so với trước kia luôn ngất hai ngày, giờ đã tốt hơn nhiều.
+
+Một canh giờ左右, liền khôi phục tỉnh táo.
+
+> "Đại nhân."
+
+Hỏa Lan thấy mình nằm trên sàn động phủ, vội đứng dậy hành lễ:
+
+> "Có phân phó gì?"
+
+Vong Xuyên từ túi đồ lấy ra vài pháp khí.
+
+Pháp khí cực phẩm kiếm bay;
+
+Pháp khí cực phẩm ba càng;
+
+Đều là chiến lợi phẩm để lại của tu sĩ Ác Quỷ Điện.
+
+Vong Xuyên dặn Hỏa Lan:
+
+> "Nhỏ máu nhận chủ, nhìn xem có thể dùng được không."
+
+> "Vâng!"
+
+Hỏa Lan lập tức hiểu, trong đống pháp khí, chọn một thanh短小 hơn, một cái ba càng,精血 nhận chủ.
+
+Quả nhiên thành công.
+
+Rồi, Vong Xuyên phát hiện, pháp khí được nhận chủ có thể trực tiếp dung hợp vào thân thể Hỏa Lan, bảo vệ dưới鳞甲.
+
+Điều này có nghĩa là, Hỏa Lan có thể mang theo những pháp khí này ẩn thân.
+
+Yêu quái hình người quả nhiên có ưu thế của mình.

@@ -1,0 +1,179 @@
+# 🗡️ Chương 1359: Mỗi Người Một Việc (Bùng nổ - Chương thứ nhất)
+
+---
+
+Đội hộ vệ Trấn Ma Động, sáu mươi người, tổng cộng chia thành năm đội.
+
+Năm đội trưởng lần lượt do Lục Bình An, Âm Dao, Qu Gia, Nguyên Tâm, Lý Thiên Môn đảm nhiệm.
+
+Năm người đều tu luyện nhiều thuật pháp đến cảnh giới 'Nhất Niệm Pháp Xuất', nhẹ nhàng vượt trội, được các đội viên thừa nhận.
+
+Vong Xuyên triệu tập năm đội.
+
+Sáu mươi người, toàn bộ trang bị pháp khí kiếm bay, pháp bảo phòng ngự, và pháp khí công kích.
+
+Đặc biệt năm đội trưởng như Lục Bình An, mỗi người một cây pháp khí kiếm thượng phẩm, và áo choàng thượng phẩm pháp bảo phòng ngự, cuối cùng là một pháp khí công kích cực phẩm.
+
+Cái đỉnh、Hoàng Long Kiếm những thứ thay thế cực phẩm, Vong Xuyên toàn bộ lấy ra.
+
+Đội hộ vệ động phủ, từng người được trang bị đến răng, thực lực tăng mạnh;
+
+Năm đội trưởng chiến lực kéo thẳng, chỉ cần thuật pháp cao cấp tu luyện đến một mức nhất định, có thể đối chiếu thiên kiêu môn phái.
+
+Đội hộ vệ Trấn Ma Động thay đổi, từng người tinh thần hưng phấn, hiểu sư thúc đây là lấy gia tài ra trang bị cho bọn họ, gấp ba tài nguyên tu luyện, đối xử như sĩ vực, đều kích động.
+
+> "sư thúc!"
+
+> "sư thúc!"
+
+Một nhóm người xếp hàng thi lễ, tư thế cung kính.
+
+Vong Xuyên biểu cảm nghiêm túc, phân phó với mọi người:
+
+> "Cho các ngươi ba ngày, làm quen các loại pháp khí, làm cho như tay chỉ huy, tăng chiến lực."
+
+> "Ba ngày sau, năm đội luân phiên trực ca, bắt đầu tuần tra địa giới ba động phủ."
+
+> "Sau này mỗi ngày sắp xếp một đội tuần tra, bốn đội còn lại, ở Trấn Ma Động tu luyện... Cho phép các ngươi theo bản tọa cùng tu luyện."
+
+> "Nhiệm vụ của các ngươi là đảm bảo an ninh tài nguyên ba động phủ, đồng thời, cũng có thể nhận nhiệm vụ tạm thời của bản tọa."
+
+> "Ta yêu cầu của các ngươi chỉ có một."
+
+> "Gặp nguy hiểm, truyền tin báo ngay."
+
+> "Gặp rắc rối giải quyết không được, cố gắng kéo dài thời gian, đợi ta qua xử lý."
+
+> "Nếu gặp yêu quái... Đồng tâm hiệp lực giết!"
+
+> "Có hiểu không?"
+
+> "Vâng!"
+
+Sáu mươi người đồng loạt đáp ứng.
+
+Vong Xuyên gật đầu, phất tay nói:
+
+> "Đội trưởng ở lại, những người khác giải tán."
+
+> "Vâng!"
+
+Mọi người nhanh chóng ôm quyền lui xuống.
+
+Để lại Lục Bình An, Âm Dao, Qu Gia, Nguyên Tâm, Lý Thiên Môn năm người.
+
+Vong Xuyên phóng linh lực, cách ly cảm ứng thần thức bên ngoài, nói với năm người:
+
+> "Các ngươi nắm bắt cơ hội này, hiểu rõ giới này, chăm tu luyện..."
+
+> "Đây có năm đĩa pháp trận, một phần phù Trúc Cảnh sơ kỳ, có thể dùng để đối phó tình huống khẩn cấp."
+
+Đối với người mình, Vong Xuyên không tiết kiệm tài nguyên.
+
+Năm người mỗi người thu nhận.
+
+> "Thánh Mệnh đại nhân."
+
+Lý Thiên Môn ôm quyền nói:
+
+> "Nhóm năm mươi anh em giỏi《Trường Sinh Quyết> của Trấn Ma Ty, đã bố trí đến ruộng Linh Dược, phụ trách nhiệm vụ thúc đẩy sinh trưởng Linh Dược."
+
+> "Ừm."
+
+Vong Xuyên gật đầu.
+
+Nhóm người này, đối với thúc đẩy sinh trưởng Linh Dược, không chỉ có thể đẩy nhanh sinh trưởng chín muồi của Linh Dược, đồng thời cũng có thể tăng thêm năm của Linh Dược, giúp thu được tài liệu đan dược Linh Dược năm cao hơn.
+
+Năm mươi người toàn bộ phân tán đến bốn động phủ ruộng Linh Dược, là bước chuẩn bị rất quan trọng.
+
+Về sau luyện đan, xung kích《Ngự Hỏa Luyện Đan Quyết>, sẽ rất giúp ích.
+
+Nguyên Tâm nói:
+
+> "Trong thời gian này, thông qua giúp đỡ của Luyện Đan Đường Thần Y những người bọn họ, nuôi dưỡng một nhóm anh em giỏi tính chất dược và《Khống Hỏa Quyết>, giờ cũng đều bố trí ở ruộng Linh Dược."
+
+> "Ừm."
+
+Vong Xuyên cười nói:
+
+> "《Ngự Hỏa Luyện Đan Quyết>, ta đã truyền đi, về sau sẽ cho bọn họ một cơ hội xuất hiện, để bọn họ phụ trách việc luyện đan, giải quyết《Dẫn Khí Đan》,《Thú Linh Đan》,《Hoàng Long Đan》,《Tẩy Tủy Đan》."
+
+> "Vũ khí Đường bên này, nuôi dưỡng một nhóm thợ rèn cấp cao, nhóm người này hiện đặt ở hầm quặng nhỏ và ruộng Linh Thảo trong động phủ..."
+
+Qu Gia nhắc nhở Vong Xuyên.
+
+Vong Xuyên gật đầu:
+
+> "《Ngự Linh Luyện Kích Quyết> đã truyền, ta chuẩn bị cho bọn họ một lượng vật liệu yêu quái, hiện không gấp, đợi, đợi《Hắc Huyết Dẫn Khí Quyết> của bọn họ đạt đến tầng cao hơn."
+
+Đối với nhóm người này, hắn cũng đã suy nghĩ kỹ.
+
+Tương lai động phủ cần một lượng lớn pháp khí và pháp bảo, không thể toàn bộ mua từ bên ngoài.
+
+Trấn Ma Ty phải có năng lực tự sản xuất pháp khí, pháp bảo chất lượng cao!
+
+Nuôi dưỡng một nhóm Luyện Kích Sư, cũng rất cần thiết.
+
+Đến lúc đó, có thể cân nhắc giới thiệu những người này cho Lôi Thanh Hạc.
+
+Âm Dao tiến lên một bước, nói:
+
+> "Đại nhân."
+
+> "Trong nhóm người này, có nhiều người giỏi《Đạo Tâm Chú Ma Đại Pháp》,《Từ Hàng Kiếm Điển> tu luyện đến một tầng nhất định, giỏi nhận biết tinh tế, đối với biến hóa tâm tình cảm xúc rất mẫn cảm."
+
+> "Có bọn họ bố trí ở mỗi góc của bốn động phủ, có thể đảm bảo gian tế không thể đến gần."
+
+> "Ngay cả có kẻ muốn đến gần dò xét tin tức bốn động phủ, cũng sẽ bị chúng ta phát hiện đầu tiên."
+
+> "Âm Công Dưỡng vất vả."
+
+Vong Xuyên gật đầu.
+
+khí lạnh của Âm Dao, sau chuyển nghề tu tiên đã xảy ra biến hóa.
+
+Hai thứ kết hợp, nhìn không phải bắt mắt như vậy — phần lớn tu sĩ đều lạnh lùng hơn.
+
+Cuối cùng đến lượt Lục Bình An.
+
+Lục Bình An như trước, nói:
+
+> "Vong Xuyên."
+
+> "《Từ Hàng Kiếm Điển> ta đã tu luyện đến cảnh giới cao nhất, bao gồm《Đạo Tâm Chú Ma Đại Pháp> cũng đã tu luyện đến cảnh giới cao nhất, ẩn của《Từ Hàng Kiếm Điển>, 'Từ Hàng Phổ Độ' ngang với một đòn của tu sĩ Trúc Cảnh, tương lai có bất kỳ nguy hiểm gì, ta có thể cùng ngươi hành động."
+
+Lục Bình An nắm giữ tâm tình cảm xúc đến cùng độ cao với Âm Dao.
+
+Cho nên hắn rõ ràng hơn bất kỳ ai, Vong Xuyên tuy trở thành tu sĩ, trở thành tu sĩ Trúc Cảnh, nhưng...
+
+Hắn vẫn là Thánh Mệnh Trấn Ma Ty...
+
+Đối xử với mọi người, như một năm trước, không có biến hóa.
+
+Thế giới维度 trung cấp, không thay đổi thái độ Vong Xuyên đối với thế giới维度 cấp thấp đối với Nam Vực quốc, cũng không thay đổi thái độ hắn đối với mọi người.
+
+Vong Xuyên nở nụ cười, vỗ vai Lục Bình An, nói:
+
+> "Tốt!"
+
+> "Đối phó Lý Khôn Vũ ta biết, có ngươi ngồi chỗ, thế giới Hắc Huyết trong tầm nắm."
+
+> "Giờ chúng ta tiếp tục chiến đấu!"
+
+> "Nhiệm vụ đầu tiên của các ngươi, là tích lũy thuộc tính Linh Căn, cố gắng đặt nền tảng tốt, chuẩn bị đột phá Trúc Cảnh, khai phá động phủ!"
+
+Vong Xuyên nhìn năm vị Công Dưỡng trước mặt, nói:
+
+> "Nhiệm vụ của năm người rất quan trọng!"
+
+> "Một năm, phải đột phá Trúc Cảnh thành công!"
+
+> "Trong thời gian các ngươi cần《Dẫn Khí Đan》,《Trúc Cấp Đan> và Linh Thạch, ta đều có thể cung cấp."
+
+> "Một năm, chúng ta phải càng nhiều càng tốt tiếp quản những động phủ nhàn rỗi của Thanh Hạc Phong, khống chế trong tay Trấn Ma Ty."
+
+> "Hiểu!"
+
+Năm người đồng loạt gật đầu.
+
+Chỉ cần khống chế nhiều động phủ hơn, bọn họ mới có thể tiếp nhận nhiều thành viên Trấn Ma Ty tạm thời vào giới này, dệt một chiếc ô che chở bảo vệ hạ giới.

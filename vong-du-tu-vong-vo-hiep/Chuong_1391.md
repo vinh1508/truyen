@@ -1,0 +1,247 @@
+# 🗡️ Chương 1391: Toàn Lực Trì Hoãn (Bùng nổ - Chương thứ nhất)
+
+---
+
+Chân Nhân Kết Đan Ác Quỷ Điện 'Tần Tam Hội', cưỡi mây ngự mưa而起, ôm khoe mây đen âm lãnh, như quỷ mị nhanh chóng đánh về phía hai vị tu sĩ Trúc Cảnh Hắc Quỷ Tông tuần tra.
+
+Mặc dù vào lúc này, trong đối phương có một người phi một đạo truyền phù, gây ra cảnh giác của hắn, nhưng hắn chỉ hơi nhăn mày, cũng không dừng hành động của mình.
+
+Chân Nhân Kết Đan...
+
+Sao có thể vì tiểu động tác của Trúc Cảnh kiến tỳ mà dừng bước?
+
+Sát tâm đã khởi!
+
+Sát niệm đã động!
+
+Dù Hắc Quỷ Tông bên này có một số thủ đoạn, hắn cũng có nắm chắc tuyệt đối, giết người xong nhanh chóng rút lui.
+
+Huống chi mấy ngày này, hắn thông qua thủ đoạn độc đáo của mình, cũng không phát hiện据点 tồn tại bất kỳ tu sĩ Kết Đan Hắc Quỷ Tông nào.
+
+Mười mấy hơi thở, hai bên cách nhau không đến năm mươi dặm.
+
+Tần Tam Hội xuất thủ.
+
+Một kiện pháp bảo hình thoi màu đen, với tốc độ kinh người điện xuất mà ra, nhanh chóng bắn về phía mục tiêu.
+
+Cũng chỉ có Kết Đan cảnh mới dám ở khoảng cách này xuất thủ.
+
+Tốc độ pháp bảo vượt xa tu sĩ Trúc Cảnh.
+
+Trong nháy mắt, hình như xé rách không gian.
+
+Một đạo gợn sóng không gian trực tiếp từ đỉnh đầu Trần Thiên Kỳ透射 mà ra, với tốc độ chóng mặt, hung hăng đâm về phía tu sĩ Trúc Cảnh trung kỳ trong đội.
+
+Trần Thiên Kỳ hoàn toàn ngây dại.
+
+Ngoài khởi động kết giới phòng hộ法衣 mang theo, căn bản không kịp làm phản ứng khác.
+
+连 phòng hộ pháp bảo đều không kịp tế ra.
+
+Pháp bảo hình thoi màu đen, mang theo phong mang chí mạng, hung hăng洞穿 kết giới phòng hộ Trần Thiên Kỳ...
+
+Cực phẩm法衣 triển khai kết giới phòng hộ, chỉ có thể hấp thụ tối đa hai nghìn điểm công kích thuật pháp, ở trước thế công Chân Nhân Kết Đan, như giấy cỏ!
+
+Trong nháy mắt, Trần Thiên Kỳ liền cảm nhận được khí lạnh thấu xương, tuyệt vọng cùng bất cam hiện lên trong đồng tử.
+
+Pháp bảo linh tính màu đen trước mắt nhanh chóng phóng đại.
+
+Vong Xuyên động rồi.
+
+Tại lúc Chân Nhân Kết Đan xuất thủ, hắn không chút do dự khởi động《Phong Mãn Trường Không》!
+
+Tốc độ tăng lên mấy lần!
+
+Thị lực động tĩnh và tốc độ phản ứng của Vong Xuyên vào lúc này nâng cao đến mức kinh người.
+
+Khi pháp bảo xé rách không gian, xuất hiện trong cự ly gần, hắn liền tế ra Tinh Cång Hoàn.
+
+Đồng thời!
+
+Thuật pháp Trúc Cảnh蓄势《Đoạn Long Thạch》 từ dưới chân núi拔地而起, gấp gáp đâm vào đạo pháp bảo hình thoi kia.
+
+Bùm!
+
+Đoạn Long Thạch cũng bị dễ dàng洞穿.
+
+Tinh Cång Hoàn xuất hiện bên ngoài Trần Thiên Kỳ, đem hai người bao trùm tiến vào.
+
+Đương!!!
+
+Một tiếng nổ lớn.
+
+Pháp bảo hình thoi rốt cuộc bị Tinh Cång Hoàn ngăn cản.
+
+Uy lực tiêu hao, bắn ngược ra sau.
+
+Trần Thiên Kỳ có loại cảm giác được người từ phía sau hung hăng kéo cổ áo, từ quỷ quan môn cứng rắn kéo ra, cảm động và may mắn.
+
+> "Tiểu sư đệ."
+
+> "Cám ơn!"
+
+> "Đến là Chân Nhân Kết Đan!"
+
+> "Toàn lực đối phó."
+
+Vong Xuyên biết, hiện tại không phải lúc ăn mừng.
+
+Quả nhiên!
+
+Chưa đợi hai người thở phào.
+
+Pháp bảo hình thoi liền đã ở trong không trung nổ tung, hóa thành sáu đạo sắc bén chí mạng, kéo theo đường cong khác nhau, hung hăng đâm vào Tinh Cång Hoàn.
+
+Đinh đinh đinh đinh!!
+
+Tốc độ Vong Xuyên rất nhanh.
+
+Một tay cầm đao, một tay đẩy Ngưng Băng Châu!
+
+Sáu đạo sắc bén trước khi đâm vào Tinh Cång Hoàn, đã bị triển khai《Băng Ngưng Lĩnh Vực》 suy giảm 500 điểm công kích thuật pháp.
+
+Tinh Cång Hoàn chịu áp lực to lớn, linh áp không ngừng va chạm, lung lay sắp đổ,差一点 liền bị phá.
+
+Vong Xuyên điên cuồng tiêm nhập linh lực, khôi phục năng lực phòng hộ pháp bảo.
+
+Lúc này, Trần Thiên Kỳ rốt cuộc phản ứng lại, tế ra cực phẩm phòng hộ pháp khí.
+
+Một mặt khiên bạc băng lạnh, nhanh chóng xoay tròn, chia làm hai,环绕周身.
+
+Phòng hộ không cao, nhưng có hơn không.
+
+Đồng thời. Vong Xuyên thuật pháp《Ác Huyết Thủ Hồn》 một niệm mà xuất.
+
+Pháp bảo, pháp khí, thuật pháp!
+
+Ba tầng phòng hộ!
+
+Chân Nhân Kết Đan đã tiến vào trong hai mươi dặm.
+
+Nhìn bản thân亲自突袭, cư nhiên không thể bắt được tu sĩ Trúc Cảnh trung kỳ trong đội, hơi nhăn mày, vô cùng dị thường:
+
+> "Có chút ý tứ."
+
+> "Không nghĩ tới, tiểu đồ đệ Hắc Quỷ Tông, còn có năng lực này."
+
+> "Tu sĩ Trúc Cảnh sơ kỳ, so với tu sĩ Trúc Cảnh trung kỳ còn lợi hại hơn."
+
+Tần Tam Hội cũng không từ bỏ, mây đen nhanh chóng đến gần, thiên địa nhanh chóng âm u.
+
+Từng đạo mặt quỷ骷髅 đen tà, nhanh chóng xuất hiện bốn phía Vong Xuyên, Trần Thiên Kỳ, ôm theo tiếng kêu thảm thiết, triển khai俯冲围杀.
+
+Kết Đan thuật pháp — 鬼影重重!
+
+Công kích thuật pháp trên ba nghìn điểm!
+
+Mặc dù có Ngưng Băng Châu《Băng Ngưng Lĩnh Vực》, vẫn chỉ dùng ba năm枚 đầu骷髅, liền đâm nát Trần Thiên Kỳ cực phẩm pháp khí...
+
+Tốc độ khôi phục của Trần Thiên Kỳ căn bản không theo kịp.
+
+Trần Thiên Kỳ thi triển《Chu Tước Thuật》, một đầu Chu Tước cháy ngùn ngụt bay ra, vừa ra Tinh Cång Hoàn liền bị đánh nát thân.
+
+Sợ đến mức vội vàng phi ra từng张 phù lục Trúc Cảnh!
+
+Chu Tước Phù!
+
+Trần Thiên Kỳ đã hoàn toàn loạn chuỗi.
+
+Liều mạng như vậy không tính toán hậu quả tiêu hao linh lực, thường đại biểu cạn kiệt.
+
+Chân Nhân Kết Đan Tần Tam Hội nhìn trong mắt, trong lòng cười lạnh.
+
+Người này linh lực sẽ nhanh chóng tiêu hao đến cạn kiệt.
+
+Nhưng!
+
+Để hắn đại cảm ngoài ý muốn là...
+
+Vị tu sĩ tu vi Trúc Cảnh sơ kỳ trẻ tuổi, ngược lại rất ung dung tự đắc.
+
+Một bên tiếp tục duy trì《Băng Ngưng Lĩnh Vực》, suy giảm减速 thuật pháp của hắn, một bên phi ra một张《Chu Tước Phù Bảo》!
+
+Chu Tước kim sắc, uy lực và dẻo dai cực mạnh, bùng phát ra thuật pháp hỏa linh căn, vô cùng khắc chế thuật pháp Ác Quỷ Điện...
+
+Trong thiên địa, ánh lửa kim sắc rực rỡ cực kỳ, dễ dàng đốt cháy hủy diệt toàn bộ骷髅 đầu quỷ gần đó.
+
+Hai vị tu sĩ Trúc Cảnh Hắc Quỷ Tông, cư nhiên lại tranh thủ được một hơi thở thời gian.
+
+Vong Xuyên cầm trung phẩm linh thạch, tế ra Phong Bạo Trảm Mã Đao!
+
+Đao phong竖起!
+
+Trong thiên địa, xuất hiện cái phễu sắc bén kinh người!
+
+Phong Bạo Nhật Vũ!
+
+Ngưng mà không phát!
+
+Khoảnh khắc này, trong mắt Tần Tam Hội, sát ý càng thêm cháy hừng hực.
+
+Tiểu tử Trúc Cảnh sơ kỳ, cư nhiên có năng lực này, mang theo nhiều kiện pháp bảo trung phẩm và phù bảo.
+
+Nhất định là thiên tài Hắc Quỷ Tông!
+
+Hôm nay nếu có thể chém giết một vị thiên tài Hắc Quỷ Tông, cũng coi như một công lao.
+
+Hống!!!
+
+Bên người Tần Tam Hội xuất hiện một đầu yêu linh Kết Đan cảnh;
+
+Đồng thời.
+
+Một kiện pháp bảo đầu骷髅 bạch cốt,迎风上涨, như đỉnh núi hướng Vong Xuyên, Trần Thiên Kỳ ép qua.
+
+Pháp bảo hình thoi lại được thúc đẩy, hung hăng bắn, đâm về phía Tinh Cång Hoàn.
+
+Chân Nhân Kết Đan, vào lúc này, toàn lực phạm công.
+
+Linh áp kinh khủng, khiến Vong Xuyên đột nhiên biến sắc.
+
+Trần Thiên Kỳ đã hoàn toàn mất khả năng hành động, nghiến răng tế ra pháp bảo phi kiếm, đợi phán quyết.
+
+Ngàn cân treo sợi tóc.
+
+Trong khoảnh khắc then chốt.
+
+Một viên 'Liệt Hỏa Châu' từ trong phạm vi phòng hộ Tinh Cång Hoàn phi ra ngoài.
+
+Bùm!!!
+
+Liệt Hỏa Châu cùng đầu骷髅 bạch cốt dấy lên một mảng biển lửa cháy hừng hực.
+
+Yêu linh, pháp bảo đầu骷髅 bạch cốt, đồng thời chịu ảnh hưởng, uy năng bị suy giảm và kích chấn...
+
+Tinh Cång Hoàn đơn độc đối mặt công kích pháp bảo linh tính.
+
+Đinh!!
+
+Chống đỡ xuống.
+
+Tiếp theo.
+
+Phong Bạo Nhật Vũ hung hăng砸 xuống!!
+
+Đầu骷髅 bạch cốt cư nhiên bị hung hăng đánh lui.
+
+Đồng thời!
+
+Một片 ác huyết mưa rơi đầy trời, cư nhiên đánh nát pháp bảo hình thoi sau khi nổ chia sáu, khiến linh áp sụp đổ, mất đi uy năng.
+
+Vong Xuyên toàn lực.
+
+Linh lực như thác nước trượt xuống, giảm mạnh hơn năm nghìn điểm.
+
+Tiếp tục đánh nữa, liền phải giải trừ cấm chế phong ấn trong Tử Phủ, từ bỏ tu luyện《Vận Linh Quyết》.
+
+Tốt vào lúc này...
+
+Năm根 cột木ào hiên lửa từ trời cao giáng xuống!
+
+Bùm!!!
+
+Chân Nhân Kết Đan Tần Tam Hội, như bị ngọn núi đánh trúng, hung hăng rơi xuống, tro bụi đầy mặt đánh vào trong đất.
+
+Lôi Thanh Hác đã đến.
+
+Người xuất thủ là阁主 Luyện Đan Các.
