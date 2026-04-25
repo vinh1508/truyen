@@ -16,11 +16,11 @@ Quan trọng hơn!
 
 Theo mô hình siêu trí tuệ não đưa ra.
 
-Mỏ 秘银 Vạn Ma Cốc vừa ra, dẫn đến phụ cận Thất Thập Linh Mạch chịu áp lực, đối mặt uy hiếp Nguyên Anh kỳ Lưỡi Xanh Lợi Đới;
+Mỏ bí ngân Vạn Ma Cốc vừa ra, dẫn đến phụ cận Thất Thập Linh Mạch chịu áp lực, đối mặt uy hiếp Nguyên Anh kỳ Lưỡi Xanh Lợi Đới;
 
 Đồng thời!
 
-Ác Quỷ Điện chiếm đoạt phố Vùng Đầm Vân Trạch, lấy nơi này làm据点, đóng gốc bên ngoài cửa Hắc Quỷ Tông, tương đương đem một vuốt伸 đến Hắc Quỷ Tông.
+Ác Quỷ Điện chiếm đoạt phố Vùng Đầm Vân Trạch, lấy nơi này làm cứ điểm, đóng gốc bên ngoài cửa Hắc Quỷ Tông, tương đương đem một vuốt vươn đến Hắc Quỷ Tông.
 
 Thứ này có năm vị Nguyên Anh cấp quỷ tu, là quái vật to lớn hơn Vạn Ma Cốc, là uy hiếp lớn hơn, mang đến áp lực to lớn cho Hắc Quỷ Tông.
 
@@ -30,9 +30,9 @@ Tình hình Hắc Quỷ Tông đã trở nên tương đối cấp bách.
 
 Trưởng Sử Trường hít sâu một hơi, mắt lộ vẻ ngưng trọng, nói:
 
-> "Hắc Quỷ Tông hiện tại duy nhất ưu thế, chính là năm ngoái tranh chấp Vạn Ma Cốc, thắng được bảy's phần灵石 phân thể Thất Thập Linh Mạch, có thể dự trữ灵石 tài nguyên thêm năm năm, phương diện tài nguyên còn tương đối phong phú."
+> "Hắc Quỷ Tông hiện tại duy nhất ưu thế, chính là năm ngoái tranh chấp Vạn Ma Cốc, thắng được bảy phần phân phối linh thạch Thất Thập Linh Mạch, có thể dự trữ tài nguyên linh thạch thêm năm năm, phương diện tài nguyên còn tương đối phong phú."
 
-> "Các phương diện khác, đều đã lâm vào tương đối劣势."
+> "Các phương diện khác, đều đã lâm vào thế yếu tương đối."
 
 > "Dù là đối mặt Hỏa Linh Môn, hay là Ác Quỷ Điện."
 
@@ -62,27 +62,27 @@ Trong đại sảnh, có người đưa ra quan điểm khác:
 
 > "Nên không đến mức đó chứ?"
 
-> "Hắc Quỷ Tông dù sao còn có hai vị Nguyên Anh kỳ tồn tại, có hơn hai trăm phong chủ trưởng lão, tiền đề摆在这儿, Ác Quỷ Điện cưỡng ép động thủ, sẽ rất nguy hiểm."
+> "Hắc Quỷ Tông dù sao còn có hai vị Nguyên Anh kỳ tồn tại, có hơn hai trăm phong chủ trưởng lão, tiền đề bày ra ở đây, Ác Quỷ Điện cưỡng ép động thủ, sẽ rất nguy hiểm."
 
-> "Hơn nữa,牙齿 mất, môi cold的道理, Hỏa Linh Môn cùng các môn phái phụ cận khác sẽ không không hiểu, nhất định cũng sẽ ngầm介入, viện trợ Hắc Quỷ Tông."
+> "Hơn nữa, đạo lý môi hở răng lạnh, Hỏa Linh Môn cùng các môn phái phụ cận khác sẽ không không hiểu, nhất định cũng sẽ ngầm can dự, viện trợ Hắc Quỷ Tông."
 
-> "Ngầm介入 viện trợ, cũng có thể chỉ là biến tướng等价交换, thậm chí là đòi hỏi vàhút máu, ngăn cản không được sự diệt vong của Hắc Quỷ Tông."
+> "Ngầm can dự viện trợ, cũng có thể chỉ là biến tướng trao đổi ngang giá, thậm chí là đòi hỏi và hút máu, ngăn cản không được sự diệt vong của Hắc Quỷ Tông."
 
 Trưởng Sử Trường nâng mí mắt, nói có trọng lượng:
 
 > "Dù thế nào, thời gian cho chúng ta không còn nhiều."
 
-> "Chúng ta nhất định phải nắm chặt thời gian, nhanh chóng壮大了 Trấn Ma Ti."
+> "Chúng ta nhất định phải nắm chặt thời gian, nhanh chóng lớn mạnh Trấn Ma Ti."
 
 Lời nói chuyển hướng!
 
 Trưởng Sử Trường đối mọi người nói:
 
-> "Vân Lam Phong đại sư huynh 'Phó Nguyệt Kiệt' bị Vong Xuyên chế tác thành Hắc Huyết木傀, tính là vì chúng ta loại trừ một đại uy hiếp, năm sau血月 giáng lâm, chúng ta bố trí hơn một vạn tu sĩ Luyện Khí kỳ trong Hắc Huyết thế giới, Vân Lam Phong đã không đáng lo."
+> "Vân Lam Phong đại sư huynh 'Phó Nguyệt Kiệt' bị Vong Xuyên chế tác thành Hắc Huyết mộc khôi, tính là vì chúng ta loại trừ một đại uy hiếp, năm sau huyết nguyệt giáng lâm, chúng ta bố trí hơn một vạn tu sĩ Luyện Khí kỳ trong Hắc Huyết thế giới, Vân Lam Phong đã không đáng lo."
 
 > "Nhưng chúng ta nhất định phải sớm quy hoạch!"
 
-> "Trước khi Hắc Quỷ Tông triệt để sụp đổ, tìm đến một nơi an toàn hoàn toàn mới,安身立命,"
+> "Trước khi Hắc Quỷ Tông triệt để sụp đổ, tìm đến một nơi an toàn hoàn toàn mới, an thân lập mệnh,"
 
 > "Từ hiện tại bắt đầu, tổ chức một đội ngũ hoàn toàn mới, toàn lực thu thập tin tức thế giới trung đẳng vị trí, tìm kiếm nơi thích hợp, làm tốt chuẩn bị dời đi."
 
@@ -112,9 +112,9 @@ Hệ thống nhắc nhở:
 
 Vong Xuyên rốt cuộc vào ngày trước khi nhiệm vụ môn phái kết thúc, thuận lợi đem《Lưu Ly Hỏa Tháp》 chính thức đẩy đến cảnh giới cao nhất.
 
-Chi phí là tổng cộng tiêu hao hơn mười vạn枚 linh thạch.
+Chi phí là tổng cộng tiêu hao hơn mười vạn viên linh thạch.
 
-Trần Thanh Tùng bốn người toàn bộ tham gia, hiểu Vong Xuyên lá bài át này沉重代价, cảm thán thở than đồng thời, cũng đối quyết định và tài lực Vong Xuyên rất kính phục.
+Trần Thanh Tùng bốn người toàn bộ tham gia, hiểu lá bài át này của Vong Xuyên phải trả giá nặng nề, cảm thán thở than đồng thời, cũng đối quyết định và tài lực Vong Xuyên rất kính phục.
 
 Hãy suy nghĩ...
 
@@ -136,15 +136,15 @@ Vừa về đến linh phong, liền thấy Chu Ngưu Dung ở cửa đón.
 
 > "Sư đệ."
 
-> "Các vị辛苦了."
+> "Các vị vất vả rồi."
 
-Chu Ngưu Dung chủ động抱拳致歉:
+Chu Ngưu Dung chủ động ôm quyền tạ lỗi:
 
 > "Rất xin lỗi, liên lụy mọi người trong nhiệm vụ lần này gặp tập kích, thiếu chút nữa hại chết hai vị sư đệ."
 
 > "May mắn sư phụ kịp thời đến, bằng không, chúng ta Thanh Hạc Phong lại muốn chịu tổn thất to lớn."
 
-Chu Ngưu Dung đã sớm biết biến cố Thiên Trì据点,忐忑 khó chịu rất lâu.
+Chu Ngưu Dung đã sớm biết biến cố Thiên Trì cứ điểm, thấp thỏm khó chịu rất lâu.
 
 Vong Xuyên cười nói:
 
@@ -160,9 +160,9 @@ Chu Ngưu Dung gật đầu, cười nói:
 
 > "Tốt!"
 
-> "Chúng ta đúng lúc闭关 tu luyện một chút."
+> "Chúng ta đúng lúc bế quan tu luyện một chút."
 
-Trần Thiên Kỳ, Giang Nguy cùng người ở đây抱拳致 ý, cuối cùng đối Vong Xuyên nói:
+Trần Thiên Kỳ, Giang Nguy cùng người ở đây ôm quyền chào, cuối cùng đối Vong Xuyên nói:
 
 > "Tiểu sư đệ, chờ tin tốt của ngươi."
 

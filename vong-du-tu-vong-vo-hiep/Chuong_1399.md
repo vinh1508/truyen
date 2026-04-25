@@ -4,7 +4,7 @@
 
 Hoàn thành đối với lời hứa bốn vị sư huynh.
 
-Vong Xuyên lập tức quay về Trấn Ma Động, tiếp tục dùng Hắc Huyết木傀 tu luyện thuật pháp hỏa linh căn.
+Vong Xuyên lập tức quay về Trấn Ma Động, tiếp tục dùng Hắc Huyết mộc khôi tu luyện thuật pháp hỏa linh căn.
 
 Theo《Lưu Ly Hỏa Tháp》 tu luyện đến 'nhất niệm pháp xuất', thuộc tính hỏa linh căn của hắn đã đến 680 điểm, cách 700 điểm chỉ một bước.
 
@@ -26,7 +26,7 @@ Thuật pháp cấm cố mạnh nhất《Quần Mộc Cấm Cố Thuật》;
 
 Thủ đoạn công kích mạnh nhất《Ngũ Hành Kiếm Mang》;
 
-Pháp bảo phòng hộ có — Tinh Cång Hoàn, 金魂钟;
+Pháp bảo phòng hộ có — Tinh Cương Hoàn, Kim Hồn Chung;
 
 Pháp bảo công kích có — Phong Bạo Trảm Mã Đao, Ngưng Băng Châu;
 
@@ -36,29 +36,29 @@ Pháp bảo ẩn giấu có — Ngũ Đế Tiền, Cửu Tiết Trượng, Tam V
 
 Mười kiện pháp bảo bên người.
 
-Ngoài ra còn có《Chu Tước Phù Bảo》 và《Lưu Ly Hỏa Tháp Phù》, 以及 Phó Nguyệt Kiệt đ尊 Trúc Cảnh đỉnh phong nhân hình木傀;
+Ngoài ra còn có《Chu Tước Phù Bảo》 và《Lưu Ly Hỏa Tháp Phù》, cùng với một tôn nhân hình mộc khôi Trúc Cảnh đỉnh phong Phó Nguyệt Kiệt;
 
 Cùng hai đầu linh thú chiến đấu.
 
 Nói đến linh thú...
 
-Vong Xuyên nhớ rõ, Phi Thăng Tuyết Điều 'Tiểu Bạch' từ khi nhiệm vụ môn phái bắt đầu, liền chìm vào ngủ say, đã ngủ trong灵兽囊 nửa tháng — nguyên nhân là một hơi nuốt quá nhiều yêu quái thịt huyết;
+Vong Xuyên nhớ rõ, Phi Thăng Tuyết Điều 'Tiểu Bạch' từ khi nhiệm vụ môn phái bắt đầu, liền chìm vào ngủ say, đã ngủ trong túi linh thú nửa tháng — nguyên nhân là một hơi nuốt quá nhiều yêu quái thịt huyết;
 
-Hỏa鳞, cũng sớm đột phá đến Trúc Cảnh kỳ sơ kỳ, hiện tại mỗi ngày đều phải ăn một đợt yêu quái Trúc Cảnh thịt huyết, 'lượng cơm' rõ ràng tăng mạnh.
+Hỏa Lân, cũng sớm đột phá đến Trúc Cảnh kỳ sơ kỳ, hiện tại mỗi ngày đều phải ăn một đợt yêu quái Trúc Cảnh thịt huyết, 'lượng cơm' rõ ràng tăng mạnh.
 
 Theo nội táng hiện tại của hắn, ở Trúc Cảnh kỳ hoàn toàn có thể ngang ngược đi.
 
-Một người, một木傀, hai đầu linh thú, đơn độc thành tổ, một điểm vấn đề không có.
+Một người, một mộc khôi, hai đầu linh thú, đơn độc thành tổ, một điểm vấn đề không có.
 
 > "Hỏa Lợi đột phá đến Trúc Cảnh kỳ, có thể đem toàn thân pháp bảo đều đổi thành pháp bảo."
 
-> "Linh thú灵力规模普遍在 5000 điểm以上."
+> "Quy mô linh lực của linh thú phổ biến trên 5000 điểm."
 
 > "Cưỡi vài kiện pháp bảo là không có vấn đề."
 
 > "Đúng lúc trong tay có một số vật liệu yêu quái, vừa luyện chế pháp bảo."
 
-Vong Xuyên chồng chất chiến lực, có chút让 người ta phát chỉ.
+Vong Xuyên chồng chất chiến lực, có chút khiến người ta giận sôi.
 
 ...
 
@@ -92,7 +92,7 @@ Vong Xuyên rốt cuộc không còn là người nhỏ nhất Thanh Hạc Phong
 
 > "Chúc mừng a."
 
-> "忘川 sư đệ."
+> "Vong Xuyên sư đệ."
 
 Trần Thanh Tùng và đám người đều đến.
 
@@ -102,17 +102,17 @@ Có thời gian đều sẽ xuất hiện.
 
 Hơn nữa.
 
-Âm Diên Nhi xuất thân từ động phủ Vong Xuyên, nhìn theo mặt Vong Xuyên, mọi người đều sẽ đến chúc mừng, đồng thời tặng lễ见面礼 cho tiểu sư muội.
+Âm Diên Nhi xuất thân từ động phủ Vong Xuyên, nhìn theo mặt Vong Xuyên, mọi người đều sẽ đến chúc mừng, đồng thời tặng lễ ra mắt cho tiểu sư muội.
 
 > "Tiểu sư muội."
 
-> "Đây là lễ见面礼 của chúng ta."
+> "Đây là lễ ra mắt của chúng ta."
 
 Mọi người hơi căng thẳng chính là tặng phù lục Trúc Cảnh, hơi phú phú một chút liền tặng một kiện thượng phẩm pháp khí, thậm chí cực phẩm pháp khí.
 
-Âm Diên Nhi từng cái致谢.
+Âm Diên Nhi từng người cảm ơn.
 
-Lễ见面礼 của Vong Xuyên tự nhiên muốn quý giá một chút, trực tiếp tặng ra một kiện pháp bảo mới luyện chế — Tử Mẫu Cử Trảo.
+Lễ ra mắt của Vong Xuyên tự nhiên muốn quý giá một chút, trực tiếp tặng ra một kiện pháp bảo mới luyện chế — Tử Mẫu Cử Trảo.
 
 Đây là dùng Yêu Điêu Thú móng vuốt luyện chế công kích pháp bảo.
 
@@ -120,11 +120,11 @@ Bình thường móng vuốt chặt thu lại, như hoàng quả kinh, nhìn vô
 
 Chu Ngưu Dung thấy Vong Xuyên đem một kiện pháp bảo hung ác như vậy tặng cho tiểu sư muội Âm Diên Nhi xinh đẹp, rất là khó hiểu:
 
-> "忘川 sư đệ."
+> "Vong Xuyên sư đệ."
 
 > "Ngươi liền không thể chọn một kiện pháp bảo yêu kiều đẹp đẽ tặng cho tiểu sư muội sao?"
 
-> "Kiện pháp bảo này nhìn, cùng tiểu sư muội một điểm đều không配."
+> "Kiện pháp bảo này nhìn, cùng tiểu sư muội một điểm đều không xứng."
 
 > "..."
 
@@ -136,7 +136,7 @@ Chỉ có Vong Xuyên một bộ mặt vô biên nói:
 
 Mọi vị sư huynh đều trầm mặc, nghĩ đến bản thân...
 
-Trước khi Vong Xuyên tiến Thanh Hạc Phong, Thanh Hạc Phong không có tiền lệ tặng đồ đệ师弟师妹 lễ见面礼, tặng pháp bảo...
+Trước khi Vong Xuyên tiến Thanh Hạc Phong, Thanh Hạc Phong không có tiền lệ tặng sư đệ sư muội lễ ra mắt, tặng pháp bảo...
 
 Rất nhiều người thậm chí rất nhiều năm đều không tiếp xúc đến pháp bảo!
 
@@ -160,33 +160,33 @@ Không hổ là tiểu sư đệ mang ra.
 
 > "Ngươi thích là được."
 
-Lôi Thanh Hác hoàn thành thu đồ đệ nghi lễ, để Âm Diên Nhi tự hành khai thác一座 động phủ mới.
+Lôi Thanh Hác hoàn thành thu đồ đệ nghi lễ, để Âm Diên Nhi tự hành khai thác một tòa động phủ mới.
 
-Âm Diên Nhi ở trong Trấn Ma Động百里之外, khai thác一座 động phủ hoàn toàn mới.
+Âm Diên Nhi ở trong Trấn Ma Động ngoài trăm dặm, khai thác một tòa động phủ hoàn toàn mới.
 
-Bên ngoài động phủ có diện tích lớn đất bằng, có thể khai hoang灵田.
+Bên ngoài động phủ có diện tích lớn đất bằng, có thể khai hoang linh điền.
 
 Không cần nghi ngờ.
 
-Đây là muốn đem tương lai động phủ và đệ tử ngoại môn, cùng Vong Xuyên Trấn Ma Động, Thê Yun洞等地 liên thành một mảng.
+Đây là muốn đem tương lai động phủ và đệ tử ngoại môn, cùng Vong Xuyên Trấn Ma Động, Thê Vân Động các nơi liên thành một mảng.
 
-Mọi người见怪不怪.
+Mọi người thấy nhiều thành quen.
 
-Dù sao rất nhiều người đều nhận định Âm Diên Nhi là người nhà thế lực đứng sau Vong Xuyên an bài đến家仆.
+Dù sao rất nhiều người đều nhận định Âm Diên Nhi là người nhà thế lực đứng sau Vong Xuyên an bài đến làm gia bộc.
 
 Bên này động phủ khai thác xong.
 
-Quách Gia, Nguyên Tâm, Lý Thiên Môn, Bạch Kinh Đường, Diệp Y Sam, Triệu Hắc Ngưu, Lý Thanh,等 mười vị tu sĩ chính thức bước vào Luyện Khí kỳ thập tam tầng, nhiều nhất ba tháng, liền có thể công kích Luyện Khí kỳ đại viên mãn và Trúc Cảnh.
+Quách Gia, Nguyên Tâm, Lý Thiên Môn, Bạch Kinh Đường, Diệp Y Sam, Triệu Hắc Ngưu, Lý Thanh, đám mười vị tu sĩ chính thức bước vào Luyện Khí kỳ thập tam tầng, nhiều nhất ba tháng, liền có thể công kích Luyện Khí kỳ đại viên mãn và Trúc Cảnh.
 
 > "Tiểu sư đệ."
 
 Chu Ngưu Dung ngày hôm sau liền đưa đến một nhóm linh thạch, giải thích:
 
-> "Mỗi đào tạo ra một vị tu sĩ Trúc Cảnh, không những có môn phái thưởng ba vạn linh thạch, đồng thời sẽ được灵峰 thưởng một vạn linh thạch!"
+> "Mỗi đào tạo ra một vị tu sĩ Trúc Cảnh, không những có môn phái thưởng ba vạn linh thạch, đồng thời sẽ được linh phong thưởng một vạn linh thạch!"
 
 > "Nơi đây tổng cộng là tám vạn linh thạch."
 
-> "Ngoài ra bốn vạn枚 linh thạch, là đến từ Thương Lam Phong Thương Lam Chân Nhân."
+> "Ngoài ra bốn vạn viên linh thạch, là đến từ Thương Lam Phong Thương Lam Chân Nhân."
 
 Vong Xuyên mắt sáng:
 
@@ -198,11 +198,11 @@ Thương Lam Chân Nhân, còn khá cầu phát.
 
 Chu Ngưu Dung che miệng cười:
 
-> "Tiểu sư muội Trúc Cảnh thành công, chúng ta Thanh Hạc Phong tăng thêm một vị tu sĩ Trúc Cảnh, về sau lại thêm một vị Trúc Cảnh chiến lực, lại thêm một người thi hành nhiệm vụ môn phái, áp lực của ta cũng có thể đại幅 giảm bớt."
+> "Tiểu sư muội Trúc Cảnh thành công, chúng ta Thanh Hạc Phong tăng thêm một vị tu sĩ Trúc Cảnh, về sau lại thêm một vị Trúc Cảnh chiến lực, lại thêm một người thi hành nhiệm vụ môn phái, áp lực của ta cũng có thể giảm mạnh."
 
 Vong Xuyên lộ nụ cười.
 
-Lúc này, Vong Xuyên đã hoàn toàn không giống tu sĩ Trúc Cảnh sơ kỳ, cho người cảm giác tương đương trưởng thành tự tin, 并且自带 cường đại từ资深 Trúc Cảnh tu sĩ áp bức cảm giác.
+Lúc này, Vong Xuyên đã hoàn toàn không giống tu sĩ Trúc Cảnh sơ kỳ, cho người cảm giác tương đương trưởng thành tự tin, đồng thời tự mang cảm giác áp bức cường đại của tu sĩ Trúc Cảnh thâm niên.
 
 Chu Ngưu Dung lên xuống đánh giá Vong Xuyên, nói:
 
@@ -216,7 +216,7 @@ Cơ hội?
 
 Chu Ngưu Dung đầy mắt nghi hoặc.
 
-Đúng lúc này,灵兽囊 run run.
+Đúng lúc này, túi linh thú run run.
 
 Phi Thăng Tuyết Điều một đạo bay ra.
 
